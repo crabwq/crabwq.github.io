@@ -35,6 +35,7 @@
     font-size: 12pt;
 	text-align:left;
 	text-indent: 2em;
+	vertical-align: top;
 }
  .STYLE12 {
     font-family: "Palatino Linotype","Book Antiqua",Palatino,serif;
@@ -76,7 +77,23 @@
 	text-align:justify; 
 	text-justify:inter-ideograph;
 }
-
+ .STYLE16 {
+    font-family: "Palatino Linotype","Book Antiqua",Palatino,serif;
+    font-size: 12pt;
+	text-align:left;
+	text-indent: 2em;
+	text-align:justify; 
+	text-justify:inter-ideograph;
+	vertical-align: top;
+}
+ .STYLE17 {
+    font-family: "Palatino Linotype","Book Antiqua",Palatino,serif;
+    font-size: 12pt;
+	text-align:left;
+	text-indent: 0em;
+	text-align:justify; 
+	text-justify:inter-ideograph;
+}
 
 td{
 	text-align:center;
