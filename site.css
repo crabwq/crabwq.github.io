@@ -3,11 +3,17 @@
  a img { border: 0; }
  a { text-decoration: none; }
  body { font-family: 'Quattrocento', Verdana, Geneva, sans-serif; font-size: 14px; background:#fff; /*color: #3e3e3e;*/ }
- .container { margin: 0 auto; width: 900px; }
- #header-wrap, #banner-wrap, #nav-wrap, #main-wrap, #footer-wrap { width:100%; min-width:900px; background: #fff;}
+  .containerall { margin: 0 auto; width: 60%; }
+ .container { margin: 0 auto; width: 100%; }
+ #header-wrap, #banner-wrap, #nav-wrap, #main-wrap, #footer-wrap { width:100%; min-width:100%; background: #fff;}
  #header-wrap{}
  #nav-wrap, #footer-wrap {background: #333; } 
  h2 a {color: #09C;}
+ .TabList {
+	 font-family: "Palatino Linotype","Book Antiqua",Palatino,serif;
+    font-size: 12pt;
+	text-align:center;
+ }
  .STYLE7 {
     font-family: "Palatino Linotype","Book Antiqua",Palatino,serif;
     font-size: 22pt;
@@ -51,7 +57,7 @@
     font-family: "Palatino Linotype","Book Antiqua",Palatino,serif;
     font-size: 12pt;
 	text-align:left;
-	width:880px;
+	width:100%;
 	padding-top:2px;
 	padding-bottom:2px;
 	text-align:justify; 
