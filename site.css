@@ -3,7 +3,7 @@
  a img { border: 0; }
  a { text-decoration: none; }
  body { font-family: 'Quattrocento', Verdana, Geneva, sans-serif; font-size: 14px; background:#fff; /*color: #3e3e3e;*/ }
-  .containerall { margin: 0 auto; width: 60%; }
+  .containerall { margin: 0 auto; width: 1000px; }
  .container { margin: 0 auto; width: 100%; }
  #header-wrap, #banner-wrap, #nav-wrap, #main-wrap, #footer-wrap { width:100%; min-width:100%; background: #fff;}
  #header-wrap{}
