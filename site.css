@@ -78,6 +78,7 @@
     font-size: 12pt;
 	text-align:left;
 	width:100%;
+	padding-left: 4em;
 	text-indent: 4em;
 	padding-top:2px;
 	padding-bottom:2px;
@@ -88,7 +89,6 @@
     font-family: "Palatino Linotype","Book Antiqua",Palatino,serif;
     font-size: 12pt;
 	text-align:left;
-	padding-left: 4em;
 	text-indent: 4em;
 	padding-top:2px;
 	padding-bottom:0px;  
