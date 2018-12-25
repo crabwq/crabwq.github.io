@@ -88,9 +88,10 @@
     font-family: "Palatino Linotype","Book Antiqua",Palatino,serif;
     font-size: 12pt;
 	text-align:left;
+	padding-left: 4em;
 	text-indent: 4em;
 	padding-top:2px;
-	padding-bottom:0px;
+	padding-bottom:0px;  
 	text-align:justify; 
 	text-justify:inter-ideograph;
 }
