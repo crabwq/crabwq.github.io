@@ -79,10 +79,10 @@
 	text-align:left;
 	width:100%;
 	padding-left: 4em;
-	text-indent: 4em;
+	text-indent: -4em;
 	padding-top:2px;
 	padding-bottom:2px;
-	text-align:left; 
+	text-align:justify; 
 	text-justify:inter-ideograph;
 }
  .STYLE15 {
