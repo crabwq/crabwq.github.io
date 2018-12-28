@@ -46,13 +46,11 @@
  .STYLE11-2 {
     font-family: "Palatino Linotype","Book Antiqua",Palatino,serif;
     font-size: 12pt;
-	text-align:left; 
-	width: 100%;  
-	padding-left: 2em;
+	text-align:left;
+	text-indent: 2em;
 	padding-top:0px;
-	padding-bottom:0px;  
-	text-indent: 2em;  
-	text-align: justify; 
+	padding-bottom:0px;
+	text-align:justify; 
 	text-justify:inter-ideograph;
 }
  .STYLE12 {
