@@ -134,6 +134,8 @@
 	text-indent: 4em;
 	padding-top:2px;  
 	padding-left: 0px;
+	text-align:justify; 
+	text-justify:inter-ideograph;
 }
  .STYLE16 {
     font-family: "Palatino Linotype","Book Antiqua",Palatino,serif;
