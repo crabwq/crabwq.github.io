@@ -131,10 +131,9 @@
     font-family: "Palatino Linotype","Book Antiqua",Palatino,serif;
     font-size: 12pt;
 	text-align:left;
-	width:30%;
+	width:100%;
 	text-indent: 4em;
-	padding-top:2px;
-	padding-bottom:0px;  
+	padding-top:2px; 
 	text-align:justify; 
 	text-justify:inter-ideograph;
 }
