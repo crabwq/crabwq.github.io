@@ -154,6 +154,12 @@
 	text-align:justify; 
 	text-justify:inter-ideograph;
 }
+.STYLE18 {
+    font-family: "Palatino Linotype","Book Antiqua",Palatino,serif;
+    font-size: 11pt;
+	text-align:center;
+	text-justify:inter-ideograph;
+}
 
 td{
 	text-align:center;
