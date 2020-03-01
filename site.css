@@ -76,11 +76,11 @@
  .STYLE14 {
     font-family: "Palatino Linotype","Book Antiqua",Palatino,serif;
     font-size: 12pt;
-	text-align:left;
-	text-indent: 2em;
-	padding-top:0px;
-	padding-bottom:0px;
-	text-align:justify; 
+    text-align:left;
+    text-indent: 2em;
+    padding-top:0px;
+    padding-bottom:0px;
+    text-align:justify; 
     text-justify:inter-ideograph;
     margin-left: 2em;
 }
@@ -108,15 +108,15 @@
 	text-justify:inter-ideograph;
 }
 .STYLE14-5{
-	font-family: "Palatino Linotype","Book Antiqua",Palatino,serif;
+    font-family: "Palatino Linotype","Book Antiqua",Palatino,serif;
     font-size: 12pt;
     text-align:left;
     text-indent: 2em;
-	width:100%;
-	padding-left: 0em;   
-	padding-top:2px;
-	padding-bottom:2px;
-	text-align:justify; 
+    width:100%;
+    padding-left: 0em;   
+    padding-top:2px;
+    padding-bottom:2px;
+    text-align:justify; 
     text-justify:inter-ideograph;
 }
  .STYLE15 {
