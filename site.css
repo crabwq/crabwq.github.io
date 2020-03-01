@@ -77,11 +77,12 @@
     font-family: "Palatino Linotype","Book Antiqua",Palatino,serif;
     font-size: 12pt;
 	text-align:left;
-	text-indent: 4em;
+	text-indent: 2em;
 	padding-top:0px;
 	padding-bottom:0px;
 	text-align:justify; 
-	text-justify:inter-ideograph;
+    text-justify:inter-ideograph;
+    margin-left: 2em;
 }
 .STYLE14-3{
 	font-family: "Palatino Linotype","Book Antiqua",Palatino,serif;
@@ -109,13 +110,14 @@
 .STYLE14-5{
 	font-family: "Palatino Linotype","Book Antiqua",Palatino,serif;
     font-size: 12pt;
-	text-align:left;
+    text-align:left;
+    text-indent: 2em;
 	width:100%;
-	padding-left: 2em;   
+	padding-left: 0em;   
 	padding-top:2px;
 	padding-bottom:2px;
 	text-align:justify; 
-	text-justify:inter-ideograph;
+    text-justify:inter-ideograph;
 }
  .STYLE15 {
     font-family: "Palatino Linotype","Book Antiqua",Palatino,serif;
