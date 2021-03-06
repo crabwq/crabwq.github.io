@@ -7,7 +7,7 @@
  .container { margin: 0 auto; width: 100%; }
  #header-wrap, #banner-wrap, #nav-wrap, #main-wrap, #footer-wrap { width:100%; min-width:100%; background: #fff;}
  #header-wrap{}
- #nav-wrap, #footer-wrap {background: #333; } 
+ #nav-wrap, #footer-wrap {background: #333; }
  h2 a {color: #09C;}
  .TabList {
 	 font-family: "Palatino Linotype","Book Antiqua",Palatino,serif;
@@ -29,7 +29,7 @@
  .STYLE9 {
     font-family: "Palatino Linotype","Book Antiqua",Palatino,serif;
     font-size: 12pt;
-	text-align:center;	
+	text-align:center;
 }
  .STYLE10 {
     font-family: "Palatino Linotype","Book Antiqua",Palatino,serif;
@@ -50,7 +50,7 @@
 	text-indent: 4em;
 	padding-top:0px;
 	padding-bottom:0px;
-	text-align:justify; 
+	text-align:justify;
 	text-justify:inter-ideograph;
 }
  .STYLE12 {
@@ -60,7 +60,7 @@
 	padding-left:2em;
 	padding-top:2px;
 	padding-bottom:2px;
-	text-align:justify; 
+	text-align:justify;
 	text-justify:inter-ideograph;
 }
  .STYLE13 {
@@ -70,7 +70,7 @@
 	width:100%;
 	padding-top:2px;
 	padding-bottom:2px;
-	text-align:justify; 
+	text-align:justify;
 	text-justify:inter-ideograph;
 }
  .STYLE14 {
@@ -80,7 +80,7 @@
     text-indent: 2em;
     padding-top:0px;
     padding-bottom:0px;
-    text-align:justify; 
+    text-align:justify;
     text-justify:inter-ideograph;
     margin-left: 2em;
 }
@@ -89,11 +89,11 @@
     font-size: 12pt;
 	text-align:left;
 	width:100%;
-	padding-left: 2em;   
-	padding-right: 10em; 
+	padding-left: 2em;
+	padding-right: 10em;
 	padding-top:2px;
 	padding-bottom:2px;
-	text-align:justify; 
+	text-align:justify;
 	text-justify:inter-ideograph;
 }
 .STYLE14-4{
@@ -101,10 +101,10 @@
     font-size: 12pt;
 	text-align:left;
 	width:100%;
-	padding-left: 0em;   
+	padding-left: 0em;
 	padding-top:2px;
 	padding-bottom:2px;
-	text-align:justify; 
+	text-align:justify;
 	text-justify:inter-ideograph;
 }
 .STYLE14-5{
@@ -113,10 +113,10 @@
     text-align:left;
     text-indent: 2em;
     width:100%;
-    padding-left: 0em;   
+    padding-left: 0em;
     padding-top:2px;
     padding-bottom:2px;
-    text-align:justify; 
+    text-align:justify;
     text-justify:inter-ideograph;
 }
  .STYLE15 {
@@ -125,8 +125,8 @@
 	text-align:left;
 	text-indent: 4em;
 	padding-top:2px;
-	padding-bottom:0px;  
-	text-align:justify; 
+	padding-bottom:0px;
+	text-align:justify;
 	text-justify:inter-ideograph;
 }
 .STYLE15-1 {
@@ -134,9 +134,9 @@
     font-size: 12pt;
 	text-align:left;
 	text-indent: 4em;
-	padding-top:2px;  
+	padding-top:2px;
 	padding-left: 0px;
-	text-align:justify; 
+	text-align:justify;
 	text-justify:inter-ideograph;
 }
  .STYLE16 {
@@ -144,7 +144,7 @@
     font-size: 12pt;
 	text-align:left;
 	text-indent: 2em;
-	text-align:justify; 
+	text-align:justify;
 	text-justify:inter-ideograph;
 	vertical-align: top;
 }
@@ -153,7 +153,7 @@
     font-size: 12pt;
 	text-align:left;
 	text-indent: 0em;
-	text-align:justify; 
+	text-align:justify;
 	text-justify:inter-ideograph;
 }
 .STYLE18 {
@@ -161,6 +161,7 @@
     font-size: 11pt;
 	text-align:center;
 	text-justify:inter-ideograph;
+	white-space:nowrap;
 }
 
 td{
@@ -213,11 +214,11 @@ td{
  #bannerright div.paragraph { color: #656565; font-size: 14px; padding: 20px 0px; line-height: 140%; }
  #bannerright p { color: #656565; font-size: 14px; padding: 20px 0px; line-height: 140%; }
  #bannerright .wsite-button { margin: 0px; }
- 
+
  #main-wrap .container { padding:30px 0px 50px; min-height:500px; }
  #main-wrap .paragraph li { list-style:circle !important; }
  #main-wrap .container form .wsite-button { margin-top:20px; }
- 
+
  #footer-wrap { text-align:right; color:#666; border-top:2px solid #0CF; background:#333; }
  #footer-wrap .container { padding:30px 0px 50px; }
  #footer-wrap h2 { color:#fff; font-size:19px; }
@@ -228,7 +229,7 @@ td{
  #footer-wrap .wsite-form-container { text-align:left; }
  .wsite-form-label { display: inline-block; }
  #footer-wrap .wsite-form-container { margin-top:0px !important; }
- 
+
 div.paragraph ul, div.paragraph ol { padding-left: 2.3em !important; margin: 5px 0 !important; overflow:hidden; }
 div.paragraph li { padding-left: 5px !important; margin: 3px 0 0 !important; }
 div.paragraph ul, div.paragraph ul li { list-style: disc outside !important; }
