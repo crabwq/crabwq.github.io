@@ -256,3 +256,10 @@ div.paragraph ol, div.paragraph ol li { list-style: decimal outside !important; 
 	content: '*';
 	font-weight: normal!important;
 }
+
+.code-link {
+	color: #FF0000
+}
+.code-link::after {
+	content: '[Code]';
+}
