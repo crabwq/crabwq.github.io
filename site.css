@@ -263,3 +263,24 @@ div.paragraph ol, div.paragraph ol li { list-style: decimal outside !important; 
 .code-link::after {
 	content: '[Code]';
 }
+
+.dataset-link {
+	color: blue;
+}
+
+.dataset-link::before {
+	content: '[Dataset';
+}
+
+.dataset-link::after {
+	content: ']';
+}
+
+.dataset-link-sub {
+	color: red;
+	font-size: small;
+}
+
+.dataset-link-sub::before {
+	content: "Link";
+}
