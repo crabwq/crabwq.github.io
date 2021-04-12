@@ -247,23 +247,54 @@ div.paragraph ol, div.paragraph ol li { list-style: decimal outside !important; 
   font-weight: 700;
   src: local('Quattrocento Bold'), local('Quattrocento-Bold'), url(http://themes.googleusercontent.com/static/fonts/quattrocento/v4/Uvi-cRwyvqFpl9j3oT2mqhAPw1J91axKNXP_-QX9CC8.woff) format('woff');
 }
+/*************************************************/
+.author-list::after {
+	content: ',';
+}
+/*************************************************/
+.paper-title::before {
+	content: '“';
+}
 
-.star { }
+.paper-title::after {
+	content: ',”';
+}
+/*************************************************/
+.paper-pub {
+	font-style: italic;
+}
 
+.paper-pub::after {
+	content: ',';
+}
+/*************************************************/
+.paper-ext-info::after {
+	content: '.';
+}
+/*************************************************/
 .star::after {
 	vertical-align: text-top;
 	font-size: smaller;
 	content: '*';
 	font-weight: normal!important;
 }
-
+/*************************************************/
 .code-link {
 	color: #FF0000
 }
+
 .code-link::after {
 	content: '[Code]';
 }
 
+.paper-link {
+	color: blue;
+}
+
+.paper-link::after {
+	content: '[PDF]';
+}
+/*************************************************/
 .dataset-link {
 	color: blue;
 }
@@ -284,3 +315,4 @@ div.paragraph ol, div.paragraph ol li { list-style: decimal outside !important; 
 .dataset-link-sub::before {
 	content: "Link";
 }
+/*************************************************/
