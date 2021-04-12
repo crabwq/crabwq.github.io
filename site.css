@@ -297,6 +297,7 @@ div.paragraph ol, div.paragraph ol li { list-style: decimal outside !important; 
 /*************************************************/
 .dataset-link {
 	color: blue;
+	counter-reset: dataset-link-counter;
 }
 
 .dataset-link::before {
@@ -307,12 +308,10 @@ div.paragraph ol, div.paragraph ol li { list-style: decimal outside !important; 
 	content: ']';
 }
 
-.dataset-link-sub {
+.dataset-link-sub::after {
 	color: red;
 	font-size: small;
-}
-
-.dataset-link-sub::before {
-	content: "Link";
+	counter-increment: dataset-link-counter;
+	content: "Link" counter(dataset-link-counter);
 }
 /*************************************************/
