@@ -10,68 +10,68 @@
  #nav-wrap, #footer-wrap {background: #333; }
  h2 a {color: #09C;}
  .TabList {
-	 font-family: "Palatino Linotype","Book Antiqua",Palatino,serif;
+     font-family: "Palatino Linotype","Book Antiqua",Palatino,serif;
     font-size: 12pt;
-	text-align:center;
+    text-align:center;
  }
  .STYLE7 {
     font-family: "Palatino Linotype","Book Antiqua",Palatino,serif;
     font-size: 22pt;
-	font-weight: bold;
-	text-align:center;
+    font-weight: bold;
+    text-align:center;
 }
  .STYLE8 {
     font-family: "楷体","Book Antiqua",Palatino,serif;
     font-size: 22pt;
-	font-weight: bold;
-	text-align:center;
+    font-weight: bold;
+    text-align:center;
 }
  .STYLE9 {
     font-family: "Palatino Linotype","Book Antiqua",Palatino,serif;
     font-size: 12pt;
-	text-align:center;
+    text-align:center;
 }
  .STYLE10 {
     font-family: "Palatino Linotype","Book Antiqua",Palatino,serif;
     font-size: 14pt;
-	font-weight: bold;
+    font-weight: bold;
 }
  .STYLE11 {
     font-family: "Palatino Linotype","Book Antiqua",Palatino,serif;
     font-size: 12pt;
-	text-align:left;
-	text-indent: 2em;
-	vertical-align: top;
+    text-align:left;
+    text-indent: 2em;
+    vertical-align: top;
 }
  .STYLE11-2 {
     font-family: "Palatino Linotype","Book Antiqua",Palatino,serif;
     font-size: 12pt;
-	text-align:left;
-	text-indent: 4em;
-	padding-top:0px;
-	padding-bottom:0px;
-	text-align:justify;
-	text-justify:inter-ideograph;
+    text-align:left;
+    text-indent: 4em;
+    padding-top:0px;
+    padding-bottom:0px;
+    text-align:justify;
+    text-justify:inter-ideograph;
 }
  .STYLE12 {
     font-family: "Palatino Linotype","Book Antiqua",Palatino,serif;
     font-size: 12pt;
-	text-align:left;
-	padding-left:2em;
-	padding-top:2px;
-	padding-bottom:2px;
-	text-align:justify;
-	text-justify:inter-ideograph;
+    text-align:left;
+    padding-left:2em;
+    padding-top:2px;
+    padding-bottom:2px;
+    text-align:justify;
+    text-justify:inter-ideograph;
 }
  .STYLE13 {
     font-family: "Palatino Linotype","Book Antiqua",Palatino,serif;
     font-size: 12pt;
-	text-align:left;
-	width:100%;
-	padding-top:2px;
-	padding-bottom:2px;
-	text-align:justify;
-	text-justify:inter-ideograph;
+    text-align:left;
+    width:100%;
+    padding-top:2px;
+    padding-bottom:2px;
+    text-align:justify;
+    text-justify:inter-ideograph;
 }
  .STYLE14 {
     font-family: "Palatino Linotype","Book Antiqua",Palatino,serif;
@@ -85,27 +85,27 @@
     margin-left: 2em;
 }
 .STYLE14-3{
-	font-family: "Palatino Linotype","Book Antiqua",Palatino,serif;
+    font-family: "Palatino Linotype","Book Antiqua",Palatino,serif;
     font-size: 12pt;
-	text-align:left;
-	width:100%;
-	padding-left: 2em;
-	padding-right: 10em;
-	padding-top:2px;
-	padding-bottom:2px;
-	text-align:justify;
-	text-justify:inter-ideograph;
+    text-align:left;
+    width:100%;
+    padding-left: 2em;
+    padding-right: 10em;
+    padding-top:2px;
+    padding-bottom:2px;
+    text-align:justify;
+    text-justify:inter-ideograph;
 }
 .STYLE14-4{
-	font-family: "Palatino Linotype","Book Antiqua",Palatino,serif;
+    font-family: "Palatino Linotype","Book Antiqua",Palatino,serif;
     font-size: 12pt;
-	text-align:left;
-	width:100%;
-	padding-left: 0em;
-	padding-top:2px;
-	padding-bottom:2px;
-	text-align:justify;
-	text-justify:inter-ideograph;
+    text-align:left;
+    width:100%;
+    padding-left: 0em;
+    padding-top:2px;
+    padding-bottom:2px;
+    text-align:justify;
+    text-justify:inter-ideograph;
 }
 .STYLE14-5{
     font-family: "Palatino Linotype","Book Antiqua",Palatino,serif;
@@ -122,51 +122,51 @@
  .STYLE15 {
     font-family: "Palatino Linotype","Book Antiqua",Palatino,serif;
     font-size: 12pt;
-	text-align:left;
-	text-indent: 4em;
-	padding-top:2px;
-	padding-bottom:0px;
-	text-align:justify;
-	text-justify:inter-ideograph;
+    text-align:left;
+    text-indent: 4em;
+    padding-top:2px;
+    padding-bottom:0px;
+    text-align:justify;
+    text-justify:inter-ideograph;
 }
 .STYLE15-1 {
     font-family: "Palatino Linotype","Book Antiqua",Palatino,serif;
     font-size: 12pt;
-	text-align:left;
-	text-indent: 4em;
-	padding-top:2px;
-	padding-left: 0px;
-	text-align:justify;
-	text-justify:inter-ideograph;
+    text-align:left;
+    text-indent: 4em;
+    padding-top:2px;
+    padding-left: 0px;
+    text-align:justify;
+    text-justify:inter-ideograph;
 }
  .STYLE16 {
     font-family: "Palatino Linotype","Book Antiqua",Palatino,serif;
     font-size: 12pt;
-	text-align:left;
-	text-indent: 2em;
-	text-align:justify;
-	text-justify:inter-ideograph;
-	vertical-align: top;
+    text-align:left;
+    text-indent: 2em;
+    text-align:justify;
+    text-justify:inter-ideograph;
+    vertical-align: top;
 }
  .STYLE17 {
     font-family: "Palatino Linotype","Book Antiqua",Palatino,serif;
     font-size: 12pt;
-	text-align:left;
-	text-indent: 0em;
-	text-align:justify;
-	text-justify:inter-ideograph;
+    text-align:left;
+    text-indent: 0em;
+    text-align:justify;
+    text-justify:inter-ideograph;
 }
 .STYLE18 {
     font-family: "Palatino Linotype","Book Antiqua",Palatino,serif;
     font-size: 11pt;
-	text-align:center;
-	text-justify:inter-ideograph;
-	white-space:nowrap;
+    text-align:center;
+    text-justify:inter-ideograph;
+    white-space:nowrap;
 }
 
 td{
-	text-align:center;
-	}
+    text-align:center;
+    }
  h2 a:hover{color: #0CF; border-bottom: 1px solid #0CF;}
  div.paragraph a { color: #09C; text-decoration: none; }
  div.paragraph a:hover { color: #0CF; border-bottom: 1px solid #0CF; }
@@ -249,69 +249,88 @@ div.paragraph ol, div.paragraph ol li { list-style: decimal outside !important; 
 }
 /*************************************************/
 .author-list::after {
-	content: ',';
+    content: ',';
 }
 /*************************************************/
 .paper-title::before {
-	content: '“';
+    content: '“';
 }
 
 .paper-title::after {
-	content: ',”';
+    content: ',”';
 }
 /*************************************************/
 .paper-pub {
-	font-style: italic;
+    font-style: italic;
 }
 
 .paper-pub::after {
-	content: ',';
+    content: ',';
 }
 /*************************************************/
 .paper-ext-info::after {
-	content: '.';
+    content: '.';
 }
 /*************************************************/
 .star::after {
-	vertical-align: text-top;
-	font-size: smaller;
-	content: '*';
-	font-weight: normal!important;
+    vertical-align: text-top;
+    font-size: smaller;
+    content: '*';
+    font-weight: normal!important;
 }
 /*************************************************/
 .code-link {
-	color: #FF0000
+    color: #FF0000
 }
 
 .code-link::after {
-	content: '[Code]';
+    content: '[Code]';
 }
 
 .paper-link {
-	color: blue;
+    color: blue;
 }
 
 .paper-link::after {
-	content: '[PDF]';
+    content: '[PDF]';
 }
 /*************************************************/
 .dataset-link {
-	color: blue;
-	counter-reset: dataset-link-counter;
+    color: blue;
+    counter-reset: dataset-link-counter;
 }
 
 .dataset-link::before {
-	content: '[Dataset';
+    content: '[Dataset';
 }
 
 .dataset-link::after {
-	content: ']';
+    content: ']';
 }
 
 .dataset-link-sub::after {
-	color: red;
-	font-size: small;
-	counter-increment: dataset-link-counter;
-	content: "Link" counter(dataset-link-counter);
+    color: red;
+    font-size: small;
+    counter-increment: dataset-link-counter;
+    content: "Link" counter(dataset-link-counter);
 }
 /*************************************************/
+.font-pl {
+    font-family: "Palatino Linotype","Book Antiqua",Palatino,serif;
+    font-size: 12pt;
+}
+/*************************************************/
+.list-head {
+    text-indent: 4em;
+    vertical-align: top;
+    text-align: left;
+}
+
+.list-head::before {
+    content: '• ';
+}
+
+/*************************************************/
+.text-left {
+    text-align: left!important;
+}
