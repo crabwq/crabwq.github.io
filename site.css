@@ -266,6 +266,7 @@ div.paragraph ol, div.paragraph ol li { list-style: decimal outside !important; 
 
 .paper-pub::after {
     content: ',';
+    color: black !important;
 }
 /*************************************************/
 .paper-ext-info::after {
@@ -285,6 +286,14 @@ div.paragraph ol, div.paragraph ol li { list-style: decimal outside !important; 
 
 .code-link::after {
     content: '[Code]';
+}
+
+.proj-link {
+    color: #FF0000
+}
+
+.proj-link::after {
+    content: '[Project]';
 }
 
 .paper-link {
@@ -333,4 +342,8 @@ div.paragraph ol, div.paragraph ol li { list-style: decimal outside !important; 
 /*************************************************/
 .text-left {
     text-align: left!important;
+}
+/*************************************************/
+.color-red {
+    color: red;
 }
