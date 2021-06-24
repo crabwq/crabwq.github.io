@@ -333,6 +333,7 @@ div.paragraph ol, div.paragraph ol li { list-style: decimal outside !important; 
     text-indent: 4em;
     vertical-align: top;
     text-align: left;
+    padding: 0;
 }
 
 .list-head::before {
@@ -343,7 +344,21 @@ div.paragraph ol, div.paragraph ol li { list-style: decimal outside !important; 
 .text-left {
     text-align: left!important;
 }
+.text-indent-2 {
+    text-indent: 2em!important;
+}
+.text-indent-4 {
+ text-indent: 4em!important;
+}
 /*************************************************/
 .color-red {
     color: red;
+}
+/*************************************************/
+h2 {
+    text-align: left;
+    padding-top: 20px;
+    font-family: "Palatino Linotype","Book Antiqua",Palatino,serif;
+    font-size: 14pt;
+    font-weight: bold;
 }
