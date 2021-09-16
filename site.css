@@ -180,7 +180,6 @@ div#content {min-height:400px;}
 #nav-wrap { padding:5px 0px 15px; border-bottom:2px solid #0CF;}
 #nav-wrap .container { clear: both; overflow: hidden; position: relative; }
 #nav-wrap .container ul { list-style: none; }
-#nav-wrap .container ul li { list-style: none; float: left; background:url(nav-separator.png) no-repeat right center; padding-right:6px; }
 #nav-wrap .container ul > li:first-child a, #nav-wrap .container ul span:first-child li a { padding-left:0px; }
 #nav-wrap .container ul > li:last-child, #nav-wrap .container ul span:last-child li { background:none; padding:0px; }
 #nav-wrap .container ul li a { display: block; padding: 5px 20px; border: 0; outline: 0; list-style-type: none; }
@@ -188,24 +187,14 @@ div#content {min-height:400px;}
 #wsite-menus .wsite-menu li a { border: 0; background:none; }
 #wsite-menus .wsite-menu li:first-child a:hover { border-radius:5px 5px 0 0; }
 #wsite-menus .wsite-menu li:last-child a:hover { border-radius:0 0 5px 5px; }
-#wsite-menus .wsite-menu { border:1px solid #aaa; border-radius:5px; background:url(banner-wrapper.png); }
-#banner-wrap { background:url(banner-wrapper.png); border-top:1px solid #333; }
 .tall-header-page #banner { position:relative; }
-.tall-header-page .corner-left { background:url(banner-tall-bg-left.png) no-repeat top left; position:absolute; top:0px; left:0px; width:37px; height:348px; }
-.tall-header-page .corner-right { background:url(banner-tall-bg-right.png) no-repeat top left; position:absolute; top:0px; right:0px; width:37px; height:348px; }
-.tall-header-page .wsite-header { width: 980px; height: 348px; background: url(banner-tall.jpg) no-repeat 0px 0px; }
 .short-header-page #banner { position:relative; }
-.short-header-page .corner-left { background:url(banner-short-bg-left.png) no-repeat top left; position:absolute; top:0px; left:0px; width:9px; height:178px; }
-.short-header-page .corner-right { backgound:url(banner-short-bg-right.png) no-repeat top left; position:absolute; top:0px; right:0px; width:10px; height:178px; }
-.short-header-page .wsite-header { width: 980px; height: 178px; background: url(banner-short.jpg) no-repeat; }
 .no-header-page #banner-wrap { height:0px; border-bottom:none; }
 .no-header-page .wsite-header { display:none; }
 .landing-page #banner { background: none; padding: 65px 0px 0px; min-height:390px; }
 #bannerleft { float: left; width: 325px; }
-.landing-page .wsite-header { width: 325px; height: 324px; background: url(banner-landing.jpg) no-repeat; border-radius:180px; -webkit-box-shadow: 0px 0px 2px 2px rgba(204, 204, 204, 0.2); box-shadow: 0px 0px 2px 2px rgba(204, 204, 204, 0.2); }
 .landing-banner-outer { display: table; #position: relative; overflow: hidden; }
 .landing-banner-mid { #position: absolute; #top: 50%; display: table-cell; vertical-align: middle; }
-.landing-banner-inner { #position: relative; #top: -50%; }
 #bannerright { float: right; padding: 0 80px 0 45px; width: 510px; height: 324px; }
 #bannerright h2 { color: #484747; font-size: 36px; font-weight:normal; margin: 0px; padding: 0px; line-height: 36px; }
 #bannerright div.paragraph { color: #656565; font-size: 14px; padding: 20px 0px; line-height: 140%; }
@@ -245,10 +234,24 @@ div.paragraph ol, div.paragraph ol li { list-style: decimal outside !important; 
     src: local('Quattrocento Bold'), local('Quattrocento-Bold'), url(http://themes.googleusercontent.com/static/fonts/quattrocento/v4/Uvi-cRwyvqFpl9j3oT2mqhAPw1J91axKNXP_-QX9CC8.woff) format('woff');
 }
 /*************************************************/
+/*************************************************/
+/*************************************************/
+/*************************************************/
+/*************************************************/
+/*************************************************/
+/*************************************************/
+/*************************************************/
+/*************************************************/
+.author-list {
+    margin-right: 6px;
+}
 .author-list::after {
     content: ',';
 }
 /*************************************************/
+.paper-title {
+    margin-right: 6px;
+}
 .paper-title::before {
     content: '“';
 }
@@ -259,6 +262,7 @@ div.paragraph ol, div.paragraph ol li { list-style: decimal outside !important; 
 /*************************************************/
 .paper-pub {
     font-style: italic;
+    margin-right: 6px;
 }
 
 .paper-pub::after {
@@ -266,6 +270,9 @@ div.paragraph ol, div.paragraph ol li { list-style: decimal outside !important; 
     color: black !important;
 }
 /*************************************************/
+.paper-ext-info {
+    margin-right: 6px;
+}
 .paper-ext-info::after {
     content: '.';
 }
@@ -294,6 +301,7 @@ div.paragraph ol, div.paragraph ol li { list-style: decimal outside !important; 
 }
 
 .paper-link {
+    margin-right: 3px;
     color: blue;
 }
 
@@ -301,24 +309,24 @@ div.paragraph ol, div.paragraph ol li { list-style: decimal outside !important; 
     content: '[PDF]';
 }
 /*************************************************/
-.dataset-link {
+.link-group {
     color: blue;
     counter-reset: dataset-link-counter;
 }
 
-.dataset-link::before {
-    content: '[Dataset';
+.link-group::before {
+    content: '[';
 }
 
-.dataset-link::after {
+.link-group::after {
     content: ']';
 }
 
-.dataset-link-sub::after {
+.link-group-sub::after {
     color: red;
     font-size: small;
-    counter-increment: dataset-link-counter;
-    content: "Link" counter(dataset-link-counter);
+    counter-increment: link-group-counter;
+    content: " Link" counter(link-group-counter);
 }
 /*************************************************/
 .font-pl {
@@ -382,4 +390,13 @@ a.to-top {
 a.to-top::after {
     content: "[↑TOP]";
 }
-
+/*************************************************/
+.access-code {
+    font-size: small;
+}
+.access-code::before {
+    content: ' (Access Code: ';
+}
+.access-code::after {
+    content: ')';
+}
