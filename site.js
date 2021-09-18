@@ -89,11 +89,11 @@ $.getJSON('/journal.json', function (data) {
         $('#journal-publications').empty();
         filter ^= true;
         if (filter) {
-            $('#selected-publications').text('Selected Journal Publications');
-            $('#full-publications').text('Full Journal Publications');
+            $('#selected-publications').text('Selected');
+            $('#full-publications').text('Full');
         } else {
-            $('#selected-publications').text('Full Journal Publications');
-            $('#full-publications').text('Selected Journal Publications');
+            $('#selected-publications').text('Full');
+            $('#full-publications').text('Selected');
         }
         insertData(filter);
     });
