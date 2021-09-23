@@ -1,0 +1,428 @@
+[
+    {
+        "authors": "X. Lu, Y. Yuan, and <b class=\"star\">Q. Wang</b>",
+        "title": "AWFA-LPD: Adaptive Weight Feature Aggregation for Multi-frame License Plate Detection",
+        "publication": "Proc. ACM International Conference on Multimedia Retrieval (ICMR)",
+        "ext-info": "2021",
+        "link": "pdf/2021 AWFA-LPD AdaptiveWeight Feature Aggregation for.pdf",
+        "Dataset": null
+    },
+    {
+        "authors": "J. Hu, <b class=\"star\">Q. Wang</b>, and X. Li",
+        "title": "Road Extraction from Satellite Image via Auxiliary Road Location Prediction",
+        "publication": "Proc. IEEE International Geoscience and Remote Sensing Symposium (IGARSS)",
+        "ext-info": "2021. Oral",
+        "link": "pdf/2021 ROAD EXTRACTION FROM SATELLITE IMAGE VIA AUXILIARY ROAD LOCATION.pdf",
+        "Dataset": null
+    },
+    {
+        "authors": "Y. Miao, <b class=\"star\">Q. Wang</b>, M. Chen, and X. Li",
+        "title": "Spatial-spectral Hyperspectral Image Classification via Multiple Random Anchor Graphs Ensemble Learning",
+        "publication": "Proc. IEEE International Geoscience and Remote Sensing Symposium (IGARSS)",
+        "ext-info": "2021",
+        "link": "pdf/2021 Spatial-spectral Hyperspectral Image Classification via Multiple Random Anchor Graphs Ensemble Learning.pdf",
+        "Dataset": null
+    },
+    {
+        "authors": "Q. Li, <b class=\"star\">Q. Wang</b>, and X. Li",
+        "title": "Hyperspectral Image Super-Resolution via Multi-Domain Feature Learning",
+        "publication": "Proc. IEEE International Geoscience and Remote Sensing Symposium (IGARSS)",
+        "ext-info": "2021",
+        "link": "pdf/2021 HYPERSPECTRAL IMAGE SUPER-RESOLUTION VIA MULTI-DOMAIN FEATURE.pdf",
+        "Dataset": null
+    },
+    {
+        "authors": "S. Bai, J. Gao, <b class=\"star\">Q. Wang</b>, and X. Li",
+        "title": "Multi-domain Synchronous Refinement Network for Unsupervised Cross-Domain Person Re-Identification",
+        "publication": "Proc. IEEE International Conference on Multimedia and Expo (ICME)",
+        "ext-info": "2021. Oral",
+        "link": "pdf/2021 Multi-domain Synchronous Refinement Network for Unsupervised Cross-Domain Person Re-Identification.pdf"
+    },
+    {
+        "authors": "Q. Li, <b class=\"star\">Q. Wang</b>, and X. Li",
+        "title": "Hyperspectral Image Super-Resolution via Adjacent Spectral Fusion Strategy",
+        "publication": "Proc. International Conference on Acoustic, Speech, and Signal Processing (ICASSP)",
+        "ext-info": "pp. 1645-1649, 2021",
+        "link": "pdf/2021 Hyperspectral Image Super-Resolution via Adjacent Spectral Fusion Strategy.pdf"
+    },
+    {
+        "authors": "Y. Yuan, <b>Q. Wang</b>, and X. Li",
+        "title": "Hyperspectral and Multispectral Image Fusion Using Non-Convex Relaxation Low Rank and Total Variation Regularization",
+        "publication": "Proc. IEEE International Geoscience and Remote Sensing Symposium (IGARSS)",
+        "ext-info": "2020",
+        "link": "pdf/2020 Hyperspectral and Multispectral Image Fusion Using Non-Convex Relaxation Low Rank and Total Variation Regularization.pdf"
+    },
+    {
+        "authors": "S. Bai, <b class=\"star\">Q. Wang</b>, and X. Li",
+        "title": "MFI: Multi-range Feature Interchange for Video Action Recognition",
+        "publication": "International Conference on Pattern Recognition (ICPR)",
+        "ext-info": "2020",
+        "link": "pdf/2020 MFI Multi-range Feature Interchange for Video Action Recognition.pdf"
+    },
+    {
+        "authors": "T. Han, J. Gao, Y. Yuan and <b class=\"star\">Q. Wang</b>",
+        "title": "Unsupervised Semantic Aggregation and Deformable Template Matching for Semi-Supervised Learning",
+        "publication": "Proc. Conference on Neural Information Processing Systems (NeurIPS)",
+        "ext-info": "pp. 9961-9971, 2020",
+        "link": "pdf/2020 Unsupervised Semantic Aggregation and Deformable Template Matching for Semi-Supervised Learning.pdf",
+        "Code": [
+            "https://github.com/taohan10200/USADTM"
+        ]
+    },
+    {
+        "authors": "C. Zhang, <b class=\"star\">Q. Wang</b>, and X. Li",
+        "title": "EQ-LPR: Efficient Quality-aware License Plate Recognition",
+        "publication": "Proc. IEEE International Conference on Image Processing (ICIP)",
+        "ext-info": "pp. 653-657, 2020",
+        "link": "pdf/2020 EQ-LPR EFFICIENT QUALITY-AWARE LICENSE PLATE RECOGNITION.pdf"
+    },
+    {
+        "authors": "Z. Xiong, Y. Yuan, N. Guo and <b>Q. Wang</b>",
+        "title": "Variational Context-Deformable ConvNets for Indoor Semantic Segmentation",
+        "publication": "Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR)",
+        "ext-info": "pp. 3991-4001, 2020",
+        "link": "pdf/2020 Variational Context-Deformable ConvNets for Indoor Semantic Segmentation.pdf"
+    },
+    {
+        "authors": "R. Liu, M. Chen, <b class=\"star\">Q. Wang</b>, and X. Li",
+        "title": "Robust Rank Constrained Sparse Learning: A Graph-Based Method for Clustering",
+        "publication": "Proc. International Conference on Acoustic, Speech, and Signal Processing (ICASSP)",
+        "ext-info": "pp. 4217-4221, 2020",
+        "link": "pdf/2020 Robust Rank Constrained Sparse Learning A Graph-Based Method for Clustering.pdf"
+    },
+    {
+        "authors": "B. Wei, Y. Yuan, <b class=\"star\">Q. Wang</b>, and X. Li",
+        "title": "MSPNET: Multi-supervised Parallel Network for Crowd Counting",
+        "publication": "Proc. International Conference on Acoustic, Speech, and Signal Processing (ICASSP)",
+        "ext-info": "pp. 2418-2422, 2020",
+        "link": "pdf/2020 MSPNET Multi-supervised Parallel Network for Crowd Counting.pdf"
+    },
+    {
+        "authors": "W. Su, Y. Yuan, and <b>Q. Wang</b>",
+        "title": "Deep Image Deblurring Using Local Correlation Block",
+        "publication": "Proc. International Conference on Acoustic, Speech, and Signal Processing (ICASSP)",
+        "ext-info": "pp. 1908-1912, 2020",
+        "link": "pdf/2020 Deep Image Deblurring Using Local Correlation Block.pdf"
+    },
+    {
+        "authors": "W. Lin, J. Gao, <b class=\"star\">Q. Wang</b>, and X. Li",
+        "title": "Pixel-Level Self-Paced Learning for Super-Resolution",
+        "publication": "Proc. International Conference on Acoustic, Speech, and Signal Processing (ICASSP)",
+        "ext-info": "pp. 2538-2542, 2020",
+        "link": "pdf/2020 Pixel-Level Self-Paced Learning for Super-Resolution.pdf",
+        "Code": [
+            "https://github.com/Elin24/PSPL"
+        ]
+    },
+    {
+        "authors": "T. Han, J. Gao, Y. Yuan, and <b class=\"star\">Q. Wang</b>",
+        "title": "Focus on Semantic Consistency for Cross-Domain Crowd Understanding",
+        "publication": "Proc. International Conference on Acoustic, Speech, and Signal Processing (ICASSP)",
+        "ext-info": "pp. 1848-1852, 2020. Oral",
+        "link": "pdf/2020 Focus on Semantic Consistency for Cross-Domain Crowd Understanding.pdf"
+    },
+    {
+        "authors": "F. Zhang, <b class=\"star\">Q. Wang</b>, and X. Li",
+        "title": "Deep Meta-relation Network for Visual Few-Shot Learning",
+        "publication": "Proc. International Conference on Acoustic, Speech, and Signal Processing (ICASSP)",
+        "ext-info": "pp. 1509-1513, 2020",
+        "link": "pdf/2020 Deep Meta-relation Network for Visual Few-Shot Learning.pdf"
+    },
+    {
+        "authors": "W. Huang, Z. Xiong, <b class=\"star\">Q. Wang</b>, and X. Li",
+        "title": "KALM: Key Area Localization Mechanism for Abnormality Detection in Musculoskeletal Radiographs",
+        "publication": "Proc. International Conference on Acoustic, Speech, and Signal Processing (ICASSP)",
+        "ext-info": "pp. 1399-1403, 2020",
+        "link": "pdf/2020 KALM Key Area Localization Mechanism for Abnormality Detection in Musculoskeletal Radiographs.pdf"
+    },
+    {
+        "authors": "H. Li, Y. Yuan, and <b>Q. Wang</b>",
+        "title": "Video Frame Interpolation via Residue Refinement",
+        "publication": "Proc. International Conference on Acoustic, Speech, and Signal Processing (ICASSP)",
+        "ext-info": "pp. 2613-2617, 2020",
+        "link": "pdf/2020 Video Frame Interpolation via Residue Refinement.pdf",
+        "Code": [
+            "https://github.com/HopLee6/RRIN"
+        ]
+    },
+    {
+        "authors": "C. Zhang, <b class=\"star\">Q. Wang</b>, and X. Li",
+        "title": "IQ-STAN: Image Quality Guided Spatio-Temporal Attention Network for License Plate Recognition",
+        "publication": "Proc. International Conference on Acoustic, Speech, and Signal Processing (ICASSP)",
+        "ext-info": "pp. 2268-2272, 2020",
+        "link": "pdf/2020 IQ-STAN Image Quality Guided Spatio-Temporal Attention Network for License Plate Recognition.pdf"
+    },
+    {
+        "authors": "W. Huang, <b class=\"star\">Q. Wang</b>, and X. Li",
+        "title": "Feature Sparsity in Convolutional Neural Networks for Scene Classification of Remote Sensing Image",
+        "publication": "Proc. IEEE International Geoscience and Remote Sensing Symposium (IGARSS)",
+        "ext-info": "pp. 3017-3020, 2019",
+        "link": "pdf/2019 Feature Sparsity in Convolutional Neural Networks for Scene Classification of Remote Sensing Image.pdf"
+    },
+    {
+        "authors": "X. Zhang, <b>Q. Wang</b>, S. Chen, and X. Li",
+        "title": "Multi-Scale Cropping Mechanism for Remote Sensing Image Captioning",
+        "publication": "Proc. IEEE International Geoscience and Remote Sensing Symposium (IGARSS)",
+        "ext-info": "pp. 10039-10042, 2019",
+        "link": "pdf/2019 Multi-Scale Cropping Mechanism for Remote Sensing Image Captioning.pdf"
+    },
+    {
+        "authors": "Z. Zhang, <b>Q. Wang</b>, and Y. Yuan",
+        "title": "Hyperspectral Unmixing via L1/4 Sparsity-Constrained Multilayer NMF",
+        "publication": "Proc. IEEE International Geoscience and Remote Sensing Symposium (IGARSS)",
+        "ext-info": "pp.2143-2146, 2019",
+        "link": "pdf/2019 Hyperspectral Unmixing via L14 Sparsity-Constrained Multilayer NMF.pdf"
+    },
+    {
+        "authors": "C. Zhang, <b class=\"star\">Q. Wang</b>, and X. Li",
+        "title": "A Multi-Task Architecture for Remote Sensing by Joint Scene Classification and Image Quality Assessment",
+        "publication": "Proc. IEEE International Geoscience and Remote Sensing Symposium (IGARSS)",
+        "ext-info": "pp. 10055-10058, 2019",
+        "link": "pdf/2019 A Multi-Task Architecture for Remote Sensing by Joint Scene Classification and Image Quality Assessment.pdf"
+    },
+    {
+        "authors": "J. Su, <b>Q. Wang</b>, S. Chen, and X. Li",
+        "title": "An Introspective Learning Strategy for Remote Sensing Scene Classification",
+        "publication": "Proc. IEEE International Geoscience and Remote Sensing Symposium (IGARSS)",
+        "ext-info": "pp. 533-536, 2019",
+        "link": "pdf/2019 An Introspective Learning Strategy for Remote Sensing Scene Classification.pdf"
+    },
+    {
+        "authors": "<b class=\"star\">Q. Wang</b>, J. Gao, W. Lin, and Y. Yuan",
+        "title": "Learning from Synthetic Data for Crowd Counting in the Wild",
+        "publication": "Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR)",
+        "ext-info": "pp. 8190-8199, 2019",
+        "link": "pdf/2019 Learning from Synthetic Data for Crowd Counting in the Wild.pdf",
+        "Project/Code/Dataset": [
+            "https://gjy3035.github.io/GCC-CL/?tdsourcetag=s_pcqq_aiomsg#"
+        ]
+    },
+    {
+        "authors": "D. Hu, D. Wang, X. Li, F. Nie, and <b>Q. Wang</b>",
+        "title": "Listen to the Image",
+        "publication": "Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR)",
+        "ext-info": "pp. 7964-7973, 2019",
+        "link": "pdf/2019 Listen to the Image.pdf"
+    },
+    {
+        "authors": "C. Wang, Y. Yuan and <b class=\"star\">Q. Wang</b>",
+        "title": "Learning by Inertia: Self-Supervised Monocular Visual Odometry for Road Vehicles",
+        "publication": "Proc. International Conference on Acoustic, Speech and Signal Processing (ICASSP)",
+        "ext-info": "), pp. 2252-2256, 2019",
+        "link": "pdf/2019 Learning by Inertia Self-Supervised Monocular Visual Odometry for Road Vehicles.pdf"
+    },
+    {
+        "authors": "Y. Yuan, Z. Xiong, and <b>Q. Wang</b>",
+        "title": "ACM: Adaptive Cross-Modal Graph Convolutional Neural Networks for RGB-D Scene Recognition",
+        "publication": "Proc. AAAI Conference on Artificial Intelligence (AAAI)",
+        "ext-info": "pp. 9176-9184, 2019. Oral",
+        "link": "pdf/2018 ACM Adaptive Cross-Modal Graph Convolutional Neural Networks for RGB-D Scene Recognition.pdf"
+    },
+    {
+        "authors": "Y. Yuan, D. Wang, and <b>Q. Wang</b>",
+        "title": "Memory-Augmented Temporal Dynamic Learning for Action Recognition",
+        "publication": "Proc. AAAI Conference on Artificial Intelligence (AAAI)",
+        "ext-info": "pp. 9167-9175, 2019",
+        "link": "pdf/2019 Memory-Augmented Temporal Dynamic Learning for Action Recognition.pdf"
+    },
+    {
+        "authors": "S. Liu, <b class=\"star\">Q. Wang</b>, and X. Li",
+        "title": "Attention Based Network for Remote Sensing Scene Classification",
+        "publication": "Proc. IEEE International Geoscience and Remote Sensing Symposium (IGARSS)",
+        "ext-info": "pp. 4740-4743, 2018",
+        "link": "pdf/2018 Attention Based Network for Remote Sensing Scene Classification.pdf"
+    },
+    {
+        "authors": "Z. Xiong, Y. Yuan, and <b class=\"star\">Q. Wang</b>",
+        "title": "AI-NET: Attention Inception Neural Networks for Hyperspectral Image",
+        "publication": "Proc. IEEE International Geoscience and Remote Sensing Symposium (IGARSS)",
+        "ext-info": "pp. 2647-2650, 2018",
+        "link": "pdf/2018 AI-NET Attention Inception Neural Networks for Hyperspectral Image.pdf"
+    },
+    {
+        "authors": "Z. Yuan, <b class=\"star\">Q. Wang</b>, and X. Li",
+        "title": "Robust PCANet for Hyperspectral Image Change Detection",
+        "publication": "Proc. IEEE International Geoscience and Remote Sensing Symposium (IGARSS)",
+        "ext-info": "pp. 4931-4934, 2018",
+        "link": "pdf/2018 Robust PCANet for Hyperspectral Image Change Detection.pdf"
+    },
+    {
+        "authors": "F. Zhang, <b class=\"star\">Q. Wang</b>, and X. Li",
+        "title": "Optimal Neighboring Reconstruction for Hyperspectral Band Selection",
+        "publication": "Proc. IEEE International Geoscience and Remote Sensing Symposium (IGARSS)",
+        "ext-info": "pp. 4709-4712, 2018",
+        "link": "pdf/2018 Optimal Neighboring Reconstruction for Hyperspectral Band Selection.pdf"
+    },
+    {
+        "authors": "X. He, <b class=\"star\">Q. Wang</b>, and X. Li",
+        "title": "Spectral-spatial Hyperspectral Image Classification via Locality and Structure Constrained Low-rank Representation",
+        "publication": "Proc. IEEE International Geoscience and Remote Sensing Symposium (IGARSS)",
+        "ext-info": "pp. 5744-5747, 2018. Oral",
+        "link": "pdf/2018 Spectral-spatial Hyperspectral Image Classification via Locality and Structure Constrained Low-rank Representation.pdf"
+    },
+    {
+        "authors": "X. Jiang, L. Zhang, F. Zhang, J. Liu, and <b class=\"star\">Q. Wang</b>",
+        "title": "Selecting Band Subsets from Hyperspectral Image through a Novel Evolutionary-based Strategy",
+        "publication": "Proc. IEEE International Geoscience and Remote Sensing Symposium (IGARSS)",
+        "ext-info": "pp. 4697-4700, 2018",
+        "link": "pdf/2018 Selecting Band Subsets from Hyperspectral Image through a Novel Evolutionary-based Strategy.pdf"
+    },
+    {
+        "authors": "M. Jiang, Y. Yuan, and <b class=\"star\">Q. Wang</b>",
+        "title": "Self-attention Learning for Person Re-identification",
+        "publication": "Proc. British Machine Vision Conference (BMVC)",
+        "ext-info": "2018",
+        "link": "pdf/2018 Self-attention Learning for Person Re-identification.pdf"
+    },
+    {
+        "authors": "X. Zhang, Y. Yuan, and <b class=\"star\">Q. Wang</b>",
+        "title": "ROI-wise Reverse Reweighting Network for Road Marking Detection",
+        "publication": "Proc. British Machine Vision Conference (BMVC)",
+        "ext-info": "2018",
+        "link": "pdf/2018 ROI-wise Reverse Reweighting Network for Road Marking Detection.pdf"
+    },
+    {
+        "authors": "M. Chen, <b class=\"star\">Q. Wang</b>, and X. Li",
+        "title": "Robust Adaptive Sparse Learning Method for Graph Clustering",
+        "publication": "Proc. IEEE International Conference on Image Processing (ICIP)",
+        "ext-info": "pp. 1618-1622, 2018",
+        "link": "pdf/2018 Robust Adaptive Sparse Learning Method for Graph Clustering.pdf"
+    },
+    {
+        "authors": "X. Li, J. Yang, and <b class=\"star\">Q. Wang</b>",
+        "title": "Nonrigid Points Alignment with Soft-weighted Selection",
+        "publication": "Proc. International Joint Conferences on Artificial Intelligence (IJCAI)",
+        "ext-info": "pp. 800-806, 2018",
+        "link": "pdf/2018 Nonrigid Points Alignment with Soft-weighted Selection.pdf"
+    },
+    {
+        "authors": "Y. Lu, Y. Yuan, and <b class=\"star\">Q. Wang</b>",
+        "title": "Forward Vehicle Collision Warning Based on Quick Camera Calibration",
+        "publication": "Proc. International Conference on Acoustic, Speech and Signal Processing (ICASSP)",
+        "ext-info": "pp. 2586-2590, 2018",
+        "link": "pdf/2018 Forward Vehicle Collision Warning Based on Quick Camera Calibration.pdf"
+    },
+    {
+        "authors": "D. Wang, Y. Yuan, and <b class=\"star\">Q. Wang</b>",
+        "title": "Cross-modal Message Passing for Two-stream Fusion",
+        "publication": "Proc. International Conference on Acoustic, Speech and Signal Processing (ICASSP)",
+        "ext-info": "pp. 1268-1272, 2018",
+        "link": "pdf/2018 Cross-modal Message Passing for Two-stream Fusion.pdf"
+    },
+    {
+        "authors": "D. Ma, Y. Yuan, and <b class=\"star\">Q. Wang</b>",
+        "title": "A Sparse Dictionary learning method for Hyperspectral Anomaly Detection with Capped Norm",
+        "publication": "Proc. IEEE International Geoscience and Remote Sensing Symposium (IGARSS)",
+        "ext-info": "pp. 648-651, 2017",
+        "link": "pdf/2017 A Sparse Dictionary learning method for Hyperspectral Anomaly Detection with Capped Norm.pdf"
+    },
+    {
+        "authors": "F. Zhang, <b class=\"star\">Q. Wang</b>, and X. Li",
+        "title": "Hyperspectral Image Band Selection via Global Optimal Clustering",
+        "publication": "Proc. IEEE International Geoscience and Remote Sensing Symposium (IGARSS)",
+        "ext-info": "pp. 1-4, 2017. Oral",
+        "link": "pdf/2017 Hyperspectral Image Band Selection via Global Optimal Clustering.pdf"
+    },
+    {
+        "authors": "<b>Q. Wang</b>, Z. Qin, F. Nie, and Y. Yuan",
+        "title": "Convolutional 2D LDA for Nonlinear Dimensionality Reduction",
+        "publication": "Proc. International Joint Conference on Artificial Intelligence (IJCAI)",
+        "ext-info": "pp. 2929-2935, 2017. Oral",
+        "link": "pdf/2017 Convolutional 2D LDA for Nonlinear Dimensionality Reduction.pdf"
+    },
+    {
+        "authors": "X. Li, M. Chen, F. Nie, and <b class=\"star\">Q. Wang</b>",
+        "title": "Locality Adaptive Discriminant Analysis",
+        "publication": "Proc. International Joint Conference on Artificial Intelligence (IJCAI)",
+        "ext-info": "pp. 2201-2207, 2017. Oral",
+        "link": "pdf/2017 Locality Adaptive Discriminant Analysis.pdf"
+    },
+    {
+        "authors": "Y. Yuan, Z. Jiang, and <b class=\"star\">Q. Wang</b>",
+        "title": "HDPA: Hierarchical Deep Probability Analysis for Scene Parsing",
+        "publication": "Proc. IEEE International Conference on Multimedia and Expo (ICME)",
+        "ext-info": "pp. 313-318, 2017",
+        "link": "pdf/2017 HDPA Hierarchical Deep Probability Analysis for Scene Parsing.pdf"
+    },
+    {
+        "authors": "J. Gao, <b class=\"star\">Q. Wang</b>, and Y. Yuan",
+        "title": "Embedding Structured Contour and Location Prior in Siamesed Fully Convolutional Networks for Road Detection",
+        "publication": "Proc. IEEE International Conference on Robotics and Automation (ICRA)",
+        "ext-info": "pp. 219-224, 2017",
+        "link": "pdf/2017 Embedding Structured Contour and Location Prior in Siamesed Fully Convolutional Networks for Road Detection.pdf"
+    },
+    {
+        "authors": "J. Zhang, Y. Yuan, F. Nie, and <b class=\"star\">Q. Wang</b>",
+        "title": "Largest Center-specific Margin for Dimension Reduction",
+        "publication": "Proc. International Conference on Acoustic, Speech and Signal Processing (ICASSP)",
+        "ext-info": "pp. 2352-2356, 2017. Oral",
+        "link": "pdf/2017 Largest Center-specific Margin for Dimension Reduction.pdf"
+    },
+    {
+        "authors": "M. Chen, <b class=\"star\">Q. Wang</b> and X. Li",
+        "title": "Anchor-Based Group Detection in Crowd Scenes",
+        "publication": "Proc. International Conference on Acoustic, Speech and Signal Processing (ICASSP)",
+        "ext-info": "pp. 1378-1382, 2017. Oral",
+        "link": "pdf/2017 Anchor-Based Group Detection in Crowd Scenes.pdf"
+    },
+    {
+        "authors": "M. Jiang, Y. Yuan, and <b class=\"star\">Q. Wang</b>",
+        "title": "Asymmetric Cross-View Dictionary Learning for Person Re-identification",
+        "publication": "Proc. International Conference on Acoustic, Speech and Signal Processing (ICASSP)",
+        "ext-info": "pp. 1228-1232, 2017. Oral",
+        "link": "pdf/2017 ASYMMETRIC CROSS-VIEW DICTIONARY LEARNING FOR PERSON RE-IDENTIFICATION.pdf"
+    },
+    {
+        "authors": "J. Wan, Y. Yuan, and <b class=\"star\">Q. Wang</b>",
+        "title": "Traffic Congestion Analysis: A New Perspective",
+        "publication": "Proc. International Conference on Acoustic, Speech and Signal Processing (ICASSP)",
+        "ext-info": "pp. 1398-1402, 2017. Oral",
+        "link": "pdf/2017 Traffic Congestion Analysis A New Perspective.pdf",
+        "Dataset": [
+            "https://pan.baidu.com/s/1ig19-PTHZjH3jB2PHf6SAg",
+            "https://mailnwpueducn-my.sharepoint.com/:u:/g/personal/songchunbiao_mail_nwpu_edu_cn/EfrC09bCYD5Otd9Qcd60SGIBwBivV4T4KVoVlJVJrx1rQg"
+        ]
+    },
+    {
+        "authors": "X. Li, M. Chen, F. Nie, and <b class=\"star\">Q. Wang</b>",
+        "title": "A Multiview-based Parameter Free Framework for Group Detection",
+        "publication": "Proc. AAAI Conference on Artificial Intelligence (AAAI)",
+        "ext-info": "pp. 4147-4153, 2017. Oral",
+        "link": "pdf/2017 A Multiview-Based Parameter Free Framework for Group Detection.pdf"
+    },
+    {
+        "authors": "<b>Q. Wang</b>, M. Chen, and X. Li",
+        "title": "Quantifying and Detecting Collective Motion by Manifold Learning",
+        "publication": "Proc. AAAI Conference on Artificial Intelligence (AAAI)",
+        "ext-info": "pp. 4292-4298, 2017. Oral",
+        "link": "pdf/2017 Quantifying and Detecting Collective Motion by Manifold Learning.pdf"
+    },
+    {
+        "authors": "J. Lin, <b class=\"star\">Q. Wang</b>, and Y. Yuan",
+        "title": "In Defense of Iterated Conditional Mode for Hyperspectral Image Classification",
+        "publication": "Proc. IEEE International Conference on Multimedia and Expo (ICME)",
+        "ext-info": "pp. 1-6, 2014",
+        "link": "pdf/2014 In Defense of Iterated Conditional Mode for Hyperspectral Image Classification.pdf"
+    },
+    {
+        "authors": "<b>Q. Wang</b>, P. Yan, Y. Yuan, and X. Li",
+        "title": "Robust Color Correction in Stereo Vision",
+        "publication": "Proc. IEEE International Conference on Image Processing (ICIP)",
+        "ext-info": "pp. 965-968, 2011",
+        "link": "pdf/2011 Robust color correction in stereo vision.pdf"
+    },
+    {
+        "authors": "<b>Q. Wang</b>, X. Sun, and Z. Wang",
+        "title": "A Robust Algorithm for Color Correction between Two Stereo Images",
+        "publication": "Proc. Asian Conference on Computer Vision (ACCV)",
+        "ext-info": "vol. 5996 LNCS, pp. 405-416, 2009",
+        "link": "pdf/2009 A Robust Algorithm for Color Correction between.pdf"
+    },
+    {
+        "authors": "<b>Q. Wang</b> and Z. Wang",
+        "title": "A Subjective Method for Image Segmentation Evaluation",
+        "publication": "Proc. Asian Conference on Computer Vision (ACCV)",
+        "ext-info": "vol. 5996 LNCS, pp. 53-64, 2009",
+        "link": "pdf/2009 A Subjective Method for Image Segmentation Evaluation.pdf"
+    }
+]
