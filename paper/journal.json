@@ -273,7 +273,7 @@
         "authors": "Q. Li, <b class=\"star\">Q. Wang</b> and X. Li",
         "title": "Exploring the Relationship between 2D/3D Convolution for Hyperspectral Image Super-Resolution",
         "publication": "IEEE Transactions on Geoscience and Remote Sensing (T-GRS)",
-        "ext-info": "DOI: 10.1109/TGRS.2020.3047363",
+        "ext-info": "vol. 59, no. 10, pp. 8693-8703, 2021",
         "link": "pdf/2020 Exploring the Relationship between 2D3D Convolution for Hyperspectral Image Super-Resolution.pdf",
         "Code": [
             "https://github.com/qianngli/ERCSR"
