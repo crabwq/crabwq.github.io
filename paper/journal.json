@@ -1,5 +1,12 @@
 [
     {
+        "authors": "<b>Q. Wang</b>, N. Guo, Z. Xiong, Z. Yin, and X. Li",
+        "title": "Gradient Matters: Designing Binarized Neural Networks via Enhanced Information-Flow",
+        "publication": "IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI)",
+        "ext-info": "2021",
+        "link": "pdf/2021 V-LPDR Towards a unified framework for license plate detection.pdf"
+    },
+    {
         "authors": "<b>Q. Wang</b>, Q. Li, and X. Li",
         "title": "Hyperspectral Image Superresolution Using Spectrum and Feature Context",
         "publication": "IEEE Transactions on Industrial Electronics (T-IE)",
