@@ -269,6 +269,16 @@ div.paragraph ol, div.paragraph ol li { list-style: decimal outside !important; 
     content: ',';
     color: black !important;
 }
+
+.paper-pub2 {
+    font-style: italic;
+    margin-right: 6px;
+}
+
+.paper-pub2::after {
+    content: '.';
+    color: black !important;
+}
 /*************************************************/
 .paper-ext-info {
     margin-right: 6px;

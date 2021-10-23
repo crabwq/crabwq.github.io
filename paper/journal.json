@@ -1,5 +1,18 @@
 [
     {
+        "authors": "J. Gao, T. Han, Y. Yuan, and Q. Wang*",
+        "title": "Domain-adaptive Crowd Counting via High-quality Image Translation and Density Reconstruction",
+        "publication": "IEEE Transactions on Neural Networks and Learning Systems (T-NNLS)",
+        "ext-info": ""
+    },
+    {
+        "authors": "Q. Li, Y. Yuan, and Q. Wang*",
+        "title": "Hyperspectral Image Super-Resolution via Multi-domain Feature Learning",
+        "publication": "Neurocomputing",
+        "ext-info": "DOI: 10.1016/j.neucom.2021.10.041",
+        "hide": true
+    },
+    {
         "authors": "<b>Q. Wang</b>, N. Guo, Z. Xiong, Z. Yin, and X. Li",
         "title": "Gradient Matters: Designing Binarized Neural Networks via Enhanced Information-Flow",
         "publication": "IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI)",

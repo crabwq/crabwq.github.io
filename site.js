@@ -1,30 +1,38 @@
 function insert_paper(paper, selector) {
+    paper['authors'] = paper['authors'].replace('Q. Wang*', '<b class="star">Q. Wang</b>')
+
     let newLi = document.createElement('li');
     newLi.className = "STYLE13";
 
     let authors = document.createElement('span');
     authors.className = "author-list";
     authors.innerHTML = paper['authors'];
+    newLi.appendChild(authors);
 
     let title = document.createElement('span');
     title.className = 'paper-title';
     title.innerText = paper['title'];
+    newLi.appendChild(title);
 
     let publication = document.createElement('span');
-    publication.className = 'paper-pub';
+    if (paper['ext-info'] === "") {
+        publication.className = 'paper-pub2';
+    } else {
+        publication.className = 'paper-pub';
+    }
     publication.innerText = paper['publication'];
     if (publication.innerText.includes('T-PAMI') || publication.innerText.includes('IJCV')) {
         publication.classList.add('color-red');
     }
-
-    let extInfo = document.createElement('span');
-    extInfo.className = 'paper-ext-info';
-    extInfo.innerText = paper['ext-info'];
-
-    newLi.appendChild(authors);
-    newLi.appendChild(title);
     newLi.appendChild(publication);
-    newLi.appendChild(extInfo);
+
+    if (paper['ext-info'] !== "") {
+        let extInfo = document.createElement('span');
+        extInfo.className = 'paper-ext-info';
+        extInfo.innerText = paper['ext-info'];
+
+        newLi.appendChild(extInfo);
+    }
 
     if (paper['link'] !== undefined) {
         let paperLink = document.createElement('a');
@@ -36,6 +44,7 @@ function insert_paper(paper, selector) {
 
     $.each(paper, function (key, value) {
         if (typeof value === 'string') return;
+        if (typeof value === 'boolean') return;
         if (value === null || value === undefined) return;
 
         if (value.length === 1 && typeof value[0] === 'string') {
@@ -77,19 +86,25 @@ function insert_paper(paper, selector) {
 }
 
 // selected journal filter
+// false -> hide
 let journalFilter = function (data) {
-    let ret = false;
+    if (data['hide']) return false;
+
     // first author
-    if (data['authors'].startsWith('<b')) ret = true;
+    if (data['authors'].startsWith('<b')) return true;
     // IEEE Transaction OR ACM Transaction
-    if (data['publication'].includes('IEEE Trans') || data['publication'].includes('ACM Trans')) ret = true;
+    if (data['publication'].includes('IEEE Trans') || data['publication'].includes('ACM Trans'))
+        return true;
     // code OR dataset OR demo
-    if (data['Code'] !== undefined || data['Dataset'] !== undefined || data['Demo'] !== undefined) ret = true;
-    return ret;
+    if (data['Code'] !== undefined || data['Dataset'] !== undefined || data['Demo'] !== undefined) return true;
+
+    return false;
 }
 
 // selected conference filter
+// false -> hide
 let conferenceFilter = function (data) {
+    if (data['hide']) return false;
     // ICASSP
     if (!data['publication'].includes('ICASSP')) return true;
     return false;
