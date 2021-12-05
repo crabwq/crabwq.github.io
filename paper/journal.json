@@ -4,7 +4,8 @@
         "title": "Hyperspectral Imagery Classification via Random Multi-Graphs Ensemble Learning",
         "publication": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS)",
         "ext-info": "DOI: 10.1109/JSTARS.2021.3132993",
-        "link": "pdf/2021 JSTARS-final.pdf"
+        "link": "pdf/2021 JSTARS-final.pdf",
+        "hide": false
     },
     {
         "authors": "J. Gao, T. Han, Y. Yuan, and Q. Wang*",

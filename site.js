@@ -88,7 +88,8 @@ function insert_paper(paper, selector) {
 // selected journal filter
 // false -> hide
 let journalFilter = function (data) {
-    if (data['hide']) return false;
+    if (data['hide'] === true) return false;
+    if (data['hide'] === false) return true;
 
     // first author
     if (data['authors'].startsWith('<b')) return true;
@@ -104,7 +105,8 @@ let journalFilter = function (data) {
 // selected conference filter
 // false -> hide
 let conferenceFilter = function (data) {
-    if (data['hide']) return false;
+    if (data['hide'] === true) return false;
+    if (data['hide'] === false) return true;
     // ICASSP
     if (!data['publication'].includes('ICASSP')) return true;
     return false;
