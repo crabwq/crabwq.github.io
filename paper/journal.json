@@ -1,5 +1,12 @@
 [
     {
+        "authors": "Y. Liu, Q. Li, Y. Yuan, Q. Du, and Q. Wang*",
+        "title": "ABNet: Adaptive Balanced Network for Multi-scale Object Detection in Remote Sensing Imagery",
+        "publication": "IEEE Transactions on Geoscience and Remote Sensing (T-GRS)",
+        "ext-info": "10.1109/TGRS.2021.3133956",
+        "link": "pdf/2021 bare_jrnl.pdf"
+    },
+    {
         "authors": "Y. Miao, M. Chen, Y. Yuan, J. Chanussot, and Q. Wang*",
         "title": "Hyperspectral Imagery Classification via Random Multi-Graphs Ensemble Learning",
         "publication": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS)",
