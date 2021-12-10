@@ -680,13 +680,6 @@
         "link": "pdf/2017 Online Hash Tracking with Spatio-temporal Saliency Auxiliary.pdf"
     },
     {
-        "authors": "<b>Q. Wang</b>, Z. Meng, and X. Li",
-        "title": "Locality Adaptive Discriminant Analysis for Spectral-Spatial Classification of Hyperspectral Images",
-        "publication": "IEEE Geoscience and Remote Sensing Letters (GRSL)",
-        "ext-info": "vol. 14, no. 11, pp. 2077-2081, 2017",
-        "link": "pdf/2017 Locality Adaptive Discriminant Analysis for Spectral-Spatial Classification of Hyperspectral Images.pdf"
-    },
-    {
         "authors": "Y. Yuan, Y. Lu, and <b class=\"star\">Q. Wang</b>",
         "title": "Tracking as A Whole: Multi-Target Tracking by Modeling Group Behavior with Sequential Detection",
         "publication": "IEEE Transactions on Intelligent Transportation Systems (T-ITS)",
