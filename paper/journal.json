@@ -43,7 +43,10 @@
         "title": "Hyperspectral Image Superresolution Using Spectrum and Feature Context",
         "publication": "IEEE Transactions on Industrial Electronics (T-IE)",
         "ext-info": "vol. 68, no. 11, pp. 11276-11285, 2021",
-        "link": "pdf/2021 Hyperspectral Image Super-Resolution Using Spectrum and Feature Context.pdf"
+        "link": "pdf/2021 Hyperspectral Image Super-Resolution Using Spectrum and Feature Context.pdf",
+        "Code": [
+            "https://github.com/qianngli/SFCSR"
+        ]
     },
     {
         "authors": "<b>Q. Wang</b>, X. Jiang, M. Chen, and X. Li",
@@ -347,16 +350,6 @@
         "Dataset": [
             "https://share.weiyun.com/51Cj5Lf",
             "https://drive.google.com/open?id=1kwZVd8KoZBiccgXoEPZtJ5zptMLf-i6H"
-        ]
-    },
-    {
-        "authors": "<b>Q. Wang</b>, Q. Li, and X. Li",
-        "title": "Hyperspectral Image Super-Resolution Using Spectrum and Feature Context",
-        "publication": "IEEE Transactions on Industrial Electronics (T-IE)",
-        "ext-info": "DOI: 10.1109/TIE.2020.303809",
-        "link": "pdf/2020 Hyperspectral Image Super-Resolution Using Spectrum and Feature Context.pdf",
-        "Code": [
-            "https://github.com/qianngli/SFCSR"
         ]
     },
     {
