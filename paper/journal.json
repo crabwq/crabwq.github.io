@@ -1,5 +1,12 @@
 [
     {
+        "authors": "C. Yang, M. Chen, Z. Xiong, Y. Yuan, and Q. Wang*",
+        "title": "CM-Net: Concentric Mask based Arbitrary-Shaped Text Detection",
+        "publication": "IEEE Transactions on Image Processing (T-IP)",
+        "ext-info": "DOI:10.1109/TIP.2022.3141844",
+        "link": "pdf/2022 CM-Net Concentric Mask based Arbitrary-Shaped.pdf"
+    },
+    {
         "authors": "Y. Liu, Q. Li, Y. Yuan, Q. Du, and Q. Wang*",
         "title": "ABNet: Adaptive Balanced Network for Multi-scale Object Detection in Remote Sensing Imagery",
         "publication": "IEEE Transactions on Geoscience and Remote Sensing (T-GRS)",
@@ -10,7 +17,7 @@
         "authors": "Y. Miao, M. Chen, Y. Yuan, J. Chanussot, and Q. Wang*",
         "title": "Hyperspectral Imagery Classification via Random Multi-Graphs Ensemble Learning",
         "publication": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS)",
-        "ext-info": "DOI: 10.1109/JSTARS.2021.3132993",
+        "ext-info": "vol. 15, pp. 641-653, 2022",
         "link": "pdf/2021 JSTARS-final.pdf",
         "Code": [
             "https://github.com/SkilaMiao/RMGE"
