@@ -1,5 +1,13 @@
 [
     {
+        "authors": "C. Yang, M. Chen, Y. Yuan, and Q. Wang*",
+        "title": "BiP-Net: Bidirectional Perspective Strategy Based Arbitrary-Shaped Text Detection Network",
+        "publication": "Proc. International Conference on Acoustic, Speech, and Signal Processing (ICASSP)",
+        "ext-info": "2022",
+        "link": "pdf/2022 BiP-Net.pdf",
+        "Dataset": null
+    },
+    {
         "authors": "X. Lu, Y. Yuan, and <b class=\"star\">Q. Wang</b>",
         "title": "AWFA-LPD: Adaptive Weight Feature Aggregation for Multi-frame License Plate Detection",
         "publication": "Proc. ACM International Conference on Multimedia Retrieval (ICMR)",
