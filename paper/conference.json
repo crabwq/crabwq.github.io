@@ -1,5 +1,13 @@
 [
     {
+        "authors": "Y. Zhang, Y. Yuan, and Q. Wang*",
+        "title": "ACP: Adaptive Channel Pruning for Efficient Neural Networks",
+        "publication": "Proc. International Conference on Acoustic, Speech, and Signal Processing (ICASSP)",
+        "ext-info": "2022",
+        "link": "pdf/2022 ACP Adaptive Channel Pruning for Efficient Neural Networks.pdf",
+        "Dataset": null
+    },
+    {
         "authors": "C. Yang, M. Chen, Y. Yuan, and Q. Wang*",
         "title": "BiP-Net: Bidirectional Perspective Strategy Based Arbitrary-Shaped Text Detection Network",
         "publication": "Proc. International Conference on Acoustic, Speech, and Signal Processing (ICASSP)",
