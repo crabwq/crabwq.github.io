@@ -1,51 +1,52 @@
 [
     {
+        "authors": "Y. Liu, Q. Li, Y. Yuan, and Q. Wang*",
+        "title": "Single-shot Balanced Detector for Geospatial Object Detection",
+        "publication": "Proc. International Conference on Acoustic, Speech, and Signal Processing (ICASSP)",
+        "ext-info": "2022",
+        "link": "pdf/2022 S2BDet.pdf"
+    },
+    {
         "authors": "Y. Zhang, Y. Yuan, and Q. Wang*",
         "title": "ACP: Adaptive Channel Pruning for Efficient Neural Networks",
         "publication": "Proc. International Conference on Acoustic, Speech, and Signal Processing (ICASSP)",
         "ext-info": "2022",
-        "link": "pdf/2022 ACP Adaptive Channel Pruning for Efficient Neural Networks.pdf",
-        "Dataset": null
+        "link": "pdf/2022 ACP Adaptive Channel Pruning for Efficient Neural Networks.pdf"
     },
     {
         "authors": "C. Yang, M. Chen, Y. Yuan, and Q. Wang*",
         "title": "BiP-Net: Bidirectional Perspective Strategy Based Arbitrary-Shaped Text Detection Network",
         "publication": "Proc. International Conference on Acoustic, Speech, and Signal Processing (ICASSP)",
         "ext-info": "2022",
-        "link": "pdf/2022 BiP-Net.pdf",
-        "Dataset": null
+        "link": "pdf/2022 BiP-Net.pdf"
     },
     {
         "authors": "X. Lu, Y. Yuan, and <b class=\"star\">Q. Wang</b>",
         "title": "AWFA-LPD: Adaptive Weight Feature Aggregation for Multi-frame License Plate Detection",
         "publication": "Proc. ACM International Conference on Multimedia Retrieval (ICMR)",
         "ext-info": "2021",
-        "link": "pdf/2021 AWFA-LPD AdaptiveWeight Feature Aggregation for.pdf",
-        "Dataset": null
+        "link": "pdf/2021 AWFA-LPD AdaptiveWeight Feature Aggregation for.pdf"
     },
     {
         "authors": "J. Hu, <b class=\"star\">Q. Wang</b>, and X. Li",
         "title": "Road Extraction from Satellite Image via Auxiliary Road Location Prediction",
         "publication": "Proc. IEEE International Geoscience and Remote Sensing Symposium (IGARSS)",
         "ext-info": "2021. Oral",
-        "link": "pdf/2021 ROAD EXTRACTION FROM SATELLITE IMAGE VIA AUXILIARY ROAD LOCATION.pdf",
-        "Dataset": null
+        "link": "pdf/2021 ROAD EXTRACTION FROM SATELLITE IMAGE VIA AUXILIARY ROAD LOCATION.pdf"
     },
     {
         "authors": "Y. Miao, <b class=\"star\">Q. Wang</b>, M. Chen, and X. Li",
         "title": "Spatial-spectral Hyperspectral Image Classification via Multiple Random Anchor Graphs Ensemble Learning",
         "publication": "Proc. IEEE International Geoscience and Remote Sensing Symposium (IGARSS)",
         "ext-info": "2021",
-        "link": "pdf/2021 Spatial-spectral Hyperspectral Image Classification via Multiple Random Anchor Graphs Ensemble Learning.pdf",
-        "Dataset": null
+        "link": "pdf/2021 Spatial-spectral Hyperspectral Image Classification via Multiple Random Anchor Graphs Ensemble Learning.pdf"
     },
     {
         "authors": "Q. Li, <b class=\"star\">Q. Wang</b>, and X. Li",
         "title": "Hyperspectral Image Super-Resolution via Multi-Domain Feature Learning",
         "publication": "Proc. IEEE International Geoscience and Remote Sensing Symposium (IGARSS)",
         "ext-info": "2021",
-        "link": "pdf/2021 HYPERSPECTRAL IMAGE SUPER-RESOLUTION VIA MULTI-DOMAIN FEATURE.pdf",
-        "Dataset": null
+        "link": "pdf/2021 HYPERSPECTRAL IMAGE SUPER-RESOLUTION VIA MULTI-DOMAIN FEATURE.pdf"
     },
     {
         "authors": "S. Bai, J. Gao, <b class=\"star\">Q. Wang</b>, and X. Li",
