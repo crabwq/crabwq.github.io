@@ -1,5 +1,11 @@
 [
     {
+        "authors": "Q. Wang, X. Lu, C. Zhang, Y. Yuan and X. Li",
+        "title": "LMV-LP: A Large-Scale Multi-Source Video-Based License Plate Dataset",
+        "publication": "IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI)",
+        "ext-info": "2022"
+    },
+    {
         "authors": "C. Yang, M. Chen, Z. Xiong, Y. Yuan, and Q. Wang*",
         "title": "CM-Net: Concentric Mask Based Arbitrary-Shaped Text Detection",
         "publication": "IEEE Transactions on Image Processing (T-IP)",
