@@ -1,5 +1,9 @@
 function insert_paper(paper, selector) {
-    paper['authors'] = paper['authors'].replace('Q. Wang*', '<b class="star">Q. Wang</b>')
+    if (paper['authors'].includes('*')) {
+        paper['authors'] = paper['authors'].replace('Q. Wang*', '<b class="star">Q. Wang</b>')
+    } else {
+        paper['authors'] = paper['authors'].replace('Q. Wang', '<b>Q. Wang</b>')
+    }
 
     let newLi = document.createElement('li');
     newLi.className = "STYLE13";
