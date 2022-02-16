@@ -3,7 +3,10 @@
         "authors": "Q. Wang, X. Lu, C. Zhang, Y. Yuan and X. Li",
         "title": "LMV-LP: A Large-Scale Multi-Source Video-Based License Plate Dataset",
         "publication": "IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI)",
-        "ext-info": "2022"
+        "ext-info": "2022",
+        "Dataset": [
+            "https://github.com/Forest-art/LMV-LP"
+        ]
     },
     {
         "authors": "C. Yang, M. Chen, Z. Xiong, Y. Yuan, and Q. Wang*",

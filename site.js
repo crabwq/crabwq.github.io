@@ -25,6 +25,7 @@ function insert_paper(paper, selector) {
         publication.className = 'paper-pub';
     }
     publication.innerText = paper['publication'];
+    // highlight T-PAMI and IJCV
     if (publication.innerText.includes('T-PAMI') || publication.innerText.includes('IJCV')) {
         publication.classList.add('color-red');
     }
@@ -95,12 +96,16 @@ let journalFilter = function (data) {
     if (data['hide'] === true) return false;
     if (data['hide'] === false) return true;
 
-    // first author
+    // INCLUDE: first author
+    if (data['authors'].startsWith('Q. Wang')) return true;
     if (data['authors'].startsWith('<b')) return true;
-    // IEEE Transaction OR ACM Transaction
-    if (data['publication'].includes('IEEE Trans') || data['publication'].includes('ACM Trans'))
-        return true;
-    // code OR dataset OR demo
+    // INCLUDE: IEEE Transaction
+    if (data['publication'].includes('IEEE Trans')) return true;
+    // INCLUDE: ACM Transaction
+    if (data['publication'].includes('ACM Trans')) return true;
+    // INCLUDE: IJCV
+    if (data['publication'].includes('IJCV')) return true;
+    // INCLUDE: paper with code OR dataset OR demo
     if (data['Code'] !== undefined || data['Dataset'] !== undefined || data['Demo'] !== undefined) return true;
 
     return false;
@@ -111,7 +116,7 @@ let journalFilter = function (data) {
 let conferenceFilter = function (data) {
     if (data['hide'] === true) return false;
     if (data['hide'] === false) return true;
-    // ICASSP
+    // EXCLUDE: ICASSP
     if (!data['publication'].includes('ICASSP')) return true;
     return false;
 }
