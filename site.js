@@ -105,6 +105,8 @@ let journalFilter = function (data) {
     if (data['publication'].includes('ACM Trans')) return true;
     // INCLUDE: IJCV
     if (data['publication'].includes('IJCV')) return true;
+    // INCLUDE: IJCV
+    if (data['publication'].includes('GRSL')) return true;
     // INCLUDE: paper with code OR dataset OR demo
     if (data['Code'] !== undefined || data['Dataset'] !== undefined || data['Demo'] !== undefined) return true;
 
@@ -133,18 +135,18 @@ $.getJSON('/paper/journal.json', function (data) {
 
     let filter = true;
 
-    $('#full-j-publications').click(function () {
-        $('#journal-publications').empty();
-        filter ^= true;
-        if (filter) {
-            $('#selected-j-publications').text('Selected');
-            $('#full-j-publications').text('Full');
-        } else {
-            $('#selected-j-publications').text('Full');
-            $('#full-j-publications').text('Selected');
-        }
-        insertData(filter);
-    });
+    // $('#full-j-publications').click(function () {
+    //     $('#journal-publications').empty();
+    //     filter ^= true;
+    //     if (filter) {
+    //         $('#selected-j-publications').text('Selected');
+    //         $('#full-j-publications').text('Full');
+    //     } else {
+    //         $('#selected-j-publications').text('Full');
+    //         $('#full-j-publications').text('Selected');
+    //     }
+    //     insertData(filter);
+    // });
 
     insertData(filter);
 });
@@ -161,18 +163,18 @@ $.getJSON('/paper/conference.json', function (data) {
 
     let filter = true;
 
-    $('#full-c-publications').click(function () {
-        $('#conference-publications').empty();
-        filter ^= true;
-        if (filter) {
-            $('#selected-c-publications').text('Selected');
-            $('#full-c-publications').text('Full');
-        } else {
-            $('#selected-c-publications').text('Full');
-            $('#full-c-publications').text('Selected');
-        }
-        insertData(filter);
-    });
+    // $('#full-c-publications').click(function () {
+    //     $('#conference-publications').empty();
+    //     filter ^= true;
+    //     if (filter) {
+    //         $('#selected-c-publications').text('Selected');
+    //         $('#full-c-publications').text('Full');
+    //     } else {
+    //         $('#selected-c-publications').text('Full');
+    //         $('#full-c-publications').text('Selected');
+    //     }
+    //     insertData(filter);
+    // });
 
     insertData(filter);
 });
