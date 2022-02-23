@@ -1,16 +1,12 @@
 function insert_paper(paper, selector) {
-    if (paper['authors'].includes('*')) {
-        paper['authors'] = paper['authors'].replace('Q. Wang*', '<b class="star">Q. Wang</b>')
-    } else {
-        paper['authors'] = paper['authors'].replace('Q. Wang', '<b>Q. Wang</b>')
-    }
-
     let newLi = document.createElement('li');
     newLi.className = "STYLE13";
 
     let authors = document.createElement('span');
     authors.className = "author-list";
-    authors.innerHTML = paper['authors'];
+    authors.innerHTML = paper['authors'].includes('*')
+        ? paper['authors'].replace('Q. Wang*', '<b class="star">Q. Wang</b>')
+        : paper['authors'].replace('Q. Wang', '<b>Q. Wang</b>');
     newLi.appendChild(authors);
 
     let title = document.createElement('span');
@@ -105,7 +101,7 @@ let journalFilter = function (data) {
     if (data['publication'].includes('ACM Trans')) return true;
     // INCLUDE: IJCV
     if (data['publication'].includes('IJCV')) return true;
-    // INCLUDE: IJCV
+    // INCLUDE: GRSL
     if (data['publication'].includes('GRSL')) return true;
     // INCLUDE: paper with code OR dataset OR demo
     if (data['Code'] !== undefined || data['Dataset'] !== undefined || data['Demo'] !== undefined) return true;

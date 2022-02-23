@@ -24,35 +24,35 @@
         "authors": "X. Lu, Y. Yuan, and Q. Wang*",
         "title": "AWFA-LPD: Adaptive Weight Feature Aggregation for Multi-frame License Plate Detection",
         "publication": "Proc. ACM International Conference on Multimedia Retrieval (ICMR)",
-        "ext-info": "2021",
+        "ext-info": "pp. 476-480, 2021",
         "link": "pdf/2021 AWFA-LPD AdaptiveWeight Feature Aggregation for.pdf"
     },
     {
         "authors": "J. Hu, Q. Wang*, and X. Li",
         "title": "Road Extraction from Satellite Image via Auxiliary Road Location Prediction",
         "publication": "Proc. IEEE International Geoscience and Remote Sensing Symposium (IGARSS)",
-        "ext-info": "2021. Oral",
+        "ext-info": "pp.2182-2185, 2021",
         "link": "pdf/2021 ROAD EXTRACTION FROM SATELLITE IMAGE VIA AUXILIARY ROAD LOCATION.pdf"
     },
     {
         "authors": "Y. Miao, Q. Wang*, M. Chen, and X. Li",
         "title": "Spatial-spectral Hyperspectral Image Classification via Multiple Random Anchor Graphs Ensemble Learning",
         "publication": "Proc. IEEE International Geoscience and Remote Sensing Symposium (IGARSS)",
-        "ext-info": "2021",
+        "ext-info": "pp. 3641-3644,2021",
         "link": "pdf/2021 Spatial-spectral Hyperspectral Image Classification via Multiple Random Anchor Graphs Ensemble Learning.pdf"
     },
     {
         "authors": "Q. Li, Q. Wang*, and X. Li",
         "title": "Hyperspectral Image Super-Resolution via Multi-Domain Feature Learning",
         "publication": "Proc. IEEE International Geoscience and Remote Sensing Symposium (IGARSS)",
-        "ext-info": "2021",
+        "ext-info": "pp. 4135-4138, 2021",
         "link": "pdf/2021 HYPERSPECTRAL IMAGE SUPER-RESOLUTION VIA MULTI-DOMAIN FEATURE.pdf"
     },
     {
         "authors": "S. Bai, J. Gao, Q. Wang*, and X. Li",
         "title": "Multi-domain Synchronous Refinement Network for Unsupervised Cross-Domain Person Re-Identification",
         "publication": "Proc. IEEE International Conference on Multimedia and Expo (ICME)",
-        "ext-info": "2021. Oral",
+        "ext-info": "pp. 1-6, 2021",
         "link": "pdf/2021 Multi-domain Synchronous Refinement Network for Unsupervised Cross-Domain Person Re-Identification.pdf"
     },
     {
@@ -66,14 +66,14 @@
         "authors": "Y. Yuan, Q. Wang, and X. Li",
         "title": "Hyperspectral and Multispectral Image Fusion Using Non-Convex Relaxation Low Rank and Total Variation Regularization",
         "publication": "Proc. IEEE International Geoscience and Remote Sensing Symposium (IGARSS)",
-        "ext-info": "2020",
+        "ext-info": "pp. 2683-2686, 2020",
         "link": "pdf/2020 Hyperspectral and Multispectral Image Fusion Using Non-Convex Relaxation Low Rank and Total Variation Regularization.pdf"
     },
     {
         "authors": "S. Bai, Q. Wang*, and X. Li",
         "title": "MFI: Multi-range Feature Interchange for Video Action Recognition",
         "publication": "International Conference on Pattern Recognition (ICPR)",
-        "ext-info": "2020",
+        "ext-info": "pp. 6664-6671, 2020",
         "link": "pdf/2020 MFI Multi-range Feature Interchange for Video Action Recognition.pdf"
     },
     {
