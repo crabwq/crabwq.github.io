@@ -77,7 +77,7 @@
         "link": "pdf/2020 MFI Multi-range Feature Interchange for Video Action Recognition.pdf"
     },
     {
-        "authors": "T. Han, J. Gao, Y. Yuan and Q. Wang*",
+        "authors": "T. Han, J. Gao, Y. Yuan, and Q. Wang*",
         "title": "Unsupervised Semantic Aggregation and Deformable Template Matching for Semi-Supervised Learning",
         "publication": "Proc. Conference on Neural Information Processing Systems (NeurIPS)",
         "ext-info": "pp. 9961-9971, 2020",
@@ -94,7 +94,7 @@
         "link": "pdf/2020 EQ-LPR EFFICIENT QUALITY-AWARE LICENSE PLATE RECOGNITION.pdf"
     },
     {
-        "authors": "Z. Xiong, Y. Yuan, N. Guo and Q. Wang",
+        "authors": "Z. Xiong, Y. Yuan, N. Guo, and Q. Wang",
         "title": "Variational Context-Deformable ConvNets for Indoor Semantic Segmentation",
         "publication": "Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR)",
         "ext-info": "pp. 3991-4001, 2020",
@@ -222,7 +222,7 @@
         "link": "pdf/2019 Listen to the Image.pdf"
     },
     {
-        "authors": "C. Wang, Y. Yuan and Q. Wang*",
+        "authors": "C. Wang, Y. Yuan, and Q. Wang*",
         "title": "Learning by Inertia: Self-Supervised Monocular Visual Odometry for Road Vehicles",
         "publication": "Proc. International Conference on Acoustic, Speech and Signal Processing (ICASSP)",
         "ext-info": "), pp. 2252-2256, 2019",
@@ -376,7 +376,7 @@
         "link": "pdf/2017 Largest Center-specific Margin for Dimension Reduction.pdf"
     },
     {
-        "authors": "M. Chen, Q. Wang* and X. Li",
+        "authors": "M. Chen, Q. Wang*, and X. Li",
         "title": "Anchor-Based Group Detection in Crowd Scenes",
         "publication": "Proc. International Conference on Acoustic, Speech and Signal Processing (ICASSP)",
         "ext-info": "pp. 1378-1382, 2017. Oral",

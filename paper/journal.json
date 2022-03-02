@@ -1,6 +1,6 @@
 [
     {
-        "authors": "Q. Wang, X. Lu, C. Zhang, Y. Yuan and X. Li",
+        "authors": "Q. Wang, X. Lu, C. Zhang, Y. Yuan, and X. Li",
         "title": "LSV-LP: Large-Scale Video-Based License Plate Detection and Recognition",
         "publication": "IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI)",
         "ext-info": "DOI: 10.1109/TPAMI.2022.3153691",
@@ -331,7 +331,7 @@
         "link": "pdf/2020 Multi-task Attention Network for Lane Detection and Fitting.pdf"
     },
     {
-        "authors": "Q. Li, Q. Wang* and X. Li",
+        "authors": "Q. Li, Q. Wang*, and X. Li",
         "title": "Exploring the Relationship between 2D/3D Convolution for Hyperspectral Image Super-Resolution",
         "publication": "IEEE Transactions on Geoscience and Remote Sensing (T-GRS)",
         "ext-info": "vol. 59, no. 10, pp. 8693-8703, 2021",
@@ -479,7 +479,7 @@
         "link": "pdf/2019 Locality and Structure Regularized Low Rank Representation for Hyperspectral Image Classification.pdf"
     },
     {
-        "authors": "Q. Wang*, Z. Yuan, Q. Du and X. Li",
+        "authors": "Q. Wang*, Z. Yuan, Q. Du, and X. Li",
         "title": "GETNET: A General End-to-end Two-dimensional CNN Framework for Hyperspectral Image Change Detection",
         "publication": "IEEE Transactions on Geoscience and Remote Sensing (T-GRS)",
         "ext-info": "vol. 57, no. 1, pp. 3-13, 2019",
@@ -848,7 +848,7 @@
         "link": "pdf/2014 Multi-cue based tracking.pdf"
     },
     {
-        "authors": "Q. Wang, and Y. Yuan",
+        "authors": "Q. Wang and Y. Yuan",
         "title": "Learning to Resize Image",
         "publication": "Neurocomputing",
         "ext-info": "vol. 131, pp. 357-367, 2014",
