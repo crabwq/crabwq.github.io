@@ -86,7 +86,10 @@
         "authors": "W. Lin, J. Gao, Q. Wang*, and X. Li",
         "title": "Learning to Detect Anomaly Events in Crowd Scenes from Synthetic Data",
         "publication": "Neurocomputing",
-        "ext-info": "DOI: 10.1016/j.neucom.2021.01.031"
+        "ext-info": "vol. 436, pp. 248-259, 2021",
+        "Dataset": [
+            ["https://pan.baidu.com/s/15fIZ7WJxB1ZDD10dQA7MGw", "n445"]
+        ]
     },
     {
         "authors": "Y. Yuan, X. Li, Q. Wang*, and F. Nie",
