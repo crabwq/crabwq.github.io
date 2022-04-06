@@ -321,7 +321,7 @@
         "authors": "Q. Wang, W. Huang, Z. Xiong, and X. Li",
         "title": "Looking Closer at the Scene: Multi-Scale Representation Learning for Remote Sensing Image Scene Classification",
         "publication": "IEEE Transactions on Neural Networks and Learning Systems (T-NNLS)",
-        "ext-info": "DOI: 10.1109/TNNLS.2020.3042276",
+        "ext-info": "vol. 33, no. 4, pp. 1414-1428, 2022",
         "link": "pdf/2020 Looking Closer at the Scene Multi-Scale Representation Learning for Remote Sensing Image Scene Classification.pdf",
         "Code": [
             "https://github.com/hw2hwei/SKAL"
