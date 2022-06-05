@@ -1,5 +1,14 @@
 [
     {
+        "authors": "Q. Wang, Y. Liu, Z. Xiong, and Y. Yuan",
+        "title": "Hybrid Feature Aligned Network for Salient Object Detection in Optical Remote Sensing Imagery",
+        "publication": "IEEE Transactions on Geoscience and Remote Sensing (T-GRS)",
+        "ext-info": "DOI: 10.1109/TGRS.2022.3181062",
+        "Code": [
+            "https://github.com/lyf0801/HFANet"
+        ]
+    },
+    {
         "authors": "Q. Wang, X. Lu, C. Zhang, Y. Yuan, and X. Li",
         "title": "LSV-LP: Large-Scale Video-Based License Plate Detection and Recognition",
         "publication": "IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI)",
