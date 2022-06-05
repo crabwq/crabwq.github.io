@@ -4,6 +4,7 @@
         "title": "Hybrid Feature Aligned Network for Salient Object Detection in Optical Remote Sensing Imagery",
         "publication": "IEEE Transactions on Geoscience and Remote Sensing (T-GRS)",
         "ext-info": "DOI: 10.1109/TGRS.2022.3181062",
+        "link": "pdf/2022 HFANet_FINAL_VERSION.pdf",
         "Code": [
             "https://github.com/lyf0801/HFANet"
         ]
