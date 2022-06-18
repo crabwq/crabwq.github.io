@@ -308,7 +308,7 @@
         "authors": "Q. Wang, W. Lin, J. Gao, and X. Li",
         "title": "Density-aware Curriculum Learning for Crowd Counting",
         "publication": "IEEE Transactions on Cybernetics (T-CYB)",
-        "ext-info": "DOI: 10.1109/TCYB.2020.3033428",
+        "ext-info": "vol. 52, no. 6, pp. 4675-4687, 2022",
         "link": "pdf/2020 Density-aware Curriculum Learning for Crowd Counting.pdf",
         "Code": [
             "https://github.com/Elin24/DCL-CrowdCounting"
