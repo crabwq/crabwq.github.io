@@ -494,7 +494,7 @@
     },
     {
         "authors": "Q. Wang*, Z. Yuan, Q. Du, and X. Li",
-        "title": "GETNET: A General End-to-end Two-dimensional CNN Framework for Hyperspectral Image Change Detection",
+        "title": "GETNET: A General End-to-end 2D CNN Framework for Hyperspectral Image Change Detection",
         "publication": "IEEE Transactions on Geoscience and Remote Sensing (T-GRS)",
         "ext-info": "vol. 57, no. 1, pp. 3-13, 2019",
         "link": "pdf/2019 GETNET A General End-to-end Two-dimensional CNN Framework for Hyperspectral Image Change Detection.pdf",
