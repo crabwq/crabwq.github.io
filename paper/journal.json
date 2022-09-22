@@ -1,5 +1,11 @@
 [
     {
+        "authors": "C. Yang, M. Chen, Y. Yuan, and Q. Wang*",
+        "title": "Reinforcement Shrink-Mask for Text Detection",
+        "publication": "IEEE Transactions on Multimedia (T-MM)",
+        "ext-info": "DOI: 10.1109/TMM.2022.3209022"
+    },
+    {
         "authors": "Q. Li, M. Gong, Y. Yuan, and Q. Wang*",
         "title": "Symmetrical Feature Propagation Network for Hyperspectral Image Super-Resolution",
         "publication": "IEEE Transactions on Geoscience and Remote Sensing (T-GRS)",
