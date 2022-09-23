@@ -9,7 +9,7 @@
         "authors": "Q. Li, M. Gong, Y. Yuan, and Q. Wang*",
         "title": "Symmetrical Feature Propagation Network for Hyperspectral Image Super-Resolution",
         "publication": "IEEE Transactions on Geoscience and Remote Sensing (T-GRS)",
-        "ext-info": "DOI:10.1109/TGRS.2022.3203749",
+        "ext-info": "vol. 60, pp. 1-12, 2022",
         "link": "pdf/2022 fusion.pdf",
         "Code": [
             "https://github.com/qianngli/SFPN"
