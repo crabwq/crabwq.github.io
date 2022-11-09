@@ -1,5 +1,15 @@
 [
     {
+        "authors": "Q. Li, Y. Yuan, X. Jia, and Q. Wang*",
+        "title": "Dual-Stage Approach Toward Hyperspectral Image Super-Resolution",
+        "publication": "IEEE Transactions on Image Processing (T-IP)",
+        "ext-info": "DOI: 10.1109/TIP.2022.3221287",
+        "link": "pdf/2022 DualSR.pdf",
+        "Code": [
+            "https://github.com/qianngli/DualSR"
+        ]
+    },
+    {
         "authors": "Q. Wang, Y. Miao, M. Chen, and Y. Yuan",
         "title": "Spatial-Spectral Clustering with Anchor Graph for Hyperspectral Image",
         "publication": "IEEE Transactions on Geoscience and Remote Sensing (T-GRS)",
