@@ -1,5 +1,12 @@
 [
     {
+        "authors": "Q. Wang, W. Huang, X. Zhang, and X. Li",
+        "title": "GLCM: Global-Local Captioning Model for Remote Sensing Image Captioning",
+        "publication": "IEEE Transactions on Cybernetics (T-CYB)",
+        "ext-info": "DOI: 10.1109/TCYB.2022.3222606",
+        "link": "pdf/2022 GLCM_TCYB.pdf"
+    },
+    {
         "authors": "Q. Li, Y. Yuan, X. Jia, and Q. Wang*",
         "title": "Dual-Stage Approach Toward Hyperspectral Image Super-Resolution",
         "publication": "IEEE Transactions on Image Processing (T-IP)",
