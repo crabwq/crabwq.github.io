@@ -175,3 +175,10 @@ $.getJSON('/paper/conference.json', function (data) {
     insertData(filter);
 });
 
+$.getJSON('https://api.github.com/users/crabwq/repos', function (data) {
+    let repo = data.filter(x => x.name === 'crabwq.github.io')[0]
+    let update_time = new Date(repo.updated_at);
+    // format update_time to yyyy/MM/dd
+    let update_time_str = update_time.getFullYear() + '/' + (update_time.getMonth() + 1) + '/' + update_time.getDate();
+    $('#update-time').text(update_time_str);
+});
