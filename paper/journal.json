@@ -54,7 +54,7 @@
         "authors": "Q. Wang, X. Lu, C. Zhang, Y. Yuan, and X. Li",
         "title": "LSV-LP: Large-Scale Video-Based License Plate Detection and Recognition",
         "publication": "IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI)",
-        "ext-info": "DOI: 10.1109/TPAMI.2022.3153691",
+        "ext-info": "vol. 45, no. 1, pp. 752-767, 2023",
         "link": "pdf/2022 LSV-LP_final.pdf",
         "Dataset": [
             "https://github.com/Forest-art/LSV-LP"
