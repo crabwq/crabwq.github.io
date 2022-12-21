@@ -1,5 +1,12 @@
 [
     {
+        "authors": "M. Zhang, Q. Li, Y. Yuan, and Q. Wang*",
+        "title": "Edge Neighborhood Contrastive Learning for Building Change Detection",
+        "publication": "IEEE Geoscience and Remote Sensing Letters (GRSL)",
+        "ext-info": "",
+        "link": "pdf/2022 Edge Neighborhood Contrastive Learning for Building Change Detection.pdf"
+    },
+    {
         "authors": "Q. Wang, W. Huang, X. Zhang, and X. Li",
         "title": "GLCM: Global-Local Captioning Model for Remote Sensing Image Captioning",
         "publication": "IEEE Transactions on Cybernetics (T-CYB)",
