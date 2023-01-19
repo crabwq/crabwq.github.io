@@ -17,7 +17,7 @@
         "authors": "Q. Li, Y. Yuan, X. Jia, and Q. Wang*",
         "title": "Dual-Stage Approach Toward Hyperspectral Image Super-Resolution",
         "publication": "IEEE Transactions on Image Processing (T-IP)",
-        "ext-info": "IEEE Transactions on Image Processing (T-IP)",
+        "ext-info": "vol. 31, pp. 7252-7263, 2022",
         "link": "pdf/2022 DualSR.pdf",
         "Code": [
             "https://github.com/qianngli/DualSR"
