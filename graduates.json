@@ -243,5 +243,12 @@
         "finally": "Master",
         "job_en": "China Telecom",
         "job_zh": "中国电信"
+    },
+    {
+        "img": "wy.jpg",
+        "name": "Yue Wu",
+        "finally": "Master",
+        "job_en": "Vastai Technologies",
+        "job_zh": "瀚博半导体有限公司"
     }
 ]
