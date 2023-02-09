@@ -1,0 +1,247 @@
+[
+    {
+        "img": "房建武.jpg",
+        "name": "Jianwu Fang",
+        "finally": "Ph.D",
+        "job_en": "Chang'an University, Associate Professor",
+        "job_zh": "长安大学"
+    },
+    {
+        "img": "张建安.jpg",
+        "name": "Jianan Zhang",
+        "finally": "Ph.D",
+        "job_en": "Hisense",
+        "job_zh": "海信"
+    },
+    {
+        "img": "MulinChen.jpg",
+        "name": "Mulin Chen",
+        "finally": "Ph.D",
+        "job_en": "Northwestern Polytechnical University, Associate Professor",
+        "job_zh": "西北工业大学"
+    },
+    {
+        "img": "wangdong.jpg",
+        "name": "Dong Wang",
+        "finally": "Ph.D",
+        "job_en": "Oregon State University, Post Doctor",
+        "job_zh": "俄勒冈州立大学"
+    },
+    {
+        "img": "gjy.png",
+        "name": "Junyu Gao",
+        "finally": "Ph.D",
+        "job_en": "XIDIAN University, Post Doctor",
+        "job_zh": "西安电子科技大学"
+    },
+    {
+        "img": "zhitongxiong.jpg",
+        "name": "Zhitong Xiong",
+        "finally": "Ph.D",
+        "job_en": "Technische Universität München, Post Doctor",
+        "job_zh": "慕尼黑工业大学"
+    },
+    {
+        "img": "林建哲.jpg",
+        "name": "Jianzhe Lin",
+        "finally": "Master",
+        "job_en": "University of British Columbia",
+        "job_zh": "英属哥伦比亚大学"
+    },
+    {
+        "img": "万佳.jpg",
+        "name": "Jia Wan",
+        "finally": "Master",
+        "job_en": "City University of Hong Kong",
+        "job_zh": "香港城市大学"
+    },
+    {
+        "img": "秦泽群.jpg",
+        "name": "Zequn Qin",
+        "finally": "Master",
+        "job_en": "Zhejiang University",
+        "job_zh": "浙江大学"
+    },
+    {
+        "img": "孟照铁.jpg",
+        "name": "Zhaotie Meng",
+        "finally": "Master",
+        "job_en": "HIKVISION DIGITAL TECHNOLOGY",
+        "job_zh": "海康威视"
+    },
+    {
+        "img": "张星宇.jpg",
+        "name": "Xingyu Zhang",
+        "finally": "Master",
+        "job_en": "Longfor Group",
+        "job_zh": "北京龙湖集团"
+    },
+    {
+        "img": "宋春彪.jpg",
+        "name": "Chunbiao Song",
+        "finally": "Master",
+        "job_en": "Huawei Technologies",
+        "job_zh": "华为"
+    },
+    {
+        "img": "蒋旻悦.jpg",
+        "name": "Minyue Jiang",
+        "finally": "Master",
+        "job_en": "Baidu",
+        "job_zh": "百度"
+    },
+    {
+        "img": "张晓强.jpg",
+        "name": "Xiaoqiang Zhang",
+        "finally": "Master",
+        "job_en": "Baidu",
+        "job_zh": "百度"
+    },
+    {
+        "img": "杨馥魁.jpg",
+        "name": "Fukui Yang",
+        "finally": "Master",
+        "job_en": "Baidu",
+        "job_zh": "百度"
+    },
+    {
+        "img": "郑全全.jpg",
+        "name": "Quanquan Zheng",
+        "finally": "Master",
+        "job_en": "ZTE",
+        "job_zh": "中兴"
+    },
+    {
+        "img": "何翔.jpg",
+        "name": "Xiang He",
+        "finally": "Master",
+        "job_en": "Longfor Group",
+        "job_zh": "北京龙湖集团"
+    },
+    {
+        "img": "刘绍腾.jpg",
+        "name": "Shaoteng Liu",
+        "finally": "Master",
+        "job_en": "Tencent",
+        "job_zh": "腾讯"
+    },
+    {
+        "img": "李昊鹏.jpg",
+        "name": "Haopeng Li",
+        "finally": "Master",
+        "job_en": "The University of Melbourne",
+        "job_zh": "墨尔本大学"
+    },
+    {
+        "img": "华路路.jpg",
+        "name": "Lulu Hua",
+        "finally": "Master",
+        "job_en": "Huawei Technologies",
+        "job_zh": "华为"
+    },
+    {
+        "img": "郭元戎.jpg",
+        "name": "Yuanrong Guo",
+        "finally": "Master",
+        "job_en": "Institute of Space Electronic Technology",
+        "job_zh": "航天九院"
+    },
+    {
+        "img": "FahongZhang.jpg",
+        "name": "Fahong Zhang",
+        "finally": "Master",
+        "job_en": "Technische Universität München",
+        "job_zh": "慕尼黑工业大学"
+    },
+    {
+        "img": "ZhenghangYuan.jpg",
+        "name": "Zhenghang Yuan",
+        "finally": "Master",
+        "job_en": "Technische Universität München",
+        "job_zh": "慕尼黑工业大学"
+    },
+    {
+        "img": "CongZhang.jpg",
+        "name": "Cong Zhang",
+        "finally": "Master",
+        "job_en": "The Hong Kong Polytechnic University",
+        "job_zh": "香港理工大学"
+    },
+    {
+        "img": "WeiLin.jpg",
+        "name": "Wei Lin",
+        "finally": "Master",
+        "job_en": "City University of Hong Kong",
+        "job_zh": "香港城市大学"
+    },
+    {
+        "img": "WeiHuang.jpg",
+        "name": "Wei Huang",
+        "finally": "Master",
+        "job_en": "Technische Universität München",
+        "job_zh": "慕尼黑工业大学"
+    },
+    {
+        "img": "XuetingZhang.jpg",
+        "name": "Xueting Zhang",
+        "finally": "Master",
+        "job_en": "Technische Universität München",
+        "job_zh": "慕尼黑工业大学"
+    },
+    {
+        "img": "YueYuan.jpg",
+        "name": "Yue Yuan",
+        "finally": "Master",
+        "job_en": "China Airborne Missile Academy",
+        "job_zh": "中国空空导弹研究院"
+    },
+    {
+        "img": "NianhuGuo.jpg",
+        "name": "Nianhui Guo",
+        "finally": "Master",
+        "job_en": "Hasso-Plattner-Institute",
+        "job_zh": "哈索.普拉特纳研究院"
+    },
+    {
+        "img": "SikaiBai.jpg",
+        "name": "Sikai Bai",
+        "finally": "Master",
+        "job_en": "Technische Universität München",
+        "job_zh": "慕尼黑工业大学"
+    },
+    {
+        "img": "魏博.jpg",
+        "name": "Bo Wei",
+        "finally": "Master",
+        "job_en": "Alibaba Group",
+        "job_zh": "阿里巴巴集团控股有限公司"
+    },
+    {
+        "img": "XiaochengLu.jpg",
+        "name": "Xiaocheng Lu",
+        "finally": "Master",
+        "job_en": "Bytedance",
+        "job_zh": "字节跳动"
+    },
+    {
+        "img": "XuJiang.jpg",
+        "name": "Xu Jiang",
+        "finally": "Master",
+        "job_en": "The 14th Research Institute of CETC",
+        "job_zh": "中国电科第十四研究所"
+    },
+    {
+        "img": "ht.jpg",
+        "name": "Tao Han",
+        "finally": "Master",
+        "job_en": "Shanghai Artificial Intelligence Laboratory",
+        "job_zh": "上海人工智能实验室"
+    },
+    {
+        "img": "zy.jpg",
+        "name": "Yuan Zhang",
+        "finally": "Master",
+        "job_en": "China Telecom",
+        "job_zh": "中国电信"
+    }
+]

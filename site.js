@@ -131,19 +131,6 @@ $.getJSON('/paper/journal.json', function (data) {
 
     let filter = true;
 
-    // $('#full-j-publications').click(function () {
-    //     $('#journal-publications').empty();
-    //     filter ^= true;
-    //     if (filter) {
-    //         $('#selected-j-publications').text('Selected');
-    //         $('#full-j-publications').text('Full');
-    //     } else {
-    //         $('#selected-j-publications').text('Full');
-    //         $('#full-j-publications').text('Selected');
-    //     }
-    //     insertData(filter);
-    // });
-
     insertData(filter);
 });
 
@@ -159,19 +146,6 @@ $.getJSON('/paper/conference.json', function (data) {
 
     let filter = true;
 
-    // $('#full-c-publications').click(function () {
-    //     $('#conference-publications').empty();
-    //     filter ^= true;
-    //     if (filter) {
-    //         $('#selected-c-publications').text('Selected');
-    //         $('#full-c-publications').text('Full');
-    //     } else {
-    //         $('#selected-c-publications').text('Full');
-    //         $('#full-c-publications').text('Selected');
-    //     }
-    //     insertData(filter);
-    // });
-
     insertData(filter);
 });
 
@@ -181,4 +155,34 @@ $.getJSON('https://api.github.com/repos/crabwq/crabwq.github.io/commits', functi
     // format update_time to yyyy/MM/dd
     let update_time_str = update_time.getFullYear() + '/' + (update_time.getMonth() + 1) + '/' + update_time.getDate();
     $('#update-time').text(update_time_str);
+});
+
+$.getJSON('/graduates.json', function (data) {
+    let insertList = function (l) {
+        let el = $('#graduates-table')
+
+        for (let i = 0; i < (l.length + 3) / 4; i ++) {
+            let innerHtml = '';
+
+            for (let j = i * 4; j < i * 4 + 4 && j < l.length; j++) {
+                innerHtml += `
+                    <td class="graduates">
+                        <img src="/img/graduate/${l[j]["img"]}" alt="" height="200">
+                        <br/>
+                        ${l[j]['name']}, ${l[j]['finally']}
+                        <br/>
+                        ${l[j]['job_en']}
+                        <br/>
+                        (${l[j]['job_zh']})
+                    </td>`
+            }
+            el.html(el.html() + `<tr>${innerHtml}</tr>`)
+        }
+    }
+
+    let phd = data.filter(x => x['finally'].toLowerCase()[0] === 'p')
+    let master = data.filter(x => x['finally'].toLowerCase()[0] === 'm')
+
+    insertList(phd)
+    insertList(master)
 });
