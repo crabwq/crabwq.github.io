@@ -1,5 +1,16 @@
 [
     {
+        "origin": "C. Yang, M. Chen, Y. Yuan, and Q. Wang*, \"Text Growing on Leaf,\" IEEE Transactions on Multimedia (T-MM), DOI: 10.1109/TMM.2023.3244322.",
+        "link": "pdf/2023 TGOL.pdf"
+    },
+    {
+        "authors": "H. Ding, J. Gao, Y. Yuan, and Q. Wang*",
+        "title": "Boosting One-Stage License Plate Detector via Self-Constrained Contrastive Aggregation",
+        "publication": "IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)",
+        "ext-info": "DOI: 10.1109/TCSVT.2023.3241283",
+        "link": "pdf/2023 Boosting One-Stage License Plate Detector via Self-Constrained Contrastive Aggregation.pdf"
+    },
+    {
         "authors": "H. Ding, J. Gao, Y. Yuan, and Q. Wang*",
         "title": "Boosting One-Stage License Plate Detector via Self-Constrained Contrastive Aggregation",
         "publication": "IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)",

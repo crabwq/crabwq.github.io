@@ -121,6 +121,25 @@ let conferenceFilter = function (data) {
 
 // journal publications
 $.getJSON('/paper/journal.json', function (data) {
+    data = data.map(x => {
+        if (x['origin'] === undefined) return x;
+
+        let regex = /(.*?)\s*,\s*"(.*?)\s*.\s*"\s*(.*?\))\s*,\s*(.*)\s*\.\s*/
+        console.log(x['origin'])
+        let match = x['origin'].match(regex);
+        console.log(match)
+
+        return {
+            "authors": match[1],
+            "title": match[2],
+            "publication": match[3],
+            "ext-info": match[4],
+            "link": x['link'],
+            "Code": x['Code'],
+            "Dataset": x['Dataset']
+        }
+    });
+
     let insertData = function (filter=true) {
         $.each(data, function (i, x) {
             if (!filter || journalFilter(x)) {
