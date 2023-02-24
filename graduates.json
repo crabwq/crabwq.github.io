@@ -81,7 +81,7 @@
         "name": "Chunbiao Song",
         "finally": "Master",
         "job_en": "Huawei Technologies",
-        "job_zh": "华为"
+        "job_zh": ""
     },
     {
         "img": "蒋旻悦.jpg",
@@ -250,5 +250,12 @@
         "finally": "Master",
         "job_en": "Vastai Technologies",
         "job_zh": "瀚博半导体有限公司"
+    },
+    {
+        "img": "lrl.jpg",
+        "name": "Ruilong Lu",
+        "finally": "Master",
+        "job_en": "Huawei Technologies",
+        "job_zh": "华为"
     }
 ]
