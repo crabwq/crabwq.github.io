@@ -121,7 +121,7 @@
         "authors": "Q. Wang, N. Guo, Z. Xiong, Z. Yin, and X. Li",
         "title": "Gradient Matters: Designing Binarized Neural Networks via Enhanced Information-Flow",
         "publication": "IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI)",
-        "ext-info": "DOI: 10.1109/TPAMI.2021.3117908",
+        "ext-info": "vol. 44, no. 11, pp. 7551-7562, 2022",
         "link": "pdf/2021 Gradient Matters Designing Binarized Neural Networks via Enhanced Information-Flow.pdf",
         "Code": [
             "https://github.com/NicoNico6/Hyper-BinaryNet"
