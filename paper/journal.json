@@ -1,5 +1,9 @@
 [
     {
+        "origin": "J. Wang, J. Gao, Y. Yuan, and Q. Wang*, \"Crowd Localization from Gaussian Mixture Scoped Knowledge and Scoped Teacher,\" IEEE Transactions on Image Processing (T-IP), DOI: 10.1109/TIP.2023.3251727.",
+        "link": "pdf/2023 Crowd Localization from Gaussian Mixture Scoped.pdf"
+    },
+    {
         "origin": "C. Yang, M. Chen, Y. Yuan, and Q. Wang*, \"Text Growing on Leaf,\" IEEE Transactions on Multimedia (T-MM), DOI: 10.1109/TMM.2023.3244322.",
         "link": "pdf/2023 TGOL.pdf"
     },
