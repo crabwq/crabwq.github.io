@@ -124,7 +124,7 @@ $.getJSON('/paper/journal.json', function (data) {
     data = data.map(x => {
         if (x['origin'] === undefined) return x;
 
-        let regex = /(.*?)\s*,\s*"(.*?)\s*.\s*"\s*(.*?\))\s*,\s*(.*)\s*\.\s*/
+        let regex = /(.*?)\s*,\s*["|“](.*?)\s*.\s*["|”]\s*(.*?\))\s*,\s*(.*)\s*\.\s*/
         console.log(x['origin'])
         let match = x['origin'].match(regex);
         console.log(match)
