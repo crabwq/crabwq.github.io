@@ -1,5 +1,11 @@
 [
     {
+        "origin": "Q. Li, M. Gong, Y. Yuan, and Q. Wang*, “RGB-induced Feature Modulation Network for Hyperspectral Image Super-Resolution,”IEEE Transactions on Geoscience and Remote Sensing (T-GRS), DOI: 10.1109/TGRS.2023.3277486.",
+        "Code": [
+            "https://github.com/qianngli/IFMSR"
+        ]
+    },
+    {
         "origin": "Y. Liu, Z. Xiong, Y. Yuan, and Q. Wang*, “Distilling Knowledge from Super Resolution for Efficient Remote Sensing Salient Object Detection,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), DOI: 10.1109/TGRS.2023.3267271.",
         "link": "pdf/2023 Distilling Knowledge from Super Resolution for Efficient Remote Sensing Salient Object Detection.pdf"
     },
