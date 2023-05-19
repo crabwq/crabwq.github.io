@@ -1,5 +1,9 @@
 [
     {
+        "origin": "M. Zhang, Q. Li, Y. Miao, Y. Yuan, and Q. Wang*, “Difference-Guided Aggregation Network with Multi-Image Pixel Contrast for Change Detection,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), DOI: 10.1109/TGRS.2023.3278739.",
+        "link": "pdf/2023 Difference-Guided Aggregation Network with Multi-Image Pixel Contrast for Change Detection.pdf"
+    },
+    {
         "origin": "Q. Li, M. Gong, Y. Yuan, and Q. Wang*, “RGB-induced Feature Modulation Network for Hyperspectral Image Super-Resolution,”IEEE Transactions on Geoscience and Remote Sensing (T-GRS), DOI: 10.1109/TGRS.2023.3277486.",
         "Code": [
             "https://github.com/qianngli/IFMSR"
