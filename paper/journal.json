@@ -5,6 +5,7 @@
     },
     {
         "origin": "Q. Li, M. Gong, Y. Yuan, and Q. Wang*, “RGB-induced Feature Modulation Network for Hyperspectral Image Super-Resolution,”IEEE Transactions on Geoscience and Remote Sensing (T-GRS), DOI: 10.1109/TGRS.2023.3277486.",
+        "link": "pdf/2023 RGB-induced Feature Modulation Network for Hyperspectral Image Super-Resolution.pdf",
         "Code": [
             "https://github.com/qianngli/IFMSR"
         ]
