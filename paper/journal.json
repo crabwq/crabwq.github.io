@@ -4,7 +4,7 @@
         "link": "pdf/2023 Difference-Guided Aggregation Network with Multi-Image Pixel Contrast for Change Detection.pdf"
     },
     {
-        "origin": "Q. Li, M. Gong, Y. Yuan, and Q. Wang*, “RGB-induced Feature Modulation Network for Hyperspectral Image Super-Resolution,”IEEE Transactions on Geoscience and Remote Sensing (T-GRS), DOI: 10.1109/TGRS.2023.3277486.",
+        "origin": "Q. Li, M. Gong, Y. Yuan, and Q. Wang*, “RGB-induced Feature Modulation Network for Hyperspectral Image Super-Resolution,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), vol. 61, Art no. 5512611, pp. 1-11, 2023.",
         "link": "pdf/2023 RGB-induced Feature Modulation Network for Hyperspectral Image Super-Resolution.pdf",
         "Code": [
             "https://github.com/qianngli/IFMSR"
