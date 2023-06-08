@@ -1,225 +1,481 @@
-ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, body, html, div.paragraph, blockquote, fieldset, input { margin: 0; padding: 0; }
-ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, body, html, p, blockquote, fieldset, input { margin: 0; padding: 0; }
-a img { border: 0; }
-a { text-decoration: none; }
-body { font-family: 'Quattrocento', Verdana, Geneva, sans-serif; font-size: 14px; background:#fff; /*color: #3e3e3e;*/ }
+/* 这css也不知道是哪位拉的，我改不动了，后来者加油啊 */
+ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, body, html, div.paragraph, blockquote, fieldset, input {
+    margin: 0;
+    padding: 0;
+}
+
+ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, body, html, p, blockquote, fieldset, input {
+    margin: 0;
+    padding: 0;
+}
+
+a img {
+    border: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+body {
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    font-size: 14px;
+    background: #fff; /*color: #3e3e3e;*/
+}
+
 .container-all {
-    margin: 0 auto; width: 1000px;
+    margin: 0 auto;
+    width: 1000px;
 }
-.container { margin: 0 auto; width: 100%; }
-#header-wrap, #banner-wrap, #nav-wrap, #main-wrap, #footer-wrap { width:100%; min-width:100%; background: #fff;}
-#header-wrap{}
-#nav-wrap, #footer-wrap {background: #333; }
-h2 a {color: #09C;}
+
+.container {
+    margin: 0 auto;
+    width: 100%;
+}
+
+#header-wrap, #banner-wrap, #nav-wrap, #main-wrap, #footer-wrap {
+    width: 100%;
+    min-width: 100%;
+    background: #fff;
+}
+
+#header-wrap {
+}
+
+#nav-wrap, #footer-wrap {
+    background: #333;
+}
+
+h2 a {
+    color: #09C;
+}
+
 .STYLE7 {
-    font-family: "Palatino Linotype","Book Antiqua",Palatino,serif;
     font-size: 22pt;
     font-weight: bold;
-    text-align:center;
+    text-align: center;
 }
-.STYLE8 {
-    font-family: "楷体","Book Antiqua",Palatino,serif;
+
+.name-zh {
+    font-family: "楷体", "Book Antiqua", Palatino, serif;
     font-size: 22pt;
     font-weight: bold;
-    text-align:center;
+    text-align: center;
 }
+
 .STYLE9 {
-    font-family: "Palatino Linotype","Book Antiqua",Palatino,serif;
     font-size: 12pt;
-    text-align:center;
+    text-align: center;
 }
+
 .STYLE10 {
-    font-family: "Palatino Linotype","Book Antiqua",Palatino,serif;
     font-size: 14pt;
     font-weight: bold;
 }
-.STYLE11 {
-    font-family: "Palatino Linotype","Book Antiqua",Palatino,serif;
+
+.title-2 {
     font-size: 12pt;
-    text-align:left;
+    text-align: left;
     text-indent: 2em;
     vertical-align: top;
 }
+
 .STYLE11-2 {
-    font-family: "Palatino Linotype","Book Antiqua",Palatino,serif;
     font-size: 12pt;
-    text-align:left;
     text-indent: 4em;
-    padding-top:0px;
-    padding-bottom:0px;
-    text-align:justify;
-    text-justify:inter-ideograph;
+    padding-top: 0;
+    padding-bottom: 0;
+    text-align: justify;
+    text-justify: inter-ideograph;
 }
+
 .STYLE12 {
-    font-family: "Palatino Linotype","Book Antiqua",Palatino,serif;
     font-size: 12pt;
-    text-align:left;
-    padding-left:2em;
-    padding-top:2px;
-    padding-bottom:2px;
-    text-align:justify;
-    text-justify:inter-ideograph;
+    padding-left: 2em;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    text-align: justify;
+    text-justify: inter-ideograph;
 }
+
 .STYLE13 {
-    font-family: "Palatino Linotype","Book Antiqua",Palatino,serif;
     font-size: 12pt;
-    text-align:left;
-    width:100%;
-    padding-top:2px;
-    padding-bottom:2px;
-    text-align:justify;
-    text-justify:inter-ideograph;
+    width: 100%;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    text-align: justify;
+    text-justify: inter-ideograph;
 }
-.STYLE14 {
-    font-family: "Palatino Linotype","Book Antiqua",Palatino,serif;
+
+.list-2 {
     font-size: 12pt;
-    text-align:left;
     text-indent: 2em;
-    padding-top:0px;
-    padding-bottom:0px;
-    text-align:justify;
-    text-justify:inter-ideograph;
+    padding-top: 0;
+    padding-bottom: 0;
+    text-align: justify;
+    text-justify: inter-ideograph;
     margin-left: 2em;
 }
-.STYLE14-3{
-    font-family: "Palatino Linotype","Book Antiqua",Palatino,serif;
-    font-size: 12pt;
-    text-align:left;
-    width:100%;
-    padding-left: 2em;
-    padding-right: 10em;
-    padding-top:2px;
-    padding-bottom:2px;
-    text-align:justify;
-    text-justify:inter-ideograph;
+
+.list-2:before {
+    content: '•';
+    padding-right: 1ch;
 }
-.STYLE14-4{
-    font-family: "Palatino Linotype","Book Antiqua",Palatino,serif;
-    font-size: 12pt;
-    text-align:left;
-    width:100%;
-    padding-left: 0em;
-    padding-top:2px;
-    padding-bottom:2px;
-    text-align:justify;
-    text-justify:inter-ideograph;
+
+
+.no-prefix:before {
+    content: '' !important;
+    padding-right: 0 !important;
 }
-.STYLE14-5{
-    font-family: "Palatino Linotype","Book Antiqua",Palatino,serif;
+
+
+.STYLE14-3 {
     font-size: 12pt;
-    text-align:left;
+    width: 100%;
+    padding: 2px 10em 2px 2em;
+    text-align: justify;
+    text-justify: inter-ideograph;
+}
+
+.STYLE14-4 {
+    font-size: 12pt;
+    width: 100%;
+    padding-left: 0;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    text-align: justify;
+    text-justify: inter-ideograph;
+}
+
+.STYLE14-5 {
+    font-size: 12pt;
     text-indent: 2em;
-    width:100%;
-    padding-left: 0em;
-    padding-top:2px;
-    padding-bottom:2px;
-    text-align:justify;
-    text-justify:inter-ideograph;
+    width: 100%;
+    padding-left: 0;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    text-align: justify;
+    text-justify: inter-ideograph;
 }
+
 .STYLE15 {
-    font-family: "Palatino Linotype","Book Antiqua",Palatino,serif;
     font-size: 12pt;
-    text-align:left;
     text-indent: 4em;
-    padding-top:2px;
-    padding-bottom:0px;
-    text-align:justify;
-    text-justify:inter-ideograph;
+    padding-top: 2px;
+    padding-bottom: 0;
+    text-align: justify;
+    text-justify: inter-ideograph;
 }
+
 .STYLE15-1 {
-    font-family: "Palatino Linotype","Book Antiqua",Palatino,serif;
     font-size: 12pt;
-    text-align:left;
     text-indent: 4em;
-    padding-top:2px;
-    padding-left: 0px;
-    text-align:justify;
-    text-justify:inter-ideograph;
+    padding-top: 2px;
+    padding-left: 0;
+    text-align: justify;
+    text-justify: inter-ideograph;
 }
+
 .STYLE16 {
-    font-family: "Palatino Linotype","Book Antiqua",Palatino,serif;
     font-size: 12pt;
-    text-align:left;
     text-indent: 2em;
-    text-align:justify;
-    text-justify:inter-ideograph;
+    text-align: justify;
+    text-justify: inter-ideograph;
     vertical-align: top;
 }
+
 .STYLE17 {
-    font-family: "Palatino Linotype","Book Antiqua",Palatino,serif;
     font-size: 12pt;
-    text-align:left;
-    text-indent: 0em;
-    text-align:justify;
-    text-justify:inter-ideograph;
+    text-indent: 0;
+    text-align: justify;
+    text-justify: inter-ideograph;
 }
+
 .graduates {
-    font-family: "Palatino Linotype","Book Antiqua",Palatino,serif;
     font-size: 11pt;
-    text-align:center;
-    text-justify:inter-ideograph;
-    white-space:nowrap;
+    text-align: center;
+    text-justify: inter-ideograph;
+    white-space: nowrap;
 }
 
-td{
-    text-align:center;
+td {
+    text-align: center;
 }
-h2 a:hover{color: #0CF; border-bottom: 1px solid #0CF;}
-div.paragraph a { color: #09C; text-decoration: none; }
-div.paragraph a:hover { color: #0CF; border-bottom: 1px solid #0CF; }
-blockquote { font-style:italic; border-left:4px solid #ddd; margin:10px 0 10px 0; padding-left:20px; line-height:1.5; color:#888; }
-.wsite-multicol-table-wrap {margin:0 !important;}
-h2 { font-size: 24px; padding: .5em 0 .2em 0; line-height: 1.2; font-weight: normal; color: #000; }
-div.paragraph { line-height: 1.5; padding: .5em 0; }
-p { line-height: 1.5; padding: .5em 0; }
-div#content {min-height:400px;}
-#header-wrap { padding:10px 0px 5px;}
-#logo, #logo a { color:#000; font-size:30px; border:none; }
-#header, #nav-table { border-collapse: collapse; border-spacing: 0; width:100%; }
-#header td { vertical-align: middle; text-align: left; }
-#nav-wrap { padding:5px 0px 15px; border-bottom:2px solid #0CF;}
-#nav-wrap .container { clear: both; overflow: hidden; position: relative; }
-#nav-wrap .container ul { list-style: none; }
-#nav-wrap .container ul > li:first-child a, #nav-wrap .container ul span:first-child li a { padding-left:0px; }
-#nav-wrap .container ul > li:last-child, #nav-wrap .container ul span:last-child li { background:none; padding:0px; }
-#nav-wrap .container ul li a { display: block; padding: 5px 20px; border: 0; outline: 0; list-style-type: none; }
-#nav-wrap .container ul li#active a, #nav-wrap .container ul li a:hover { border: 0; color:#ddd; }
-#wsite-menus .wsite-menu li a { border: 0; background:none; }
-#wsite-menus .wsite-menu li:first-child a:hover { border-radius:5px 5px 0 0; }
-#wsite-menus .wsite-menu li:last-child a:hover { border-radius:0 0 5px 5px; }
-.tall-header-page #banner { position:relative; }
-.short-header-page #banner { position:relative; }
-.no-header-page #banner-wrap { height:0px; border-bottom:none; }
-.no-header-page .wsite-header { display:none; }
-.landing-page #banner { background: none; padding: 65px 0px 0px; min-height:390px; }
-#bannerleft { float: left; width: 325px; }
-.landing-banner-outer { display: table; #position: relative; overflow: hidden; }
-.landing-banner-mid { #position: absolute; #top: 50%; display: table-cell; vertical-align: middle; }
-#bannerright { float: right; padding: 0 80px 0 45px; width: 510px; height: 324px; }
-#bannerright h2 { color: #484747; font-size: 36px; font-weight:normal; margin: 0px; padding: 0px; line-height: 36px; }
-#bannerright div.paragraph { color: #656565; font-size: 14px; padding: 20px 0px; line-height: 140%; }
-#bannerright p { color: #656565; font-size: 14px; padding: 20px 0px; line-height: 140%; }
-#bannerright .wsite-button { margin: 0px; }
 
-#main-wrap .container { padding:30px 0px 50px; min-height:500px; }
-#main-wrap .paragraph li { list-style:circle !important; }
-#main-wrap .container form .wsite-button { margin-top:20px; }
+h2 a:hover {
+    color: #0CF;
+    border-bottom: 1px solid #0CF;
+}
 
-#footer-wrap { text-align:right; color:#666; border-top:2px solid #0CF; background:#333; }
-#footer-wrap .container { padding:30px 0px 50px; }
-#footer-wrap h2 { color:#fff; font-size:19px; }
-#footer-wrap blockquote { border-left:4px solid #666; color:#888; }
-#footer-wrap div.paragraph a, .weebly-footer a { color:#fff; border-bottom:1px dashed #fff; }
-#footer-wrap p a, .weebly-footer a { color: #fff; border-bottom:1px dashed #fff; }
-#footer-wrap a {color:#fff;}
-#footer-wrap .wsite-form-container { text-align:left; }
-.wsite-form-label { display: inline-block; }
-#footer-wrap .wsite-form-container { margin-top:0px !important; }
+div.paragraph a {
+    color: #09C;
+    text-decoration: none;
+}
 
-div.paragraph ul, div.paragraph ol { padding-left: 2.3em !important; margin: 5px 0 !important; overflow:hidden; }
-div.paragraph li { padding-left: 5px !important; margin: 3px 0 0 !important; }
-div.paragraph ul, div.paragraph ul li { list-style: disc outside !important; }
-div.paragraph ol, div.paragraph ol li { list-style: decimal outside !important; }
+div.paragraph a:hover {
+    color: #0CF;
+    border-bottom: 1px solid #0CF;
+}
+
+blockquote {
+    font-style: italic;
+    border-left: 4px solid #ddd;
+    margin: 10px 0 10px 0;
+    padding-left: 20px;
+    line-height: 1.5;
+    color: #888;
+}
+
+.wsite-multicol-table-wrap {
+    margin: 0 !important;
+}
+
+h2 {
+    font-size: 24px;
+    padding: .5em 0 .2em 0;
+    line-height: 1.2;
+    font-weight: normal;
+    color: #000;
+}
+
+div.paragraph {
+    line-height: 1.5;
+    padding: .5em 0;
+}
+
+p {
+    line-height: 1.5;
+    padding: .5em 0;
+}
+
+div#content {
+    min-height: 400px;
+}
+
+#header-wrap {
+    padding: 10px 0 5px;
+}
+
+#logo, #logo a {
+    color: #000;
+    font-size: 30px;
+    border: none;
+}
+
+#header, #nav-table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;
+}
+
+#header td {
+    vertical-align: middle;
+    text-align: left;
+}
+
+#nav-wrap {
+    padding: 5px 0 15px;
+    border-bottom: 2px solid #0CF;
+}
+
+#nav-wrap .container {
+    clear: both;
+    overflow: hidden;
+    position: relative;
+}
+
+#nav-wrap .container ul {
+    list-style: none;
+}
+
+#nav-wrap .container ul > li:first-child a, #nav-wrap .container ul span:first-child li a {
+    padding-left: 0;
+}
+
+#nav-wrap .container ul > li:last-child, #nav-wrap .container ul span:last-child li {
+    background: none;
+    padding: 0;
+}
+
+#nav-wrap .container ul li a {
+    display: block;
+    padding: 5px 20px;
+    border: 0;
+    outline: 0;
+    list-style-type: none;
+}
+
+#nav-wrap .container ul li#active a, #nav-wrap .container ul li a:hover {
+    border: 0;
+    color: #ddd;
+}
+
+#wsite-menus .wsite-menu li a {
+    border: 0;
+    background: none;
+}
+
+#wsite-menus .wsite-menu li:first-child a:hover {
+    border-radius: 5px 5px 0 0;
+}
+
+#wsite-menus .wsite-menu li:last-child a:hover {
+    border-radius: 0 0 5px 5px;
+}
+
+.tall-header-page #banner {
+    position: relative;
+}
+
+.short-header-page #banner {
+    position: relative;
+}
+
+.no-header-page #banner-wrap {
+    height: 0;
+    border-bottom: none;
+}
+
+.no-header-page .wsite-header {
+    display: none;
+}
+
+.landing-page #banner {
+    background: none;
+    padding: 65px 0 0;
+    min-height: 390px;
+}
+
+#bannerleft {
+    float: left;
+    width: 325px;
+}
+
+.landing-banner-outer {
+    display: table;
+    #position: relative;
+    overflow: hidden;
+}
+
+.landing-banner-mid {
+    #position: absolute;
+    #top: 50%;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+#bannerright {
+    float: right;
+    padding: 0 80px 0 45px;
+    width: 510px;
+    height: 324px;
+}
+
+#bannerright h2 {
+    color: #484747;
+    font-size: 36px;
+    font-weight: normal;
+    margin: 0;
+    padding: 0;
+    line-height: 36px;
+}
+
+#bannerright div.paragraph {
+    color: #656565;
+    font-size: 14px;
+    padding: 20px 0;
+    line-height: 140%;
+}
+
+#bannerright p {
+    color: #656565;
+    font-size: 14px;
+    padding: 20px 0;
+    line-height: 140%;
+}
+
+#bannerright .wsite-button {
+    margin: 0;
+}
+
+#main-wrap .container {
+    padding: 30px 0 50px;
+    min-height: 500px;
+}
+
+#main-wrap .paragraph li {
+    list-style: circle !important;
+}
+
+#main-wrap .container form .wsite-button {
+    margin-top: 20px;
+}
+
+#footer-wrap {
+    text-align: right;
+    color: #666;
+    border-top: 2px solid #0CF;
+    background: #333;
+}
+
+#footer-wrap .container {
+    padding: 30px 0 50px;
+}
+
+#footer-wrap h2 {
+    color: #fff;
+    font-size: 19px;
+}
+
+#footer-wrap blockquote {
+    border-left: 4px solid #666;
+    color: #888;
+}
+
+#footer-wrap div.paragraph a, .weebly-footer a {
+    color: #fff;
+    border-bottom: 1px dashed #fff;
+}
+
+#footer-wrap p a, .weebly-footer a {
+    color: #fff;
+    border-bottom: 1px dashed #fff;
+}
+
+#footer-wrap a {
+    color: #fff;
+}
+
+#footer-wrap .wsite-form-container {
+    text-align: left;
+}
+
+.wsite-form-label {
+    display: inline-block;
+}
+
+#footer-wrap .wsite-form-container {
+    margin-top: 0 !important;
+}
+
+div.paragraph ul, div.paragraph ol {
+    padding-left: 2.3em !important;
+    margin: 5px 0 !important;
+    overflow: hidden;
+}
+
+div.paragraph li {
+    padding-left: 5px !important;
+    margin: 3px 0 0 !important;
+}
+
+div.paragraph ul, div.paragraph ul li {
+    list-style: disc outside !important;
+}
+
+div.paragraph ol, div.paragraph ol li {
+    list-style: decimal outside !important;
+}
 
 @font-face {
     font-family: 'Quattrocento';
@@ -227,12 +483,14 @@ div.paragraph ol, div.paragraph ol li { list-style: decimal outside !important; 
     font-weight: 400;
     src: local('Quattrocento'), url(http://themes.googleusercontent.com/static/fonts/quattrocento/v4/WZDISdyil4HsmirlOdBRFKRDOzjiPcYnFooOUGCOsRk.woff) format('woff');
 }
+
 @font-face {
     font-family: 'Quattrocento';
     font-style: normal;
     font-weight: 700;
     src: local('Quattrocento Bold'), local('Quattrocento-Bold'), url(http://themes.googleusercontent.com/static/fonts/quattrocento/v4/Uvi-cRwyvqFpl9j3oT2mqhAPw1J91axKNXP_-QX9CC8.woff) format('woff');
 }
+
 /*************************************************/
 /*************************************************/
 /*************************************************/
@@ -245,13 +503,16 @@ div.paragraph ol, div.paragraph ol li { list-style: decimal outside !important; 
 .author-list {
     margin-right: 6px;
 }
+
 .author-list::after {
     content: ',';
 }
+
 /*************************************************/
 .paper-title {
     margin-right: 6px;
 }
+
 .paper-title::before {
     content: '“';
 }
@@ -259,6 +520,7 @@ div.paragraph ol, div.paragraph ol li { list-style: decimal outside !important; 
 .paper-title::after {
     content: ',”';
 }
+
 /*************************************************/
 .paper-pub {
     font-style: italic;
@@ -279,20 +541,24 @@ div.paragraph ol, div.paragraph ol li { list-style: decimal outside !important; 
     content: '.';
     color: black !important;
 }
+
 /*************************************************/
 .paper-ext-info {
     margin-right: 6px;
 }
+
 .paper-ext-info::after {
     content: '.';
 }
+
 /*************************************************/
 .star::after {
     vertical-align: text-top;
     font-size: smaller;
     content: '*';
-    font-weight: normal!important;
+    font-weight: normal !important;
 }
+
 /*************************************************/
 .code-link {
     color: #FF0000
@@ -318,6 +584,7 @@ div.paragraph ol, div.paragraph ol li { list-style: decimal outside !important; 
 .paper-link::after {
     content: '[PDF]';
 }
+
 /*************************************************/
 .link-group {
     color: blue;
@@ -338,75 +605,89 @@ div.paragraph ol, div.paragraph ol li { list-style: decimal outside !important; 
     counter-increment: link-group-counter;
     content: " Link" counter(link-group-counter);
 }
+
 /*************************************************/
 .font-pl {
-    font-family: "Palatino Linotype","Book Antiqua",Palatino,serif;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
     font-size: 12pt;
 }
+
 /*************************************************/
-.list-head {
+.list-1 {
     text-indent: 4em;
     vertical-align: top;
     text-align: left;
     padding: 0;
 }
 
-.list-head::before {
+.list-1::before {
     content: '• ';
 }
 
 /*************************************************/
 .text-left {
-    text-align: left!important;
+    text-align: left !important;
 }
+
 .text-indent-2 {
-    text-indent: 2em!important;
+    text-indent: 2em !important;
 }
+
 .text-indent-4 {
-    text-indent: 4em!important;
+    text-indent: 4em !important;
 }
+
 .ml-2 {
-    margin-left: 2em!important;
+    margin-left: 2em !important;
 }
+
 /*************************************************/
 .color-red {
     color: red;
 }
+
 /*************************************************/
 h2 {
     text-align: left;
     padding-top: 20px;
-    font-family: "Palatino Linotype","Book Antiqua",Palatino,serif;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
     font-size: 14pt;
     font-weight: bold;
 }
+
 /*************************************************/
 a.table-link-list {
-    font-family: "Palatino Linotype","Book Antiqua",Palatino,serif;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
     font-size: 12pt;
-    text-align:center;
+    text-align: center;
 }
+
 a.table-link-list::before {
     content: '[';
 }
+
 a.table-link-list::after {
     content: ']';
 }
+
 /*************************************************/
 a.to-top {
-    font-family: "Palatino Linotype","Book Antiqua",Palatino,serif;
     text-align: right;
 }
+
 a.to-top::after {
     content: "[↑TOP]";
 }
+
 /*************************************************/
 .access-code {
     font-size: small;
 }
+
 .access-code::before {
     content: ' (Access Code: ';
 }
+
 .access-code::after {
     content: ')';
 }
