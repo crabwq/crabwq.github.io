@@ -1,6 +1,6 @@
 [
     {
-        "origin": "K. Chi, Y. Yuan, and Q. Wang*, “Trinity-Net: Gradient-guided Swin Transformer-based Remote sensing Image Dehazing and Beyond,” IEEE Geoscience and Remote Sensing Letters (GRSL), 2023.",
+        "origin": "K. Chi, Y. Yuan, and Q. Wang*, “Trinity-Net: Gradient-guided Swin Transformer-based Remote sensing Image Dehazing and Beyond,” IEEE Geoscience and Remote Sensing Letters (T-GRS), 2023.",
         "link": "pdf/2023 Trinity-Net.pdf",
         "Code": [
             "https://github.com/chi-kaichen/Trinity-Net"
