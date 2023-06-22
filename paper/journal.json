@@ -1,5 +1,9 @@
 [
     {
+        "origin": "C. Yang, M. Chen, Y. Yuan, and Q. Wang*, \"Zoom Text Detector,\" IEEE Transactions on Neural Networks and Learning Systems (T-NNLS), 2023.",
+        "link": "pdf/2023 Zoom Text Detector.pdf"
+    },
+    {
         "origin": "K. Chi, Y. Yuan, and Q. Wang*, “Trinity-Net: Gradient-guided Swin Transformer-based Remote sensing Image Dehazing and Beyond,” IEEE Geoscience and Remote Sensing Letters (T-GRS), 2023.",
         "link": "pdf/2023 Trinity-Net.pdf",
         "Code": [
