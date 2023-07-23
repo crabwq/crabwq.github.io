@@ -1,5 +1,12 @@
 [
     {
+        "origin": "Y. Liu, Z. Xiong, Y. Yuan, and Q. Wang*, “Transcending Pixels: Boosting Saliency Detection via Scene Understanding from Aerial Imagery,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), DOI: 10.1109/TGRS.2023.3298661.",
+        "link": "pdf/2023 SASOD.pdf",
+        "Code": [
+            "https://github.com/lyf0801/SDNet"
+        ]
+    },
+    {
         "origin": "Y. Jia, J. Gao, W. Huang, Y. Yuan, and Q. Wang*, \"Exploring Hard Samples in Multi-View for Few-Shot Remote Sensing Scene Classification,\" IEEE Transactions on Geoscience and Remote Sensing (T-GRS), 2023.",
         "link": "pdf/2023 Exploring Hard Samples in Multi-View for Few-Shot Remote Sensing Scene Classification.pdf"
     },
