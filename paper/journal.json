@@ -1,5 +1,12 @@
 [
     {
+        "origin": "Y. Liu, Y. Yuan, and Q. Wang*, \"Uncertainty-Aware Graph Reasoning with Global Collaborative Learning for Remote Sensing Salient Object Detection,\" IEEE Geoscience and Remote Sensening Letters (GRSL), 2023.",
+        "link": "pdf/2023 UG2L.pdf",
+        "Code": [
+            "https://github.com/lyf0801/UG2L"
+        ]
+    },
+    {
         "origin": "Y. Liu, Z. Xiong, Y. Yuan, and Q. Wang*, “Transcending Pixels: Boosting Saliency Detection via Scene Understanding from Aerial Imagery,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), DOI: 10.1109/TGRS.2023.3298661.",
         "link": "pdf/2023 SASOD.pdf",
         "Code": [
