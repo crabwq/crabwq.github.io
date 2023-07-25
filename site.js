@@ -4,9 +4,7 @@ function insert_paper(paper, selector) {
 
     let authors = document.createElement('span');
     authors.className = "author-list";
-    authors.innerHTML = paper['authors'].includes('*')
-        ? paper['authors'].replace('Q. Wang*', '<b class="star">Q. Wang</b>')
-        : paper['authors'].replace('Q. Wang', '<b>Q. Wang</b>');
+    authors.innerHTML = paper['authors'].includes('*') ? paper['authors'].replace('Q. Wang*', '<b class="star">Q. Wang</b>') : paper['authors'].replace('Q. Wang', '<b>Q. Wang</b>');
     newLi.appendChild(authors);
 
     let title = document.createElement('span');
@@ -86,46 +84,10 @@ function insert_paper(paper, selector) {
     $(selector).append(newLi);
 }
 
-// selected journal filter
-// false -> hide
-let journalFilter = function (data) {
-    if (data['hide'] === true) return false;
-    if (data['hide'] === false) return true;
-
-    // INCLUDE: first author
-    if (data['authors'].startsWith('Q. Wang')) return true;
-    if (data['authors'].startsWith('<b')) return true;
-    // INCLUDE: IEEE Transaction
-    if (data['publication'].includes('IEEE Trans')) return true;
-    // INCLUDE: ACM Transaction
-    if (data['publication'].includes('ACM Trans')) return true;
-    // INCLUDE: IJCV
-    if (data['publication'].includes('IJCV')) return true;
-    // INCLUDE: GRSL
-    if (data['publication'].includes('GRSL')) return true;
-    // INCLUDE: paper with code OR dataset OR demo
-    if (data['Code'] !== undefined || data['Dataset'] !== undefined || data['Demo'] !== undefined) return true;
-
-    return false;
-}
-
-// selected conference filter
-// false -> hide
-let conferenceFilter = function (data) {
-    if (data['hide'] === true) return false;
-    if (data['hide'] === false) return true;
-    // EXCLUDE: ICASSP
-    if (!data['publication'].includes('ICASSP')) return true;
-    return false;
-}
-
 function parseOrigin(x) {
     if (x['origin'] === undefined) return x;
-
-    let regex = /(.*?)\s*,\s*["|“](.*?)\s*.\s*["|”]\s*(.*?\))\s*,\s*(.*)\s*\.\s*/
-    console.log(x['origin'])
+    let regex = /(.*?)\s*,\s*["“](.*?)\s*.\s*["”]\s*(.*?\)?)\s*,\s*([^(]*)\s*\.\s*/
     let match = x['origin'].match(regex);
-    console.log(match)
 
     return {
         "authors": match[1],
@@ -142,34 +104,18 @@ function parseOrigin(x) {
 $.getJSON('/paper/journal.json', function (data) {
     data = data.map(parseOrigin);
 
-    let insertData = function (filter=true) {
-        $.each(data, function (i, x) {
-            if (!filter || journalFilter(x)) {
-                insert_paper(x, '#journal-publications');
-            }
-        });
-    }
-
-    let filter = true;
-
-    insertData(filter);
+    $.each(data, function (i, x) {
+        insert_paper(x, '#journal-publications');
+    });
 });
 
 // conference publications
 $.getJSON('/paper/conference.json', function (data) {
     data = data.map(parseOrigin);
 
-    let insertData = function (filter=true) {
-        $.each(data, function (i, x) {
-            if (!filter || conferenceFilter(x)) {
-                insert_paper(x, '#conference-publications');
-            }
-        });
-    }
-
-    let filter = true;
-
-    insertData(filter);
+    $.each(data, function (i, x) {
+        insert_paper(x, '#conference-publications');
+    });
 });
 
 $.getJSON('https://api.github.com/repos/crabwq/crabwq.github.io/commits', function (data) {
@@ -184,7 +130,7 @@ $.getJSON('/graduates.json', function (data) {
     let insertList = function (l) {
         let el = $('#graduates-table')
 
-        for (let i = 0; i < (l.length + 3) / 4; i ++) {
+        for (let i = 0; i < (l.length + 3) / 4; i++) {
             let innerHtml = '';
 
             for (let j = i * 4; j < i * 4 + 4 && j < l.length; j++) {
