@@ -14,7 +14,7 @@
         ]
     },
     {
-        "origin": "Y. Jia, J. Gao, W. Huang, Y. Yuan, and Q. Wang*, \"Exploring Hard Samples in Multi-View for Few-Shot Remote Sensing Scene Classification,\" IEEE Transactions on Geoscience and Remote Sensing (T-GRS), 2023.",
+        "origin": "Y. Jia, J. Gao, W. Huang, Y. Yuan, and Q. Wang*, “Exploring Hard Samples in Multi-View for Few-Shot Remote Sensing Scene Classification,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), vol. 61, pp. 1-14, Art no. 5615714, 2023.",
         "link": "pdf/2023 Exploring Hard Samples in Multi-View for Few-Shot Remote Sensing Scene Classification.pdf"
     },
     {
@@ -115,8 +115,8 @@
         ]
     },
     {
-        "origin": "J. Gao, T. Han, Y. Yuan, and Q. Wang*, \"Domain-adaptive Crowd Counting via High-quality Image Translation and Density Reconstruction,\" IEEE Transactions on Neural Networks and Learning Systems (T-NNLS), DOI: 10.1109/TNNLS.2021.3124272.",
-        "link": "pdf/2021 Domain-adaptive Crowd Counting via High-quality.pdf"
+        "origin": "J. Gao, T. Han, Y. Yuan, and Q. Wang*, “Domain-Adaptive Crowd Counting via High-Quality Image Translation and Density Reconstruction,” IEEE Transactions on Neural Networks and Learning Systems (T-NNLS), vol. 34, no. 8, pp. 4803-4815, 2023.",
+        "link": "2023 Domain-Adaptive Crowd Counting via High-Quality Image Translation and Density Reconstruction.pdf"
     },
     {
         "origin": "Q. Wang, N. Guo, Z. Xiong, Z. Yin, and X. Li, \"Gradient Matters: Designing Binarized Neural Networks via Enhanced Information-Flow,\" IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI), vol. 44, no. 11, pp. 7551-7562, 2022.",
