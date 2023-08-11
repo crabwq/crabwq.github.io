@@ -1,5 +1,9 @@
 [
     {
+        "origin": "H. Ding, J. Gao, Y. Yuan, and Q. Wang*, “An End-to-End Contrastive License Plate Detector,” IEEE Transactions on Intelligent Transportation Systems (T-ITS), DOI: 10.1109/TITS.2023.3304816.",
+        "link": "pdf/2023 dhx-bare_jrnl.pdf"
+    },
+    {
         "origin": "Y. Liu, Y. Yuan, and Q. Wang*, \"Uncertainty-Aware Graph Reasoning with Global Collaborative Learning for Remote Sensing Salient Object Detection,\" IEEE Geoscience and Remote Sensing Letters (GRSL), DOI: 10.1109/LGRS.2023.3299245.",
         "link": "pdf/2023 UG2L.pdf",
         "Code": [
