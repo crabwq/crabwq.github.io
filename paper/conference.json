@@ -1,184 +1,184 @@
 [
     {
         "origin": "Z. Xiong, Y. Liu, Q. Wang, and X. X. Zhu, \"RSSOD-Bench: A Large-Scale Benchmark Dataset for Salient Object Detection in Optical Remote Sensing Imagery,\" Proc. IEEE International Geoscience and Remote Sensing Symposium (IGARSS), 2023.",
-        "link": "pdf/2023 RSSOD.pdf",
+        "link": "2023 RSSOD.pdf",
         "Dataset": [
             "https://github.com/EarthNets/Dataset4EO"
         ]
     },
     {
         "origin": "Y. Zhang, Y. Yuan, and Q. Wang*, \"Multi-Level Graph Contrastive Prototypical Clustering,\" Proc. International Joint Conference on Artificial Intelligence (IJCAI), 2023.",
-        "link": "pdf/2023 Multi-level Graph Contrastive Prototypical Clustering.pdf"
+        "link": "2023 Multi-level Graph Contrastive Prototypical Clustering.pdf"
     },
     {
         "origin": "T. Han, L. Bai, J. Gao, Q. Wang*, and W. Ouyang, \"DR.VIC: Decomposition and Reasoning for Video Individual Counting,\" Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), pp. 3073-3082, 2022.",
-        "link": "pdf/2022 DR.VIC.pdf"
+        "link": "2022 DR.VIC.pdf"
     },
     {
         "origin": "X. Lu, Y. Yuan, and Q. Wang*, \"AWFA-LPD: Adaptive Weight Feature Aggregation for Multi-frame License Plate Detection,\" Proc. ACM International Conference on Multimedia Retrieval (ICMR), pp. 476-480, 2021.",
-        "link": "pdf/2021 AWFA-LPD AdaptiveWeight Feature Aggregation for.pdf"
+        "link": "2021 AWFA-LPD AdaptiveWeight Feature Aggregation for.pdf"
     },
     {
         "origin": "J. Hu, Q. Wang*, and X. Li, \"Road Extraction from Satellite Image via Auxiliary Road Location Prediction,\" Proc. IEEE International Geoscience and Remote Sensing Symposium (IGARSS), pp.2182-2185, 2021.",
-        "link": "pdf/2021 ROAD EXTRACTION FROM SATELLITE IMAGE VIA AUXILIARY ROAD LOCATION.pdf"
+        "link": "2021 ROAD EXTRACTION FROM SATELLITE IMAGE VIA AUXILIARY ROAD LOCATION.pdf"
     },
     {
         "origin": "Y. Miao, Q. Wang*, M. Chen, and X. Li, \"Spatial-spectral Hyperspectral Image Classification via Multiple Random Anchor Graphs Ensemble Learning,\" Proc. IEEE International Geoscience and Remote Sensing Symposium (IGARSS), pp. 3641-3644,2021.",
-        "link": "pdf/2021 Spatial-spectral Hyperspectral Image Classification via Multiple Random Anchor Graphs Ensemble Learning.pdf"
+        "link": "2021 Spatial-spectral Hyperspectral Image Classification via Multiple Random Anchor Graphs Ensemble Learning.pdf"
     },
     {
         "origin": "Q. Li, Q. Wang*, and X. Li, \"Hyperspectral Image Super-Resolution via Multi-Domain Feature Learning,\" Proc. IEEE International Geoscience and Remote Sensing Symposium (IGARSS), pp. 4135-4138, 2021.",
-        "link": "pdf/2021 HYPERSPECTRAL IMAGE SUPER-RESOLUTION VIA MULTI-DOMAIN FEATURE.pdf"
+        "link": "2021 HYPERSPECTRAL IMAGE SUPER-RESOLUTION VIA MULTI-DOMAIN FEATURE.pdf"
     },
     {
         "origin": "S. Bai, J. Gao, Q. Wang*, and X. Li, \"Multi-domain Synchronous Refinement Network for Unsupervised Cross-Domain Person Re-Identification,\" Proc. IEEE International Conference on Multimedia and Expo (ICME), pp. 1-6, 2021.",
-        "link": "pdf/2021 Multi-domain Synchronous Refinement Network for Unsupervised Cross-Domain Person Re-Identification.pdf"
+        "link": "2021 Multi-domain Synchronous Refinement Network for Unsupervised Cross-Domain Person Re-Identification.pdf"
     },
     {
         "origin": "Y. Yuan, Q. Wang, and X. Li, \"Hyperspectral and Multispectral Image Fusion Using Non-Convex Relaxation Low Rank and Total Variation Regularization,\" Proc. IEEE International Geoscience and Remote Sensing Symposium (IGARSS), pp. 2683-2686, 2020.",
-        "link": "pdf/2020 Hyperspectral and Multispectral Image Fusion Using Non-Convex Relaxation Low Rank and Total Variation Regularization.pdf"
+        "link": "2020 Hyperspectral and Multispectral Image Fusion Using Non-Convex Relaxation Low Rank and Total Variation Regularization.pdf"
     },
     {
         "origin": "S. Bai, Q. Wang*, and X. Li, \"MFI: Multi-range Feature Interchange for Video Action Recognition,\" International Conference on Pattern Recognition (ICPR), pp. 6664-6671, 2020.",
-        "link": "pdf/2020 MFI Multi-range Feature Interchange for Video Action Recognition.pdf"
+        "link": "2020 MFI Multi-range Feature Interchange for Video Action Recognition.pdf"
     },
     {
         "origin": "T. Han, J. Gao, Y. Yuan, and Q. Wang*, \"Unsupervised Semantic Aggregation and Deformable Template Matching for Semi-Supervised Learning,\" Proc. Conference on Neural Information Processing Systems (NeurIPS), pp. 9961-9971, 2020.",
-        "link": "pdf/2020 Unsupervised Semantic Aggregation and Deformable Template Matching for Semi-Supervised Learning.pdf",
+        "link": "2020 Unsupervised Semantic Aggregation and Deformable Template Matching for Semi-Supervised Learning.pdf",
         "Code": [
             "https://github.com/taohan10200/USADTM"
         ]
     },
     {
         "origin": "C. Zhang, Q. Wang*, and X. Li, \"EQ-LPR: Efficient Quality-aware License Plate Recognition,\" Proc. IEEE International Conference on Image Processing (ICIP), pp. 653-657, 2020.",
-        "link": "pdf/2020 EQ-LPR EFFICIENT QUALITY-AWARE LICENSE PLATE RECOGNITION.pdf"
+        "link": "2020 EQ-LPR EFFICIENT QUALITY-AWARE LICENSE PLATE RECOGNITION.pdf"
     },
     {
         "origin": "Z. Xiong, Y. Yuan, N. Guo, and Q. Wang, \"Variational Context-Deformable ConvNets for Indoor Semantic Segmentation,\" Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), pp. 3991-4001, 2020.",
-        "link": "pdf/2020 Variational Context-Deformable ConvNets for Indoor Semantic Segmentation.pdf"
+        "link": "2020 Variational Context-Deformable ConvNets for Indoor Semantic Segmentation.pdf"
     },
     {
         "origin": "W. Huang, Q. Wang*, and X. Li, \"Feature Sparsity in Convolutional Neural Networks for Scene Classification of Remote Sensing Image,\" Proc. IEEE International Geoscience and Remote Sensing Symposium (IGARSS), pp. 3017-3020, 2019.",
-        "link": "pdf/2019 Feature Sparsity in Convolutional Neural Networks for Scene Classification of Remote Sensing Image.pdf"
+        "link": "2019 Feature Sparsity in Convolutional Neural Networks for Scene Classification of Remote Sensing Image.pdf"
     },
     {
         "origin": "X. Zhang, Q. Wang, S. Chen, and X. Li, \"Multi-Scale Cropping Mechanism for Remote Sensing Image Captioning,\" Proc. IEEE International Geoscience and Remote Sensing Symposium (IGARSS), pp. 10039-10042, 2019.",
-        "link": "pdf/2019 Multi-Scale Cropping Mechanism for Remote Sensing Image Captioning.pdf"
+        "link": "2019 Multi-Scale Cropping Mechanism for Remote Sensing Image Captioning.pdf"
     },
     {
         "origin": "Z. Zhang, Q. Wang, and Y. Yuan, \"Hyperspectral Unmixing via L1/4 Sparsity-Constrained Multilayer NMF,\" Proc. IEEE International Geoscience and Remote Sensing Symposium (IGARSS), pp.2143-2146, 2019.",
-        "link": "pdf/2019 Hyperspectral Unmixing via L14 Sparsity-Constrained Multilayer NMF.pdf"
+        "link": "2019 Hyperspectral Unmixing via L14 Sparsity-Constrained Multilayer NMF.pdf"
     },
     {
         "origin": "C. Zhang, Q. Wang*, and X. Li, \"A Multi-Task Architecture for Remote Sensing by Joint Scene Classification and Image Quality Assessment,\" Proc. IEEE International Geoscience and Remote Sensing Symposium (IGARSS), pp. 10055-10058, 2019.",
-        "link": "pdf/2019 A Multi-Task Architecture for Remote Sensing by Joint Scene Classification and Image Quality Assessment.pdf"
+        "link": "2019 A Multi-Task Architecture for Remote Sensing by Joint Scene Classification and Image Quality Assessment.pdf"
     },
     {
         "origin": "J. Su, Q. Wang, S. Chen, and X. Li, \"An Introspective Learning Strategy for Remote Sensing Scene Classification,\" Proc. IEEE International Geoscience and Remote Sensing Symposium (IGARSS), pp. 533-536, 2019.",
-        "link": "pdf/2019 An Introspective Learning Strategy for Remote Sensing Scene Classification.pdf"
+        "link": "2019 An Introspective Learning Strategy for Remote Sensing Scene Classification.pdf"
     },
     {
         "origin": "Q. Wang*, J. Gao, W. Lin, and Y. Yuan, \"Learning from Synthetic Data for Crowd Counting in the Wild,\" Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), pp. 8190-8199, 2019.",
-        "link": "pdf/2019 Learning from Synthetic Data for Crowd Counting in the Wild.pdf"
+        "link": "2019 Learning from Synthetic Data for Crowd Counting in the Wild.pdf"
     },
     {
         "origin": "D. Hu, D. Wang, X. Li, F. Nie, and Q. Wang, \"Listen to the Image,\" Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), pp. 7964-7973, 2019.",
-        "link": "pdf/2019 Listen to the Image.pdf"
+        "link": "2019 Listen to the Image.pdf"
     },
     {
         "origin": "Y. Yuan, Z. Xiong, and Q. Wang, \"ACM: Adaptive Cross-Modal Graph Convolutional Neural Networks for RGB-D Scene Recognition,\" Proc. AAAI Conference on Artificial Intelligence (AAAI), pp. 9176-9184, 2019. Oral.",
-        "link": "pdf/2018 ACM Adaptive Cross-Modal Graph Convolutional Neural Networks for RGB-D Scene Recognition.pdf"
+        "link": "2018 ACM Adaptive Cross-Modal Graph Convolutional Neural Networks for RGB-D Scene Recognition.pdf"
     },
     {
         "origin": "Y. Yuan, D. Wang, and Q. Wang, \"Memory-Augmented Temporal Dynamic Learning for Action Recognition,\" Proc. AAAI Conference on Artificial Intelligence (AAAI), pp. 9167-9175, 2019.",
-        "link": "pdf/2019 Memory-Augmented Temporal Dynamic Learning for Action Recognition.pdf"
+        "link": "2019 Memory-Augmented Temporal Dynamic Learning for Action Recognition.pdf"
     },
     {
         "origin": "S. Liu, Q. Wang*, and X. Li, \"Attention Based Network for Remote Sensing Scene Classification,\" Proc. IEEE International Geoscience and Remote Sensing Symposium (IGARSS), pp. 4740-4743, 2018.",
-        "link": "pdf/2018 Attention Based Network for Remote Sensing Scene Classification.pdf"
+        "link": "2018 Attention Based Network for Remote Sensing Scene Classification.pdf"
     },
     {
         "origin": "Z. Xiong, Y. Yuan, and Q. Wang*, \"AI-NET: Attention Inception Neural Networks for Hyperspectral Image,\" Proc. IEEE International Geoscience and Remote Sensing Symposium (IGARSS), pp. 2647-2650, 2018.",
-        "link": "pdf/2018 AI-NET Attention Inception Neural Networks for Hyperspectral Image.pdf"
+        "link": "2018 AI-NET Attention Inception Neural Networks for Hyperspectral Image.pdf"
     },
     {
         "origin": "Z. Yuan, Q. Wang*, and X. Li, \"Robust PCANet for Hyperspectral Image Change Detection,\" Proc. IEEE International Geoscience and Remote Sensing Symposium (IGARSS), pp. 4931-4934, 2018.",
-        "link": "pdf/2018 ROBUST PCANet for Hyperspectral Image Change Detection.pdf"
+        "link": "2018 ROBUST PCANet for Hyperspectral Image Change Detection.pdf"
     },
     {
         "origin": "F. Zhang, Q. Wang*, and X. Li, \"Optimal Neighboring Reconstruction for Hyperspectral Band Selection,\" Proc. IEEE International Geoscience and Remote Sensing Symposium (IGARSS), pp. 4709-4712, 2018.",
-        "link": "pdf/2018 Optimal Neighboring Reconstruction for Hyperspectral Band Selection.pdf"
+        "link": "2018 Optimal Neighboring Reconstruction for Hyperspectral Band Selection.pdf"
     },
     {
         "origin": "X. He, Q. Wang*, and X. Li, \"Spectral-spatial Hyperspectral Image Classification via Locality and Structure Constrained Low-rank Representation,\" Proc. IEEE International Geoscience and Remote Sensing Symposium (IGARSS), pp. 5744-5747, 2018. Oral.",
-        "link": "pdf/2018 Spectral-spatial Hyperspectral Image Classification via Locality and Structure Constrained Low-rank Representation.pdf"
+        "link": "2018 Spectral-spatial Hyperspectral Image Classification via Locality and Structure Constrained Low-rank Representation.pdf"
     },
     {
         "origin": "X. Jiang, L. Zhang, F. Zhang, J. Liu, and Q. Wang*, \"Selecting Band Subsets from Hyperspectral Image through a Novel Evolutionary-based Strategy,\" Proc. IEEE International Geoscience and Remote Sensing Symposium (IGARSS), pp. 4697-4700, 2018.",
-        "link": "pdf/2018 Selecting Band Subsets from Hyperspectral Image through a Novel Evolutionary-based Strategy.pdf"
+        "link": "2018 Selecting Band Subsets from Hyperspectral Image through a Novel Evolutionary-based Strategy.pdf"
     },
     {
         "origin": "M. Jiang, Y. Yuan, and Q. Wang*, \"Self-attention Learning for Person Re-identification,\" Proc. British Machine Vision Conference (BMVC), 2018.",
-        "link": "pdf/2018 Self-attention Learning for Person Re-identification.pdf"
+        "link": "2018 Self-attention Learning for Person Re-identification.pdf"
     },
     {
         "origin": "X. Zhang, Y. Yuan, and Q. Wang*, \"ROI-wise Reverse Reweighting Network for Road Marking Detection,\" Proc. British Machine Vision Conference (BMVC), 2018.",
-        "link": "pdf/2018 ROI-wise Reverse Reweighting Network for Road Marking Detection.pdf"
+        "link": "2018 ROI-wise Reverse Reweighting Network for Road Marking Detection.pdf"
     },
     {
         "origin": "M. Chen, Q. Wang*, and X. Li, \"Robust Adaptive Sparse Learning Method for Graph Clustering,\" Proc. IEEE International Conference on Image Processing (ICIP), pp. 1618-1622, 2018.",
-        "link": "pdf/2018 Robust Adaptive Sparse Learning Method for Graph Clustering.pdf"
+        "link": "2018 Robust Adaptive Sparse Learning Method for Graph Clustering.pdf"
     },
     {
         "origin": "X. Li, J. Yang, and Q. Wang*, \"Nonrigid Points Alignment with Soft-weighted Selection,\" Proc. International Joint Conferences on Artificial Intelligence (IJCAI), pp. 800-806, 2018.",
-        "link": "pdf/2018 Nonrigid Points Alignment with Soft-weighted Selection.pdf"
+        "link": "2018 Nonrigid Points Alignment with Soft-weighted Selection.pdf"
     },
     {
         "origin": "D. Ma, Y. Yuan, and Q. Wang*, \"A Sparse Dictionary learning method for Hyperspectral Anomaly Detection with Capped Norm,\" Proc. IEEE International Geoscience and Remote Sensing Symposium (IGARSS), pp. 648-651, 2017.",
-        "link": "pdf/2017 A Sparse Dictionary learning method for Hyperspectral Anomaly Detection with Capped Norm.pdf"
+        "link": "2017 A Sparse Dictionary learning method for Hyperspectral Anomaly Detection with Capped Norm.pdf"
     },
     {
         "origin": "F. Zhang, Q. Wang*, and X. Li, \"Hyperspectral Image Band Selection via Global Optimal Clustering,\" Proc. IEEE International Geoscience and Remote Sensing Symposium (IGARSS), pp. 1-4, 2017. Oral.",
-        "link": "pdf/2017 Hyperspectral Image Band Selection via Global Optimal Clustering.pdf"
+        "link": "2017 Hyperspectral Image Band Selection via Global Optimal Clustering.pdf"
     },
     {
         "origin": "Q. Wang, Z. Qin, F. Nie, and Y. Yuan, \"Convolutional 2D LDA for Nonlinear Dimensionality Reduction,\" Proc. International Joint Conference on Artificial Intelligence (IJCAI), pp. 2929-2935, 2017. Oral.",
-        "link": "pdf/2017 Convolutional 2D LDA for Nonlinear Dimensionality Reduction.pdf"
+        "link": "2017 Convolutional 2D LDA for Nonlinear Dimensionality Reduction.pdf"
     },
     {
         "origin": "X. Li, M. Chen, F. Nie, and Q. Wang*, \"Locality Adaptive Discriminant Analysis,\" Proc. International Joint Conference on Artificial Intelligence (IJCAI), pp. 2201-2207, 2017. Oral.",
-        "link": "pdf/2017 Locality Adaptive Discriminant Analysis.pdf"
+        "link": "2017 Locality Adaptive Discriminant Analysis.pdf"
     },
     {
         "origin": "Y. Yuan, Z. Jiang, and Q. Wang*, \"HDPA: Hierarchical Deep Probability Analysis for Scene Parsing,\" Proc. IEEE International Conference on Multimedia and Expo (ICME), pp. 313-318, 2017.",
-        "link": "pdf/2017 HDPA Hierarchical Deep Probability Analysis for Scene Parsing.pdf"
+        "link": "2017 HDPA Hierarchical Deep Probability Analysis for Scene Parsing.pdf"
     },
     {
         "origin": "J. Gao, Q. Wang*, and Y. Yuan, \"Embedding Structured Contour and Location Prior in Siamesed Fully Convolutional Networks for Road Detection,\" Proc. IEEE International Conference on Robotics and Automation (ICRA), pp. 219-224, 2017.",
-        "link": "pdf/2017 Embedding Structured Contour and Location Prior in Siamesed Fully Convolutional Networks for Road Detection.pdf"
+        "link": "2017 Embedding Structured Contour and Location Prior in Siamesed Fully Convolutional Networks for Road Detection.pdf"
     },
     {
         "origin": "X. Li, M. Chen, F. Nie, and Q. Wang*, \"A Multiview-based Parameter Free Framework for Group Detection,\" Proc. AAAI Conference on Artificial Intelligence (AAAI), pp. 4147-4153, 2017. Oral.",
-        "link": "pdf/2017 A Multiview-Based Parameter Free Framework for Group Detection.pdf"
+        "link": "2017 A Multiview-Based Parameter Free Framework for Group Detection.pdf"
     },
     {
         "origin": "Q. Wang, M. Chen, and X. Li, \"Quantifying and Detecting Collective Motion by Manifold Learning,\" Proc. AAAI Conference on Artificial Intelligence (AAAI), pp. 4292-4298, 2017. Oral.",
-        "link": "pdf/2017 Quantifying and Detecting Collective Motion by Manifold Learning.pdf"
+        "link": "2017 Quantifying and Detecting Collective Motion by Manifold Learning.pdf"
     },
     {
         "origin": "J. Lin, Q. Wang*, and Y. Yuan, \"In Defense of Iterated Conditional Mode for Hyperspectral Image Classification,\" Proc. IEEE International Conference on Multimedia and Expo (ICME), pp. 1-6, 2014.",
-        "link": "pdf/2014 In Defense of Iterated Conditional Mode for Hyperspectral Image Classification.pdf"
+        "link": "2014 In Defense of Iterated Conditional Mode for Hyperspectral Image Classification.pdf"
     },
     {
         "origin": "Q. Wang, P. Yan, Y. Yuan, and X. Li, \"Robust Color Correction in Stereo Vision,\" Proc. IEEE International Conference on Image Processing (ICIP), pp. 965-968, 2011.",
-        "link": "pdf/2011 Robust color correction in stereo vision.pdf"
+        "link": "2011 Robust color correction in stereo vision.pdf"
     },
     {
         "origin": "Q. Wang, X. Sun, and Z. Wang, \"A Robust Algorithm for Color Correction between Two Stereo Images,\" Proc. Asian Conference on Computer Vision (ACCV), vol. 5996 LNCS, pp. 405-416, 2009.",
-        "link": "pdf/2009 A Robust Algorithm for Color Correction between.pdf"
+        "link": "2009 A Robust Algorithm for Color Correction between.pdf"
     },
     {
         "origin": "Q. Wang and Z. Wang, \"A Subjective Method for Image Segmentation Evaluation,\" Proc. Asian Conference on Computer Vision (ACCV), vol. 5996 LNCS, pp. 53-64, 2009.",
-        "link": "pdf/2009 A Subjective Method for Image Segmentation Evaluation.pdf"
+        "link": "2009 A Subjective Method for Image Segmentation Evaluation.pdf"
     }
 ]

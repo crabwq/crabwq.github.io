@@ -36,7 +36,7 @@ function insert_paper(paper, selector) {
     if (paper['link'] !== undefined) {
         let paperLink = document.createElement('a');
         paperLink.className = 'paper-link';
-        paperLink.href = paper['link'];
+        paperLink.href = 'pdf/' + paper['link'];
 
         newLi.appendChild(paperLink);
     }

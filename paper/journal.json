@@ -1,119 +1,123 @@
 [
     {
+        "origin": "J. Hu, J. Gao, Y. Yuan, J. Chanussot, and Q. Wang*, “LGNet: Location-Guided Network for Road Extraction from Satellite Images,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), DOI: 10.1109/TGRS.2023.3305031.",
+        "link": "2023 lgnet_final.pdf"
+    },
+    {
         "origin": "H. Ding, J. Gao, Y. Yuan, and Q. Wang*, “An End-to-End Contrastive License Plate Detector,” IEEE Transactions on Intelligent Transportation Systems (T-ITS), DOI: 10.1109/TITS.2023.3304816.",
-        "link": "pdf/2023 dhx-bare_jrnl.pdf"
+        "link": "2023 dhx-bare_jrnl.pdf"
     },
     {
         "origin": "Y. Liu, Y. Yuan, and Q. Wang*, \"Uncertainty-Aware Graph Reasoning with Global Collaborative Learning for Remote Sensing Salient Object Detection,\" IEEE Geoscience and Remote Sensing Letters (GRSL), DOI: 10.1109/LGRS.2023.3299245.",
-        "link": "pdf/2023 UG2L.pdf",
+        "link": "2023 UG2L.pdf",
         "Code": [
             "https://github.com/lyf0801/UG2L"
         ]
     },
     {
         "origin": "Y. Liu, Z. Xiong, Y. Yuan, and Q. Wang*, “Transcending Pixels: Boosting Saliency Detection via Scene Understanding from Aerial Imagery,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), DOI: 10.1109/TGRS.2023.3298661.",
-        "link": "pdf/2023 SASOD.pdf",
+        "link": "2023 SASOD.pdf",
         "Code": [
             "https://github.com/lyf0801/SDNet"
         ]
     },
     {
         "origin": "Y. Jia, J. Gao, W. Huang, Y. Yuan, and Q. Wang*, “Exploring Hard Samples in Multi-View for Few-Shot Remote Sensing Scene Classification,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), vol. 61, pp. 1-14, Art no. 5615714, 2023.",
-        "link": "pdf/2023 Exploring Hard Samples in Multi-View for Few-Shot Remote Sensing Scene Classification.pdf"
+        "link": "2023 Exploring Hard Samples in Multi-View for Few-Shot Remote Sensing Scene Classification.pdf"
     },
     {
         "origin": "C. Yang, M. Chen, Y. Yuan, and Q. Wang*, \"Zoom Text Detector,\" IEEE Transactions on Neural Networks and Learning Systems (T-NNLS), 2023.",
-        "link": "pdf/2023 Zoom Text Detector.pdf"
+        "link": "2023 Zoom Text Detector.pdf"
     },
     {
         "origin": "K. Chi, Y. Yuan, and Q. Wang*, “Trinity-Net: Gradient-guided Swin Transformer-based Remote sensing Image Dehazing and Beyond,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), vol. 61, Art no. 4702914, pp. 1-14, 2023.",
-        "link": "pdf/2023 Trinity-Net.pdf",
+        "link": "2023 Trinity-Net.pdf",
         "Code": [
             "https://github.com/chi-kaichen/Trinity-Net"
         ]
     },
     {
         "origin": "M. Zhang, Q. Li, Y. Miao, Y. Yuan, and Q. Wang*, “Difference-Guided Aggregation Network with Multi-Image Pixel Contrast for Change Detection,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), vol. 61, Art no. 5611114, pp. 1-14, 2023.",
-        "link": "pdf/2023 Difference-Guided Aggregation Network with Multi-Image Pixel Contrast for Change Detection.pdf"
+        "link": "2023 Difference-Guided Aggregation Network with Multi-Image Pixel Contrast for Change Detection.pdf"
     },
     {
         "origin": "Q. Li, M. Gong, Y. Yuan, and Q. Wang*, “RGB-induced Feature Modulation Network for Hyperspectral Image Super-Resolution,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), vol. 61, Art no. 5512611, pp. 1-11, 2023.",
-        "link": "pdf/2023 RGB-induced Feature Modulation Network for Hyperspectral Image Super-Resolution.pdf",
+        "link": "2023 RGB-induced Feature Modulation Network for Hyperspectral Image Super-Resolution.pdf",
         "Code": [
             "https://github.com/qianngli/IFMSR"
         ]
     },
     {
         "origin": "Y. Liu, Z. Xiong, Y. Yuan, and Q. Wang*, “Distilling Knowledge from Super Resolution for Efficient Remote Sensing Salient Object Detection,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), DOI: 10.1109/TGRS.2023.3267271.",
-        "link": "pdf/2023 Distilling Knowledge from Super Resolution for Efficient Remote Sensing Salient Object Detection.pdf"
+        "link": "2023 Distilling Knowledge from Super Resolution for Efficient Remote Sensing Salient Object Detection.pdf"
     },
     {
         "origin": "J. Wang, J. Gao, Y. Yuan, and Q. Wang*, \"Crowd Localization from Gaussian Mixture Scoped Knowledge and Scoped Teacher,\" IEEE Transactions on Image Processing (T-IP), vol. 32, pp. 1802-1814, 2023.",
-        "link": "pdf/2023 Crowd Localization from Gaussian Mixture Scoped.pdf"
+        "link": "2023 Crowd Localization from Gaussian Mixture Scoped.pdf"
     },
     {
         "origin": "C. Yang, M. Chen, Y. Yuan, and Q. Wang*, \"Text Growing on Leaf,\" IEEE Transactions on Multimedia (T-MM), DOI: 10.1109/TMM.2023.3244322.",
-        "link": "pdf/2023 TGOL.pdf"
+        "link": "2023 TGOL.pdf"
     },
     {
         "origin": "H. Ding, J. Gao, Y. Yuan, and Q. Wang*, \"Boosting One-Stage License Plate Detector via Self-Constrained Contrastive Aggregation,\" IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT), DOI: 10.1109/TCSVT.2023.3241283.",
-        "link": "pdf/2023 Boosting One-Stage License Plate Detector via Self-Constrained Contrastive Aggregation.pdf"
+        "link": "2023 Boosting One-Stage License Plate Detector via Self-Constrained Contrastive Aggregation.pdf"
     },
     {
         "origin": "M. Zhang, Q. Li, Y. Yuan, and Q. Wang*, \"Edge Neighborhood Contrastive Learning for Building Change Detection,\" IEEE Geoscience and Remote Sensing Letters (GRSL), vol. 20, Art no. 6001305, pp. 1-5, 2023.",
-        "link": "pdf/2022 Edge Neighborhood Contrastive Learning for Building Change Detection.pdf"
+        "link": "2022 Edge Neighborhood Contrastive Learning for Building Change Detection.pdf"
     },
     {
         "origin": "Q. Wang, W. Huang, X. Zhang, and X. Li, \"GLCM: Global-Local Captioning Model for Remote Sensing Image Captioning,\" IEEE Transactions on Cybernetics (T-CYB), DOI: 10.1109/TCYB.2022.3222606.",
-        "link": "pdf/2022 GLCM_TCYB.pdf"
+        "link": "2022 GLCM_TCYB.pdf"
     },
     {
         "origin": "Q. Li, Y. Yuan, X. Jia, and Q. Wang*, \"Dual-Stage Approach Toward Hyperspectral Image Super-Resolution,\" IEEE Transactions on Image Processing (T-IP), vol. 31, pp. 7252-7263, 2022.",
-        "link": "pdf/2022 DualSR.pdf",
+        "link": "2022 DualSR.pdf",
         "Code": [
             "https://github.com/qianngli/DualSR"
         ]
     },
     {
         "origin": "Q. Wang, Y. Miao, M. Chen, and Y. Yuan, \"Spatial-Spectral Clustering with Anchor Graph for Hyperspectral Image,\" IEEE Transactions on Geoscience and Remote Sensing (T-GRS), vol. 60, Art no. 5542413, pp. 1-13, 2022.",
-        "link": "pdf/2022 Spatial-Spectral Clustering with Anchor Graph for Hyperspectral Image.pdf"
+        "link": "2022 Spatial-Spectral Clustering with Anchor Graph for Hyperspectral Image.pdf"
     },
     {
         "origin": "C. Yang, M. Chen, Y. Yuan, and Q. Wang*, \"Reinforcement Shrink-Mask for Text Detection,\" IEEE Transactions on Multimedia (T-MM), DOI: 10.1109/TMM.2022.3209022.",
-        "link": "pdf/2022 bare_jrnl_new_sample4.pdf"
+        "link": "2022 bare_jrnl_new_sample4.pdf"
     },
     {
         "origin": "Q. Li, M. Gong, Y. Yuan, and Q. Wang*, \"Symmetrical Feature Propagation Network for Hyperspectral Image Super-Resolution,\" IEEE Transactions on Geoscience and Remote Sensing (T-GRS), vol. 60, pp. 1-12, 2022.",
-        "link": "pdf/2022 fusion.pdf",
+        "link": "2022 fusion.pdf",
         "Code": [
             "https://github.com/qianngli/SFPN"
         ]
     },
     {
         "origin": "Q. Wang, Y. Liu, Z. Xiong, and Y. Yuan, \"Hybrid Feature Aligned Network for Salient Object Detection in Optical Remote Sensing Imagery,\" IEEE Transactions on Geoscience and Remote Sensing (T-GRS), vol. 60, pp. 1-15, 2022.",
-        "link": "pdf/2022 HFANet_FINAL_VERSION.pdf",
+        "link": "2022 HFANet_FINAL_VERSION.pdf",
         "Code": [
             "https://github.com/lyf0801/HFANet"
         ]
     },
     {
         "origin": "Q. Wang, X. Lu, C. Zhang, Y. Yuan, and X. Li, \"LSV-LP: Large-Scale Video-Based License Plate Detection and Recognition,\" IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI), vol. 45, no. 1, pp. 752-767, 2023.",
-        "link": "pdf/2022 LSV-LP_final.pdf",
+        "link": "2022 LSV-LP_final.pdf",
         "Dataset": [
             "https://github.com/Forest-art/LSV-LP"
         ]
     },
     {
         "origin": "C. Yang, M. Chen, Z. Xiong, Y. Yuan, and Q. Wang*, \"CM-Net: Concentric Mask Based Arbitrary-Shaped Text Detection,\" IEEE Transactions on Image Processing (T-IP), vol. 31, pp. 2864-2877, 2022.",
-        "link": "pdf/2022 CM-Net Concentric Mask based Arbitrary-Shaped.pdf"
+        "link": "2022 CM-Net Concentric Mask based Arbitrary-Shaped.pdf"
     },
     {
         "origin": "Y. Liu, Q. Li, Y. Yuan, Q. Du, and Q. Wang*, \"ABNet: Adaptive Balanced Network for Multiscale Object Detection in Remote Sensing Imagery,\" IEEE Transactions on Geoscience and Remote Sensing (T-GRS), vol. 60, pp. 1-14, 2022.",
-        "link": "pdf/2021 bare_jrnl.pdf"
+        "link": "2021 bare_jrnl.pdf"
     },
     {
         "origin": "Y. Miao, M. Chen, Y. Yuan, J. Chanussot, and Q. Wang*, \"Hyperspectral Imagery Classification via Random Multi-Graphs Ensemble Learning,\" IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS), vol. 15, pp. 641-653, 2022.",
-        "link": "pdf/2021 JSTARS-final.pdf",
+        "link": "2021 JSTARS-final.pdf",
         "Code": [
             "https://github.com/SkilaMiao/RMGE"
         ]
@@ -124,21 +128,21 @@
     },
     {
         "origin": "Q. Wang, N. Guo, Z. Xiong, Z. Yin, and X. Li, \"Gradient Matters: Designing Binarized Neural Networks via Enhanced Information-Flow,\" IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI), vol. 44, no. 11, pp. 7551-7562, 2022.",
-        "link": "pdf/2021 Gradient Matters Designing Binarized Neural Networks via Enhanced Information-Flow.pdf",
+        "link": "2021 Gradient Matters Designing Binarized Neural Networks via Enhanced Information-Flow.pdf",
         "Code": [
             "https://github.com/NicoNico6/Hyper-BinaryNet"
         ]
     },
     {
         "origin": "Q. Wang, Q. Li, and X. Li, \"Hyperspectral Image Superresolution Using Spectrum and Feature Context,\" IEEE Transactions on Industrial Electronics (T-IE), vol. 68, no. 11, pp. 11276-11285, 2021.",
-        "link": "pdf/2021 Hyperspectral Image Super-Resolution Using Spectrum and Feature Context.pdf",
+        "link": "2021 Hyperspectral Image Super-Resolution Using Spectrum and Feature Context.pdf",
         "Code": [
             "https://github.com/qianngli/SFCSR"
         ]
     },
     {
         "origin": "Q. Wang, X. Jiang, M. Chen, and X. Li, \"Auto-weighted Multi-view Feature Selection with Graph Optimization,\" IEEE Transactions on Cybernetics (T-CYB), vol. 52, no. 12, pp. 12966-12977, 2022.",
-        "link": "pdf/2021 Auto-weighted Multi-view Feature Selection with Graph Optimization.pdf"
+        "link": "2021 Auto-weighted Multi-view Feature Selection with Graph Optimization.pdf"
     },
     {
         "origin": "W. Lin, J. Gao, Q. Wang*, and X. Li, \"Learning to Detect Anomaly Events in Crowd Scenes from Synthetic Data,\" Neurocomputing, vol. 436, pp. 248-259, 2021.",
@@ -151,72 +155,72 @@
     },
     {
         "origin": "Q. Wang, R. Liu, M. Chen, and X. Li, \"Robust Rank-Constrained Sparse Learning: A Graph-Based Framework for Single View and Multiview Clustering,\" IEEE Transactions on Cybernetics (T-CYB), vol. 52, no. 10, pp. 10228-10239, 2022.",
-        "link": "pdf/2021 Robust Rank Constrained Sparse Learning A Graph-Based Framework for Single-View and Multi-View Clustering.pdf"
+        "link": "2021 Robust Rank Constrained Sparse Learning A Graph-Based Framework for Single-View and Multi-View Clustering.pdf"
     },
     {
         "origin": "X. Li, Z. Zhao, and Q. Wang*, \"ABSSNet: Attention Based Spatial Segmentation Network for Traffic Scene Understanding,\" IEEE Transactions on Cybernetics (T-CYB), vol. 52, no. 9, pp. 9352-9362, 2022.",
-        "link": "pdf/2021 ABSSNet Attention Based Spatial Segmentation Network for Traffic Scene Understanding.pdf"
+        "link": "2021 ABSSNet Attention Based Spatial Segmentation Network for Traffic Scene Understanding.pdf"
     },
     {
         "origin": "X. Li, Q. Wang, F. Nie, and M. Chen, \"Locality Adaptive Discriminant Analysis Framework,\" IEEE Transactions on Cybernetics (T-CYB), vol. 52, no. 8, pp. 7291-7302, 2022.",
-        "link": "pdf/2020 Locality Adaptive Discriminant Analysis Framework.pdf"
+        "link": "2020 Locality Adaptive Discriminant Analysis Framework.pdf"
     },
     {
         "origin": "Z. Xiong, Y. Yuan, and Q. Wang, \"ASK: Adaptively Selecting Key Local Features for RGB-D Scene Recognition,\" IEEE Transactions on Image Processing (T-IP), vol. 30, pp. 2722-2733, 2021.",
-        "link": "pdf/2021 ASK Adaptively Selecting Key Local Features for RGB-D Scene Recognition.pdf"
+        "link": "2021 ASK Adaptively Selecting Key Local Features for RGB-D Scene Recognition.pdf"
     },
     {
         "origin": "Q. Wang, T. Han, J. Gao, and Y. Yuan, \"Neuron Linear Transformation: Modeling the Domain Shift for Crowd Counting,\" IEEE Transactions on Neural Networks and Learning Systems (T-NNLS), vol. 33, no. 8, pp. 3238-3250, 2022.",
-        "link": "pdf/2021 Neuron Linear Transformation Modeling the Domain Shift for Crowd Counting.pdf"
+        "link": "2021 Neuron Linear Transformation Modeling the Domain Shift for Crowd Counting.pdf"
     },
     {
         "origin": "X. Li, R. Zhang, Q. Wang, and H. Zhang, \"Autoencoder Constrained Clustering with Adaptive Neighbors,\" IEEE Transactions on Neural Networks and Learning Systems (T-NNLS), vol. 32, pp. 433-449, 2021."
     },
     {
         "origin": "Q. Wang, Q. Li, and X. Li, \"A Fast Neighborhood Grouping Method for Hyperspectral Band Selection,\" IEEE Transactions on Geoscience and Remote Sensing (T-GRS), vol. 59, no. 6, pp. 5028-5039, 2021.",
-        "link": "pdf/2020 A Fast Neighborhood Grouping Method for Hyperspectral Band Selection.pdf",
+        "link": "2020 A Fast Neighborhood Grouping Method for Hyperspectral Band Selection.pdf",
         "Code": [
             "https://github.com/qianngli/FNGBS"
         ]
     },
     {
         "origin": "X. Li, X. Zhang, W. Huang, and Q. Wang*, \"Truncation Cross Entropy Loss for Remote Sensing Image Captioning,\" IEEE Transactions on Geoscience and Remote Sensing (T-GRS), vol. 59, no. 6, pp. 5246-5257, 2021.",
-        "link": "pdf/2020 Truncation Cross Entropy Loss for Remote Sensing Image Captioning.pdf"
+        "link": "2020 Truncation Cross Entropy Loss for Remote Sensing Image Captioning.pdf"
     },
     {
         "origin": "X. Li, Y. Yuan, Q. Wang*, \"Hyperspectral and Multispectral Image Fusion via Nonlocal Low Rank Tensor Approximation and Sparse Representation,\" IEEE Transactions on Geoscience and Remote Sensing (T-GRS), vol. 59, no. 1, pp. 550-562, 2021.",
-        "link": "pdf/2020 Hyperspectral and Multispectral Image Fusion via Nonlocal Low Rank Tensor Approximation and Sparse Representation.pdf"
+        "link": "2020 Hyperspectral and Multispectral Image Fusion via Nonlocal Low Rank Tensor Approximation and Sparse Representation.pdf"
     },
     {
         "origin": "Q. Wang, Z. Qin, F. Nie, and X. Li, \"C2DNDA: A Deep Framework for Nonlinear Dimensionality Reduction,\" IEEE Transactions on Industrial Electronics (T-IE), vol. 68, no. 2, pp. 1684-1694, 2021.",
-        "link": "pdf/2020 C2DNDA A Deep Framework for Nonlinear Dimensionality Reduction.pdf",
+        "link": "2020 C2DNDA A Deep Framework for Nonlinear Dimensionality Reduction.pdf",
         "Code": [
             "code/C2DNDA.zip"
         ]
     },
     {
         "origin": "Q. Wang, J. Gao, W. Lin, and Y. Yuan, \"Pixel-wise Crowd Understanding via Synthetic Data,\" International Journal of Computer Vision (IJCV), vol. 129, pp. 225-245, 2021.",
-        "link": "pdf/2020 Pixel-wise Crowd Understanding via Synthetic Data.pdf"
+        "link": "2020 Pixel-wise Crowd Understanding via Synthetic Data.pdf"
     },
     {
         "origin": "Q. Wang, J. Gao, W. Lin, and X. Li, \"NWPU-Crowd: A Large-Scale Benchmark for Crowd Counting and Localization,\" IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI), vol. 43, no. 6, pp. 2141-2149, 2021.",
-        "link": "pdf/2020 NWPU-Crowd A Large-Scale Benchmark for Crowd Counting and Localization.pdf"
+        "link": "2020 NWPU-Crowd A Large-Scale Benchmark for Crowd Counting and Localization.pdf"
     },
     {
         "origin": "W. Huang, Q. Wang*, and X. Li, \"Denoising Based Multi-Scale Feature Fusion for Remote Sensing Image Captioning,\" IEEE Geoscience and Remote Sensing Letters (GRSL), vol. 18, no. 3, pp. 436-440, 2021.",
-        "link": "pdf/2020 Denoising Based Multi-Scale Feature Fusion for Remote Sensing Image Captioning.pdf"
+        "link": "2020 Denoising Based Multi-Scale Feature Fusion for Remote Sensing Image Captioning.pdf"
     },
     {
         "origin": "Q. Wang, M. Chen, F. Nie, and X. Li, \"Detecting Coherent Groups in Crowd Scenes by Multiview Clustering,\" IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI), vol. 42, no. 1, pp. 46-58, 2020.",
-        "link": "pdf/2018 Detecting Coherent Groups in Crowd Scenes by Multiview Clustering.pdf"
+        "link": "2018 Detecting Coherent Groups in Crowd Scenes by Multiview Clustering.pdf"
     },
     {
         "origin": "X. Li, Y. Yuan, and Q. Wang*, \"Hyperspectral and Multispectral Image Fusion Based on Band Simulation,\" IEEE Geoscience and Remote Sensing Letters (GRSL), vol. 17, no. 3, pp. 479-483, 2020.",
-        "link": "pdf/2019 Hyperspectral and Multispectral Image Fusion Based on Band Simulation.pdf"
+        "link": "2019 Hyperspectral and Multispectral Image Fusion Based on Band Simulation.pdf"
     },
     {
         "origin": "X. Li, M. Chen, and Q. Wang*, \"Adaptive Consistency Propagation Method for Graph Clustering,\" IEEE Transactions on Knowledge and Data Engineering (T-KDE), vol. 32, no. 4, pp. 797-802, 2020.",
-        "link": "pdf/2019 Adaptive Consistency Propagation Method for Graph Clustering.pdf",
+        "link": "2019 Adaptive Consistency Propagation Method for Graph Clustering.pdf",
         "Code": [
             "https://pan.baidu.com/s/1adJOQ2kvT97LH7rFtTHWkQ",
             "https://drive.google.com/open?id=1LkeIrv5JscpCcDgTH9A7-qiC0pSFzBn4"
@@ -224,22 +228,22 @@
     },
     {
         "origin": "X. Li, M. Chen, and Q. Wang*, \"Discrimination-Aware Projected Matrix Factorization,\" IEEE Transactions on Knowledge and Data Engineering (T-KDE), vol. 32, no. 4, pp. 809-814, 2020.",
-        "link": "pdf/2019 Discrimination-Aware Projected Matrix Factorization.pdf"
+        "link": "2019 Discrimination-Aware Projected Matrix Factorization.pdf"
     },
     {
         "origin": "J. Gao, Q. Wang*, and X. Li, \"PCC Net: Perspective Crowd Counting via Spatial Convolutional Network,\" IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT), vol. 30, no. 10, pp. 3486-3498, 2020.",
-        "link": "pdf/2019 PCC Net Perspective Crowd Counting via Spatial Convolutional Network.pdf",
+        "link": "2019 PCC Net Perspective Crowd Counting via Spatial Convolutional Network.pdf",
         "Code": [
             "https://github.com/gjy3035/PCC-Net"
         ]
     },
     {
         "origin": "J. Gao, Y. Yuan, and Q. Wang*, \"Feature-aware Adaptation and Density Alignment for Crowd Counting in Video Surveillance,\" IEEE Transactions on Cybernetics (T-CYB), vol. 51, no. 10, pp. 4822-4833, 2021.",
-        "link": "pdf/2020 Feature-aware Adaptation and Density Alignment for Crowd Counting in Video Surveillance.pdf"
+        "link": "2020 Feature-aware Adaptation and Density Alignment for Crowd Counting in Video Surveillance.pdf"
     },
     {
         "origin": "Q. Wang, W. Lin, J. Gao, and X. Li, \"Density-aware Curriculum Learning for Crowd Counting,\" IEEE Transactions on Cybernetics (T-CYB), vol. 52, no. 6, pp. 4675-4687, 2022.",
-        "link": "pdf/2020 Density-aware Curriculum Learning for Crowd Counting.pdf",
+        "link": "2020 Density-aware Curriculum Learning for Crowd Counting.pdf",
         "Code": [
             "https://github.com/Elin24/DCL-CrowdCounting"
         ]
@@ -249,43 +253,43 @@
     },
     {
         "origin": "X. Li, M. Chen, and Q. Wang*, \"Quantifying and Detecting Collective Motion in Crowd Scenes,\" IEEE Transactions on Image Processing (T-IP), vol. 29, pp. 5571-5583, 2020.",
-        "link": "pdf/2020 Quantifying and Detecting Collective Motion in Crowd Scenes.pdf"
+        "link": "2020 Quantifying and Detecting Collective Motion in Crowd Scenes.pdf"
     },
     {
         "origin": "Q. Wang, W. Huang, Z. Xiong, and X. Li, \"Looking Closer at the Scene: Multi-Scale Representation Learning for Remote Sensing Image Scene Classification,\" IEEE Transactions on Neural Networks and Learning Systems (T-NNLS), vol. 33, no. 4, pp. 1414-1428, 2022.",
-        "link": "pdf/2020 Looking Closer at the Scene Multi-Scale Representation Learning for Remote Sensing Image Scene Classification.pdf",
+        "link": "2020 Looking Closer at the Scene Multi-Scale Representation Learning for Remote Sensing Image Scene Classification.pdf",
         "Code": [
             "https://github.com/hw2hwei/SKAL"
         ]
     },
     {
         "origin": "Q. Wang, T. Han, Z. Qin, J. Gao, and X. Li, \"Multitask Attention Network for Lane Detection and Fitting,\" IEEE Transactions on Neural Networks and Learning Systems (T-NNLS), vol. 33, no. 3, pp. 1066-1078, 2022.",
-        "link": "pdf/2020 Multi-task Attention Network for Lane Detection and Fitting.pdf"
+        "link": "2020 Multi-task Attention Network for Lane Detection and Fitting.pdf"
     },
     {
         "origin": "Q. Li, Q. Wang*, and X. Li, \"Exploring the Relationship between 2D/3D Convolution for Hyperspectral Image Super-Resolution,\" IEEE Transactions on Geoscience and Remote Sensing (T-GRS), vol. 59, no. 10, pp. 8693-8703, 2021.",
-        "link": "pdf/2020 Exploring the Relationship between 2D3D Convolution for Hyperspectral Image Super-Resolution.pdf",
+        "link": "2020 Exploring the Relationship between 2D3D Convolution for Hyperspectral Image Super-Resolution.pdf",
         "Code": [
             "https://github.com/qianngli/ERCSR"
         ]
     },
     {
         "origin": "Q. Wang, W. Huang, X. Zhang, and X. Li, \"Word-Sentence Framework for Remote Sensing Image Captioning,\" IEEE Transactions on Geoscience and Remote Sensing (T-GRS), vol. 59, no. 12, pp. 10532-10543, 2021.",
-        "link": "pdf/2020 Word-Sentence Framework for Remote Sensing Image Captioning.pdf",
+        "link": "2020 Word-Sentence Framework for Remote Sensing Image Captioning.pdf",
         "Code": [
             "https://github.com/hw2hwei/WordSent"
         ]
     },
     {
         "origin": "X. Zhang, W. Huang, Q. Wang, and X. Li, \"SSR-NET: Spatial-Spectral Reconstruction Network for Hyperspectral and Multispectral Image Fusion,\" IEEE Transactions on Geoscience and Remote Sensing (T-GRS), vol. 59, no. 7, pp. 5953-5965, 2021.",
-        "link": "pdf/2020 SSR-NET Spatial-Spectral Reconstruction Network for Hyperspectral and Multispectral Image Fusion.pdf",
+        "link": "2020 SSR-NET Spatial-Spectral Reconstruction Network for Hyperspectral and Multispectral Image Fusion.pdf",
         "Code": [
             "https://github.com/hw2hwei/SSRNET"
         ]
     },
     {
         "origin": "Q. Wang, F. Zhang, and X. Li, \"Hyperspectral Band Selection via Optimal Neighborhood Reconstruction,\" IEEE Transactions on Geoscience and Remote Sensing (T-GRS), vol. 58, no. 12, pp. 8465-8476 , 2020.",
-        "link": "pdf/2020 Hyperspectrral Band Selection via Optimal Neighborhood Reconstruction.pdf",
+        "link": "2020 Hyperspectrral Band Selection via Optimal Neighborhood Reconstruction.pdf",
         "Code": [
             "https://github.com/tanmlh/Optimal-Neighboring-Reconstruction-for-Hyperspectral-Band-Selection"
         ],
@@ -296,44 +300,44 @@
     },
     {
         "origin": "Q. Wang, X. He, X. Jiang, and X. Li, \"Robust Bi-stochastic Graph Regularized Matrix Factorization for Data Clustering,\" IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI), vol. 44, no. 1, pp. 390-403, 2022.",
-        "link": "pdf/2020 Robust Bi-stochastic Graph Regularized Matrix Factorization for Data Clustering.pdf"
+        "link": "2020 Robust Bi-stochastic Graph Regularized Matrix Factorization for Data Clustering.pdf"
     },
     {
         "origin": "Q. Li, Q. Wang*, and X. Li, \"Mixed  2D/3D Convolutional Network for Hyperspectral Image Super-Resolution,\" Remote Sensing, vol. 12, no. 10, 1660, 2020.",
-        "link": "pdf/2020 Mixed 2D3D Convolutional Network for Hyperspectral Image Super-Resolution.pdf",
+        "link": "2020 Mixed 2D3D Convolutional Network for Hyperspectral Image Super-Resolution.pdf",
         "Code": [
             "https://github.com/qianngli/MCNet"
         ]
     },
     {
         "origin": "J. Gao, Q. Wang*, and Y. Yuan, \"SCAR: Spatial-/Channel-wise Attention Regression Networks for Crowd Counting,\" Neurocomputing, vol. 363. pp. 1-8, 2019.",
-        "link": "pdf/2019 SCAR Spatial-Channel-wise Attention Regression Networks for Crowd Counting.pdf",
+        "link": "2019 SCAR Spatial-Channel-wise Attention Regression Networks for Crowd Counting.pdf",
         "Code": [
             "https://github.com/gjy3035/SCAR"
         ]
     },
     {
         "origin": "Q. Wang, J. Gao, and X. Li, \"Weakly Supervised Adversarial Domain Adaptation for Semantic Segmentation in Urban Scenes,\" IEEE Transactions on Image Processing (T-IP), vol. 28, no. 9, pp. 4376-4386, 2019.",
-        "link": "pdf/2019 Weakly Supervised Adversarial Domain Adaptation for Semantic Segmentation in Urban Scenes.pdf",
+        "link": "2019 Weakly Supervised Adversarial Domain Adaptation for Semantic Segmentation in Urban Scenes.pdf",
         "Code": [
             "https://github.com/gjy3035/WSAL_released"
         ]
     },
     {
         "origin": "Y. Yuan, Z. Xiong, and Q. Wang*, \"VSSA-NET: Vertical Spatial Sequence Attention Network for Traffic Sign Detection,\" IEEE Transactions on Image Processing (T-IP), vol. 28, no. 7, pp. 3423-3434, 2019.",
-        "link": "pdf/2019 VSSA-NET Vertical Spatial Sequence Attention Network for Traffic Sign Detection.pdf"
+        "link": "2019 VSSA-NET Vertical Spatial Sequence Attention Network for Traffic Sign Detection.pdf"
     },
     {
         "origin": "Q. Wang, J. Wan, F. Nie, B. Liu, C. Yan, and X. Li, \"Hierarchical Feature Selection for Random Projection,\" IEEE Transactions on Neural Networks and Learning Systems (T-NNLS), vol. 30, no. 5, pp. 1581-1586, 2019.",
-        "link": "pdf/2018 Hierarchical Feature Selection for Random Projection.pdf"
+        "link": "2018 Hierarchical Feature Selection for Random Projection.pdf"
     },
     {
         "origin": "B. Liu, D. Lyu, M. Geist, W. Dong, S. Biaz, and Q. Wang, \"Stable and Efficient Policy Evaluation,\" IEEE Transactions on Neural Networks and Learning Systems (T-NNLS), vol. 30, no. 6, pp. 1831-1840, 2019.",
-        "link": "pdf/2019 Stable and Efficient Policy Evaluation.pdf"
+        "link": "2019 Stable and Efficient Policy Evaluation.pdf"
     },
     {
         "origin": "Q. Wang, Z. Qin, F. Nie, and X. Li, \"Spectral Embedded Adaptive Neighbors Clustering,\" IEEE Transactions on Neural Networks and Learning Systems (T-NNLS), vol. 30, no. 4, pp. 1265-1271, 2019.",
-        "link": "pdf/2018 Spectral Embedded Adaptive Neighbors Clustering.pdf",
+        "link": "2018 Spectral Embedded Adaptive Neighbors Clustering.pdf",
         "Code": [
             "https://pan.baidu.com/s/14dgaQtxhBUgotB90FeTmkg",
             "https://drive.google.com/open?id=1jwNhy0aj0m92CohUw0ExTlZwNpW_98ze"
@@ -341,7 +345,7 @@
     },
     {
         "origin": "Q. Wang, S. Liu, J. Chanussot, and X. Li, \"Scene Classification with Recurrent Attention of VHR Remote Sensing Images,\" IEEE Transactions on Geoscience and Remote Sensing (T-GRS), vol. 57, no. 2, pp. 1155-1167, 2019.",
-        "link": "pdf/2019 Scene Classification with Recurrent Attention of VHR Remote Sensing Images.pdf",
+        "link": "2019 Scene Classification with Recurrent Attention of VHR Remote Sensing Images.pdf",
         "Code": [
             "code/ARCNet.zip"
         ],
@@ -352,11 +356,11 @@
     },
     {
         "origin": "Q. Wang, X. He, and X. Li, \"Locality and Structure Regularized Low Rank Representation for Hyperspectral Image Classification,\" IEEE Transactions on Geoscience and Remote Sensing (T-GRS), vol. 57, no.2, pp. 911-923, 2019.",
-        "link": "pdf/2019 Locality and Structure Regularized Low Rank Representation for Hyperspectral Image Classification.pdf"
+        "link": "2019 Locality and Structure Regularized Low Rank Representation for Hyperspectral Image Classification.pdf"
     },
     {
         "origin": "Q. Wang*, Z. Yuan, Q. Du, and X. Li, \"GETNET: A General End-to-end 2D CNN Framework for Hyperspectral Image Change Detection,\" IEEE Transactions on Geoscience and Remote Sensing (T-GRS), vol. 57, no. 1, pp. 3-13, 2019.",
-        "link": "pdf/2019 GETNET A General End-to-end Two-dimensional CNN Framework for Hyperspectral Image Change Detection.pdf",
+        "link": "2019 GETNET A General End-to-end Two-dimensional CNN Framework for Hyperspectral Image Change Detection.pdf",
         "Code": [
             [
                 "https://pan.baidu.com/s/1Y9eIclN3lKYMRvyz8fTUVQ",
@@ -370,7 +374,7 @@
     },
     {
         "origin": "Y. Zhao, Y. Yuan, and Q. Wang, \"Fast Spectral Clustering for Unsupervised Hyperspectral Image Classification,\" Remote Sensing, vol. 11, no. 4, 399, 2019.",
-        "link": "pdf/2019 Fast Spectral Clustering for Unsupervised Hyperspectral Image Classification.pdf",
+        "link": "2019 Fast Spectral Clustering for Unsupervised Hyperspectral Image Classification.pdf",
         "Code": [
             "https://share.weiyun.com/54UML4X",
             "https://drive.google.com/open?id=1lR6mSOTrbeq6A4lxaxd3RSoEq0MGx3XY"
@@ -378,55 +382,55 @@
     },
     {
         "origin": "Q. Wang, Q. Li, and X. Li, \"Hyperspectral Band Selection via Adaptive Subspace Partition Strategy,\" IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS), vol. 12, no. 12, pp. 4940-4950, 2019.",
-        "link": "pdf/2019 Hyperspectral Band Selection via Adaptive Subspace Partition Strategy.pdf",
+        "link": "2019 Hyperspectral Band Selection via Adaptive Subspace Partition Strategy.pdf",
         "Code": [
             "https://github.com/qianngli/ASPS_MN"
         ]
     },
     {
         "origin": "Q. Wang, J. Wan, and X. Li, \"Robust Hierarchical Deep Learning for Vehicular Management,\" IEEE Transactions on Vehicular Technology (T-IV), vol. 68, no. 5, pp. 4148-4156, 2019.",
-        "link": "pdf/2018 Robust Hierarchical Deep Learning for Vehicular Management.pdf"
+        "link": "2018 Robust Hierarchical Deep Learning for Vehicular Management.pdf"
     },
     {
         "origin": "Y. Huang, X. Cao, Q. Wang, B. Zhang, and X. Li, \"Long-short Term Features for Dynamic Scene Classification,\" IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT), vol. 29, no. 4, pp. 1038-1047, 2019.",
-        "link": "pdf/2019 Long-short Term Features for Dynamic Scene Classification.pdf"
+        "link": "2019 Long-short Term Features for Dynamic Scene Classification.pdf"
     },
     {
         "origin": "J. Zhang, Y. Yuan, and Q. Wang, \"Night Person Re-identification and A Benchmark,\" IEEE Access, vol. 7, no. 1, pp. 95496-95504, 2019.",
-        "link": "pdf/2019 Night Person Re-identification and A Benchmark.pdf",
+        "link": "2019 Night Person Re-identification and A Benchmark.pdf",
         "Dataset": [
             "https://pan.baidu.com/s/1D5g0AqT1Lx2sl__EprRa6A"
         ]
     },
     {
         "origin": "M. Chen, Q. Wang*, and X. Li, \"Adaptive Projected Matrix Factorization Method for Data Clustering,\" Neurocomputing, vol. 306, pp. 182-188, 2018.",
-        "link": "pdf/2018 Adaptive Projected Matrix Factorization method for data clustering.pdf",
+        "link": "2018 Adaptive Projected Matrix Factorization method for data clustering.pdf",
         "Code": [
             "code/Neurocomputing_2018.zip"
         ]
     },
     {
         "origin": "X. Li, M. Chen, and Q. Wang*, \"Self-Tuned Discrimination-Aware Method for Unsupervised Feature Selection,\" IEEE Transactions on Neural Networks and Learning Systems (T-NNLS), vol. 30, no. 8, pp. 2275-2284, 2018.",
-        "link": "pdf/2018 Self-Tuned Discrimination-Aware Method for Unsupervised Feature Selection.pdf"
+        "link": "2018 Self-Tuned Discrimination-Aware Method for Unsupervised Feature Selection.pdf"
     },
     {
         "origin": "Q. Wang, F. Zhang, and X. Li, \"Optimal Clustering Framework for Hyperspectral Band Selection,\" IEEE Transactions on Geoscience and Remote Sensing (T-GRS), vol. 56, no. 10, pp. 5910-5922, 2018.",
-        "link": "pdf/2018 Optimal Clustering Framework for Hyperspectral Band Selection.pdf",
+        "link": "2018 Optimal Clustering Framework for Hyperspectral Band Selection.pdf",
         "Code": [
             "https://github.com/tanmlh/TGRS_GOCF"
         ]
     },
     {
         "origin": "Q. Wang, J. Gao, and Y. Yuan, \"Embedding Structured Contour and Location Prior in Siamesed Fully Convolutional Networks for Road Detection,\" IEEE Transactions on Intelligent Transportation Systems (T-ITS), vol. 19, no. 1, pp. 230-241, 2018.",
-        "link": "pdf/2018 Embedding Structured Contour and Location Prior in Siamesed Fully Convolutional Networks for Road Detection.pdf"
+        "link": "2018 Embedding Structured Contour and Location Prior in Siamesed Fully Convolutional Networks for Road Detection.pdf"
     },
     {
         "origin": "Q. Wang, J. Gao, and Y. Yuan, \"A Joint Convolutional Neural Networks and Context Transfer for Street Scenes Labeling,\" IEEE Transactions on Intelligent Transportation Systems (T-ITS), vol. 19, no. 5, pp. 1457-1470, 2018.",
-        "link": "pdf/2018 A Joint Convolutional Neural Networks and Context Transfer for Street Scenes Labeling.pdf"
+        "link": "2018 A Joint Convolutional Neural Networks and Context Transfer for Street Scenes Labeling.pdf"
     },
     {
         "origin": "Q. Wang, J. Wan, and Y. Yuan, \"Deep Metric Learning for Crowdedness Regression,\" IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT), vol. 28, no. 10, pp. 2633-2643, 2018.",
-        "link": "pdf/2017 Deep Metric Learning for Crowdedness Regression.pdf",
+        "link": "2017 Deep Metric Learning for Crowdedness Regression.pdf",
         "Dataset": [
             "https://pan.baidu.com/s/1dsOcu6CY726VmXyRmVoUWg",
             "https://mailnwpueducn-my.sharepoint.com/:u:/g/personal/songchunbiao_mail_nwpu_edu_cn/EfRwh-yYSKxFmn-mabEa8LgBIzXlxnPBMuRSKUPJa5jphg?e=goOUEv"
@@ -434,7 +438,7 @@
     },
     {
         "origin": "Y. Yuan, J. Zhang, and Q. Wang*, \"Bike-Person Re-identification: A Benchmark and A Comprehensive Evaluation,\" IEEE Access, vol. 6, pp. 56059-56068, 2018.",
-        "link": "pdf/2018 Bike-Person Re-identification A Benchmark and A Comprehensive Evaluation.pdf",
+        "link": "2018 Bike-Person Re-identification A Benchmark and A Comprehensive Evaluation.pdf",
         "Dataset": [
             "https://pan.baidu.com/s/1FsDna0dCjFDIk8n4a8zRnQ",
             "https://drive.google.com/open?id=1u6906LTa2xU4fibwfqkT6cEn81fjOFJa"
@@ -442,7 +446,7 @@
     },
     {
         "origin": "Q. Wang, J. Wan, and Y. Yuan, \"Locality Constraint Distance Metric Learning for Traffic Congestion Detection,\" Pattern Recognition (PR), vol. 75, pp. 272-281, 2018.",
-        "link": "pdf/2018 Locality Constraint Distance Metric Learning for Traffic Congestion Detection.pdf",
+        "link": "2018 Locality Constraint Distance Metric Learning for Traffic Congestion Detection.pdf",
         "Dataset": [
             "https://pan.baidu.com/s/102jA27_j0_cmTNOb-fHmqQ",
             "https://mailnwpueducn-my.sharepoint.com/:u:/g/personal/songchunbiao_mail_nwpu_edu_cn/EaQcluoe63dGk9xvXS421HcBoew2yQzprG7cJCdsuw-fkA"
@@ -450,15 +454,15 @@
     },
     {
         "origin": "Y. Yuan, Y. Lu, and Q. Wang*, \"Tracking as A Whole: Multi-Target Tracking by Modeling Group Behavior with Sequential Detection,\" IEEE Transactions on Intelligent Transportation Systems (T-ITS), vol. 18, no. 12, pp. 3339-3349, 2017.",
-        "link": "pdf/2017 Tracking as A Whole Multi-Target Tracking by Modeling Group Behavior with Sequential Detection.pdf"
+        "link": "2017 Tracking as A Whole Multi-Target Tracking by Modeling Group Behavior with Sequential Detection.pdf"
     },
     {
         "origin": "Y. Yuan, Z. Xiong, and Q. Wang*, \"An Incremental framework for Video-based Traffic Sign Detection, Tracking and Recognition,\" IEEE Transactions on Intelligent Transportation Systems (T-ITS), vol. 18, no. 7, pp. 1918-1929, 2017.",
-        "link": "pdf/2017 An Incremental Framework for Video-Based Traffic Sign Detection Tracking and Recognition.pdf"
+        "link": "2017 An Incremental Framework for Video-Based Traffic Sign Detection Tracking and Recognition.pdf"
     },
     {
         "origin": "Y. Yuan, D. Wang, and Q. Wang*, \"Anomaly Detection in Traffic Scenes via Spatial-aware Motion Reconstruction,\" IEEE Transactions on Intelligent Transportation Systems (T-ITS), vol. 18, no. 5, pp. 1198-1209, 2017.",
-        "link": "pdf/2017 Anomaly Detection in Traffic Scenes via Spatial-Aware Motion Reconstruction.pdf",
+        "link": "2017 Anomaly Detection in Traffic Scenes via Spatial-Aware Motion Reconstruction.pdf",
         "Dataset": [
             "https://pan.baidu.com/s/1dG3Nxj7",
             "https://mailnwpueducn-my.sharepoint.com/:u:/g/personal/nwpuwangdong_mail_nwpu_edu_cn/EVd9fxtLyUtOmPqQA2Y6gZQBEU1v3seaI7Q_lU-CvPv1qg?e=guq7an"
@@ -466,27 +470,27 @@
     },
     {
         "origin": "Y, Yuan, D. Ma, and Q. Wang*, \"Hyperspectral Anomaly Detection by Graph Pixel Selection,\" IEEE Transactions on Cybernetics (T-CYB), vol. 46, no. 12, pp. 3123-3134, 2016.",
-        "link": "pdf/2016 Hyperspectral Anomaly Detection by Graph Pixel Selection.pdf"
+        "link": "2016 Hyperspectral Anomaly Detection by Graph Pixel Selection.pdf"
     },
     {
         "origin": "Y. Yuan, J. Lin, and Q. Wang*, \"Hyperspectral Image Classification via Multi-Task Joint Sparse Representation and Stepwise MRF Optimization,\" IEEE Transactions on Cybernetics (T-CYB), vol. 46, no. 12, pp. 2966-2977, 2016.",
-        "link": "pdf/2016 Hyperspectral Image Classification via Multitask Joint Sparse Representation and Stepwise MRF Optimization.pdf"
+        "link": "2016 Hyperspectral Image Classification via Multitask Joint Sparse Representation and Stepwise MRF Optimization.pdf"
     },
     {
         "origin": "Q. Wang, J. Lin, and Y. Yuan, \"Salient Band Selection for Hyperspectral Image Classification via Manifold Ranking,\" IEEE Transactions on Neural Networks and Learning Systems (T-NNLS), vol. 27, no. 6, 1279-1289, 2016.",
-        "link": "pdf/2016 Salient Band Selection for Hyperspectral Image Classification via Manifold Ranking.pdf"
+        "link": "2016 Salient Band Selection for Hyperspectral Image Classification via Manifold Ranking.pdf"
     },
     {
         "origin": "Y. Yuan, J. Lin, and Q. Wang*, \"Dual Clustering Based Hyperspectral Band Selection by Contextual Analysis,\" IEEE Transactions on Geoscience and Remote Sensing (T-GRS), vol. 54, no. 3, pp. 1431-1445, 2016.",
-        "link": "pdf/2016 Dual Clustering Based Hyperspectral Band Selection by Contextual Analysis.pdf"
+        "link": "2016 Dual Clustering Based Hyperspectral Band Selection by Contextual Analysis.pdf"
     },
     {
         "origin": "X. Li, M. Chen, and Q. Wang*, \"Measuring Collectiveness via Refined Topological Similarity,\" ACM Transactions on Multimedia Computing Communications and Applications (TOMM), vol. 12, no. 2, pp.34:1-34:22, 2016.",
-        "link": "pdf/2016 TOMM Measuring Collectiveness via Refined Topological Similarity.pdf"
+        "link": "2016 TOMM Measuring Collectiveness via Refined Topological Similarity.pdf"
     },
     {
         "origin": "Y. Yuan, J. Wan, and Q. Wang*, \"Congested Scene Classification via Efficient Unsupervised Feature Learning and Density Estimation,\" Pattern Recognition (PR), vol. 56, pp. 159-169, 2016.",
-        "link": "pdf/2016 Congested scene classification via efficient unsupervised feature learning and density estimation.pdf",
+        "link": "2016 Congested scene classification via efficient unsupervised feature learning and density estimation.pdf",
         "Dataset": [
             "http://pan.baidu.com/s/1geH7Qj5",
             "https://mailnwpueducn-my.sharepoint.com/:u:/g/personal/songchunbiao_mail_nwpu_edu_cn/ERn8YkvnQJ9Hn24nzr0-Q-MBGKK5T9zsK0mq50YkqE5gvg"
@@ -494,82 +498,82 @@
     },
     {
         "origin": "Y. Yuan, Z. Jiang, and Q. Wang*, \"Video-based Road Detection via Online Structural Learning,\" Neurocomputing, vol. 168, pp. 336-347, 2015.",
-        "link": "pdf/2015 Video-based Road Detection via Online Structural Learning.pdf"
+        "link": "2015 Video-based Road Detection via Online Structural Learning.pdf"
     },
     {
         "origin": "Q. Wang, J. Fang, and Y. Yuan, \"Adaptive Road Detection via Context-aware Label Transfer,\" Neurocomputing, vol. 158, pp. 174-183, 2015.",
-        "link": "pdf/2015 Adaptive road detection via context-aware label transfer.pdf"
+        "link": "2015 Adaptive road detection via context-aware label transfer.pdf"
     },
     {
         "origin": "Y. Yuan, J. Fang, and Q. Wang*, \"Online Anomaly Detection in Crowd Scenes via Structure Analysis,\" IEEE Transactions on Cybernetics (T-CYB), vol. 43, no. 3, pp. 548-561, 2015.",
-        "link": "pdf/2015 Online Anomaly Detection in Crowd Scenes.pdf"
+        "link": "2015 Online Anomaly Detection in Crowd Scenes.pdf"
     },
     {
         "origin": "Y. Yuan, Q. Wang, and G. Zhu, \"Fast Hyperspectral Anomaly Detection via High-Order 2D Crossing Filter,\" IEEE Transactions on Geoscience and Remote Sensing (T-GRS), vol. 53, no. 2, pp. 620-630, 2015.",
-        "link": "pdf/2015 Fast Hyperspectral Anomaly Detection via High-Order 2-D Crossing Filter.pdf",
+        "link": "2015 Fast Hyperspectral Anomaly Detection via High-Order 2-D Crossing Filter.pdf",
         "Dataset": [
             "https://drive.google.com/drive/folders/18EGh_oB-_eqOsDLpQVVbT9k0jz65YfYF?usp=sharing"
         ]
     },
     {
         "origin": "Y. Yuan, G. Zhu, and Q. Wang, \"Hyperspectral Band Selection by Multi-task Sparsity Pursuit,\" IEEE Transactions on Geoscience and Remote Sensing (T-GRS), vol. 53, no. 2, pp. 631-644, 2015.",
-        "link": "pdf/2015 Hyperspectral Band Selection by Multitask Sparsity Pursuit.pdf"
+        "link": "2015 Hyperspectral Band Selection by Multitask Sparsity Pursuit.pdf"
     },
     {
         "origin": "Q. Wang and X. Li, \"Shrink Image by Feature Matrix Decomposition,\" Neurocomputing, vol. 140, pp.162-171, 2014.",
-        "link": "pdf/2014 Shrink image by feature matrix decomposition.pdf"
+        "link": "2014 Shrink image by feature matrix decomposition.pdf"
     },
     {
         "origin": "Q. Wang and Y. Yuan, \"High Quality Image Resizing,\" Neurocomputing, vol. 131, pp. 348-356, 2014.",
-        "link": "pdf/2014 High quality image resizing.pdf"
+        "link": "2014 High quality image resizing.pdf"
     },
     {
         "origin": "Q. Wang, J. Fang, and Y. Yuan, \"Multi-cue based Tracking,\" Neurocomputing, vol. 131, pp. 227-236, 2014.",
-        "link": "pdf/2014 Multi-cue based tracking.pdf"
+        "link": "2014 Multi-cue based tracking.pdf"
     },
     {
         "origin": "Q. Wang and Y. Yuan, \"Learning to Resize Image,\" Neurocomputing, vol. 131, pp. 357-367, 2014.",
-        "link": "pdf/2014 Learning to resize image.pdf"
+        "link": "2014 Learning to resize image.pdf"
     },
     {
         "origin": "G. Zhu, Q. Wang, and Y. Yuan, \"NATAS: Neural Activity Trace Aware Saliency,\" IEEE Transactions on Cybernetics (T-CYB), vol. 44, no. 7, pp. 1014-1024, 2014.",
-        "link": "pdf/2014 NATAS  Neural Activity Trace Aware Saliency.pdf"
+        "link": "2014 NATAS  Neural Activity Trace Aware Saliency.pdf"
     },
     {
         "origin": "Y. Yuan, J. Fang, and Q. Wang, \"Robust Superpixel Tracking via Depth Fusion,\" IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT), vol. 24, no. 1, pp. 15-26, 2014.",
-        "link": "pdf/2014 Robust Superpixel Tracking via Depth Fusion.pdf"
+        "link": "2014 Robust Superpixel Tracking via Depth Fusion.pdf"
     },
     {
         "origin": "J. Fang, Q. Wang, and Y. Yuan, \"Part-based Online Tracking with Geometry Constraint and Attention Selection,\" IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT), vol. 24, no. 5, pp. 854-864, 2014.",
-        "link": "pdf/2014 Part-based Online Tracking with Geometry Constraint and Attention Selection.pdf"
+        "link": "2014 Part-based Online Tracking with Geometry Constraint and Attention Selection.pdf"
     },
     {
         "origin": "Q. Wang,  G. Zhu, and Y. Yuan, \"Statistical Quantization for Similarity Search,\" Computer Vision and Image Understanding (CVIU), vol. 124, pp. 22-30, 2014.",
-        "link": "pdf/2014 Statistical Quantization for Similarity Search.pdf"
+        "link": "2014 Statistical Quantization for Similarity Search.pdf"
     },
     {
         "origin": "Q. Wang, C. Zou, Y. Yuan, H. Lu, and P. Yan, \"Image Registration by Normalized Mapping,\" Neurocomputing, vol. 101, pp. 181-189, 2013.",
-        "link": "pdf/2013 Image registration by normalized mapping.pdf"
+        "link": "2013 Image registration by normalized mapping.pdf"
     },
     {
         "origin": "Q. Wang, Y. Yuan, P. Yan, and X. Li, \"Saliency Detection by Multiple-instance Learning,\" IEEE Transactions on Cybernetics (T-CYB), vol. 43, no. 2, pp. 660-672, 2013.",
-        "link": "pdf/2013 Saliency Detection by Multiple-Instance Learning.pdf"
+        "link": "2013 Saliency Detection by Multiple-Instance Learning.pdf"
     },
     {
         "origin": "G. Zhu, Q. Wang, Y. Yuan, and P. Yan, \"Learning Saliency by MRF and Differential Threshold,\" IEEE Transactions on Cybernetics (T-CYB), vol. 43, no. 6, pp. 2032-2043, 2013.",
-        "link": "pdf/2013 Learning Saliency by MRF and Differential Threshold.pdf"
+        "link": "2013 Learning Saliency by MRF and Differential Threshold.pdf"
     },
     {
         "origin": "Q. Wang, Y. Yuan, and P. Yan, \"Visual Saliency by Selective Contrast,\" IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT), vol. 23, no. 7, pp. 1150-1155, 2013.",
-        "link": "pdf/2013 Visual Saliency by Selective Contrast.pdf"
+        "link": "2013 Visual Saliency by Selective Contrast.pdf"
     },
     {
         "origin": "Q. Wang, P. Yan, Y. Yuan, and X. Li, \"Multi-spectral Saliency Detection,\" Pattern Recognition Letters (PRL), vol. 34, no. 1, pp. 34-41, 2013.",
-        "link": "pdf/2013 Multi-spectral Saliency Detection.pdf"
+        "link": "2013 Multi-spectral Saliency Detection.pdf"
     },
     {
         "origin": "Q. Wang, G. Zhu, and Y. Yuan, \"Multi-spectral Dataset and Its Application in Saliency Detection,\" Computer Vision and Image Understanding (CVIU), vol. 117, no. 12, pp.1748-1754, 2013.",
-        "link": "pdf/2013 Multi-spectral dataset and its application in saliency detection.pdf",
+        "link": "2013 Multi-spectral dataset and its application in saliency detection.pdf",
         "Dataset": [
             "https://pan.baidu.com/s/1c2atN4c",
             "https://mailnwpueducn-my.sharepoint.com/:u:/g/personal/songchunbiao_mail_nwpu_edu_cn/ERxaPpmt741IgjxXFAr0n4YBfckB4Wa62LXnmeyV9AAwMg"
@@ -580,6 +584,6 @@
         "title": "Database of Human Segmented Images and Its application in Boundary Detection",
         "publication": "IET Image Processing",
         "ext-info": "vol. 6, no. 3, pp. 222-229, 2012",
-        "link": "pdf/2012 Database of human segmented images and its application in boundary detection.pdf"
+        "link": "2012 Database of human segmented images and its application in boundary detection.pdf"
     }
 ]
