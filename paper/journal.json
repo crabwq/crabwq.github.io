@@ -8,14 +8,14 @@
         "link": "2023 dhx-bare_jrnl.pdf"
     },
     {
-        "origin": "Y. Liu, Y. Yuan, and Q. Wang*, \"Uncertainty-Aware Graph Reasoning with Global Collaborative Learning for Remote Sensing Salient Object Detection,\" IEEE Geoscience and Remote Sensing Letters (GRSL), DOI: 10.1109/LGRS.2023.3299245.",
+        "origin": "Y. Liu, Y. Yuan, and Q. Wang*, \"Uncertainty-Aware Graph Reasoning with Global Collaborative Learning for Remote Sensing Salient Object Detection,\" IEEE Geoscience and Remote Sensing Letters (GRSL), vol. 20, Art no. 6008105, pp. 1-5, 2023.",
         "link": "2023 UG2L.pdf",
         "Code": [
             "https://github.com/lyf0801/UG2L"
         ]
     },
     {
-        "origin": "Y. Liu, Z. Xiong, Y. Yuan, and Q. Wang*, “Transcending Pixels: Boosting Saliency Detection via Scene Understanding from Aerial Imagery,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), DOI: 10.1109/TGRS.2023.3298661.",
+        "origin": "Y. Liu, Z. Xiong, Y. Yuan, and Q. Wang*, “Transcending Pixels: Boosting Saliency Detection via Scene Understanding from Aerial Imagery,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), vol. 61, Art no. 5616416, pp. 1-16, 2023.",
         "link": "2023 SASOD.pdf",
         "Code": [
             "https://github.com/lyf0801/SDNet"
@@ -48,7 +48,7 @@
         ]
     },
     {
-        "origin": "Y. Liu, Z. Xiong, Y. Yuan, and Q. Wang*, “Distilling Knowledge from Super Resolution for Efficient Remote Sensing Salient Object Detection,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), DOI: 10.1109/TGRS.2023.3267271.",
+        "origin": "Y. Liu, Z. Xiong, Y. Yuan, and Q. Wang*, \"Distilling Knowledge from Super-Resolution for Efficient Remote Sensing Salient Object Detection,\" IEEE Transactions on Geoscience and Remote Sensing (T-GRS), vol. 61, Art no. 5609116, pp. 1-16, 2023.",
         "link": "2023 Distilling Knowledge from Super Resolution for Efficient Remote Sensing Salient Object Detection.pdf"
     },
     {
