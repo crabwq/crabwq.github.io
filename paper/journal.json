@@ -1,5 +1,9 @@
 [
     {
+        "origin": "J. Shen, C. Zhang, Y. Yuan, and Q. Wang*, \"Enhancing Prospective Consistency for Semi-Supervised Object Detection in Remote Sensing Images,\" IEEE Transactions on Geoscience and Remote Sensing (T-GRS), DOI: 10.1109/TGRS.2023.3310026.",
+        "link": "2023 pct_final.pdf"
+    },
+    {
         "origin": "J. Hu, J. Gao, Y. Yuan, J. Chanussot, and Q. Wang*, “LGNet: Location-Guided Network for Road Extraction from Satellite Images,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), DOI: 10.1109/TGRS.2023.3305031.",
         "link": "2023 lgnet_final.pdf"
     },
