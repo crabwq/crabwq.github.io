@@ -1,5 +1,12 @@
 [
     {
+        "origin": "Q. Li, Y. Yuan, Q. Wang*, “Multi-Scale Factor Joint Learning for Hyperspectral Image Super-Resolution,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), DOI: 10.1109/TGRS.2023.3312436.",
+        "link": "2023 Multi-Scale Factor Joint Learning.pdf",
+        "Code": [
+            "https://github.com/qianngli/MulSR"
+        ]
+    },
+    {
         "origin": "J. Shen, C. Zhang, Y. Yuan, and Q. Wang*, \"Enhancing Prospective Consistency for Semi-Supervised Object Detection in Remote Sensing Images,\" IEEE Transactions on Geoscience and Remote Sensing (T-GRS), DOI: 10.1109/TGRS.2023.3310026.",
         "link": "2023 pct_final.pdf"
     },
