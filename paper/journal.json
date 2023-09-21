@@ -4,7 +4,7 @@
         "link": "2023 Multi-Domain Adaptation for Motion Deblurring.pdf"
     },
     {
-        "origin": "Q. Li, Y. Yuan, and Q. Wang*, “Multi-Scale Factor Joint Learning for Hyperspectral Image Super-Resolution,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), DOI: 10.1109/TGRS.2023.3312436.",
+        "origin": "Q. Li, Y. Yuan, and Q. Wang*, “Multi-Scale Factor Joint Learning for Hyperspectral Image Super-Resolution,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), vol. 61, Art no. 5523110, pp. 1-10, 2023.",
         "link": "2023 Multi-Scale Factor Joint Learning.pdf",
         "Code": [
             "https://github.com/qianngli/MulSR"
