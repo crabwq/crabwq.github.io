@@ -1,5 +1,12 @@
 [
     {
+        "origin": "Y. Jia, J. Gao, W. Huang, Y. Yuan, and Q. Wang*, \"Holistic Mutual Representation Enhancement for Few-Shot Remote Sensing Segmentation,\" IEEE Transactions on Geoscience and Remote Sensing (T-GRS), 2023.",
+        "link": "2023 Holistic Mutual Representation Enhancement for Few-Shot Remote Sensing Segmentation.pdf",
+        "Dataset": [
+            "https://drive.google.com/drive/folders/1FMAKf2sszoFKjq0UrUmSLnJDbwQSpfxR"
+        ]
+    },
+    {
         "origin": "K. Zhuang, Q. Li, Y. Yuan, and Q. Wang*, “Multi-Domain Adaptation for Motion Deblurring,” IEEE Transactions on Multimedia (T-MM), DOI: 10.1109/TMM.2023.3314154.",
         "link": "2023 Multi-Domain Adaptation for Motion Deblurring.pdf"
     },
