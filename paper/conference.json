@@ -1,13 +1,13 @@
 [
     {
-        "origin": "Z. Xiong, Y. Liu, Q. Wang, and X. X. Zhu, \"RSSOD-Bench: A Large-Scale Benchmark Dataset for Salient Object Detection in Optical Remote Sensing Imagery,\" Proc. IEEE International Geoscience and Remote Sensing Symposium (IGARSS), 2023.",
+        "origin": "Z. Xiong, Y. Liu, Q. Wang, and X. X. Zhu, \"RSSOD-Bench: A Large-Scale Benchmark Dataset for Salient Object Detection in Optical Remote Sensing Imagery,\" Proc. IEEE International Geoscience and Remote Sensing Symposium (IGARSS), pp. 6549-6552, 2023.",
         "link": "2023 RSSOD.pdf",
         "Dataset": [
             "https://github.com/EarthNets/Dataset4EO"
         ]
     },
     {
-        "origin": "Y. Zhang, Y. Yuan, and Q. Wang*, \"Multi-Level Graph Contrastive Prototypical Clustering,\" Proc. International Joint Conference on Artificial Intelligence (IJCAI), 2023.",
+        "origin": "Y. Zhang, Y. Yuan, and Q. Wang*, \"Multi-Level Graph Contrastive Prototypical Clustering,\" Proc. International Joint Conference on Artificial Intelligence (IJCAI), pp. 4611-4619, 2023.",
         "link": "2023 Multi-level Graph Contrastive Prototypical Clustering.pdf"
     },
     {
