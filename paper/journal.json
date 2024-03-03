@@ -109,14 +109,14 @@
         "link": "2022 bare_jrnl_new_sample4.pdf"
     },
     {
-        "origin": "Q. Li, M. Gong, Y. Yuan, and Q. Wang*, \"Symmetrical Feature Propagation Network for Hyperspectral Image Super-Resolution,\" IEEE Transactions on Geoscience and Remote Sensing (T-GRS), vol. 60, pp. 1-12, 2022.",
+        "origin": "Q. Li, M. Gong, Y. Yuan, and Q. Wang*, “Symmetrical Feature Propagation Network for Hyperspectral Image Super-Resolution,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), vol. 60, Art no. 5536912, pp. 1-12, 2022.",
         "link": "2022 fusion.pdf",
         "Code": [
             "https://github.com/qianngli/SFPN"
         ]
     },
     {
-        "origin": "Q. Wang, Y. Liu, Z. Xiong, and Y. Yuan, \"Hybrid Feature Aligned Network for Salient Object Detection in Optical Remote Sensing Imagery,\" IEEE Transactions on Geoscience and Remote Sensing (T-GRS), vol. 60, pp. 1-15, 2022.",
+        "origin": "Q. Wang, Y. Liu, Z. Xiong, and Y. Yuan, “Hybrid Feature Aligned Network for Salient Object Detection in Optical Remote Sensing Imagery,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), vol. 60, Art no. 5624915, pp. 1-15, 2022.",
         "link": "2022 HFANet_FINAL_VERSION.pdf",
         "Code": [
             "https://github.com/lyf0801/HFANet"
@@ -134,7 +134,7 @@
         "link": "2022 CM-Net Concentric Mask based Arbitrary-Shaped.pdf"
     },
     {
-        "origin": "Y. Liu, Q. Li, Y. Yuan, Q. Du, and Q. Wang*, \"ABNet: Adaptive Balanced Network for Multiscale Object Detection in Remote Sensing Imagery,\" IEEE Transactions on Geoscience and Remote Sensing (T-GRS), vol. 60, pp. 1-14, 2022.",
+        "origin": "Y. Liu, Q. Li, Y. Yuan, Q. Du, and Q. Wang*, “ABNet: Adaptive Balanced Network for Multi-scale Object Detection in Remote Sensing Imagery,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), vol. 60, Art no. 5614914, pp. 1-14, 2022.",
         "link": "2021 bare_jrnl.pdf"
     },
     {
