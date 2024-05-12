@@ -1,6 +1,6 @@
 [
     {
-        "origin": "Q. Zhou, J. Gao, Y. Yuan, and Q. Wang*, "Single-stream Extractor Network with Contrastive Pre-training for Remote Sensing Change Captioning," IEEE Transactions on Geoscience and Remote Sensing (T-GRS), 2024.",
+        "origin": "Q. Zhou, J. Gao, Y. Yuan, and Q. Wang*, “Single-stream Extractor Network with Contrastive Pre-training for Remote Sensing Change Captioning,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), 2024.",
         "link": "2024 SEN.pdf"
         "Code": [
             "https://github.com/mrazhou/SEN"
