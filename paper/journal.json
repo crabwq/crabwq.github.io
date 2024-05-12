@@ -1,15 +1,31 @@
 [
     {
+        "origin": "Q. Zhou, J. Gao, Y. Yuan, and Q. Wang*, "Single-stream Extractor Network with Contrastive Pre-training for Remote Sensing Change Captioning," IEEE Transactions on Geoscience and Remote Sensing (T-GRS), 2024.",
+        "link": "2024 SEN.pdf"
+        "Code": [
+            "https://github.com/mrazhou/SEN"
+        ]
+    },
+    {
         "origin": "Z. Yang, Q. Li, Y. Yuan, and Q. Wang*, “HCNet: Hierarchical Feature Aggregation and Cross-Modal Feature Alignment for Remote Sensing Image Captioning,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), 2024.",
         "link": "2024 HCNet_submit_.pdf"
+        "Code": [
+            "https://github.com/CVer-Yang/HCNet"
+        ]
     },
     {
         "origin": "Q. Wang, K. Chi, W. Jing, and Y. Yuan, “Recreating Brightness from Remote Sensing Shadow Appearance,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), 2024.",
         "link": "2024 Recreating Brightness from Remote Sensing Shadow Appearance.pdf"
+        "Code": [
+            "https://github.com/chi-kaichen/UP-ShadowGAN"
+        ]
     },
     {
         "origin": "Q. Wang*, W. Jing, K. Chi, and Y. Yuan, “Cross-Difference Semantic Consistency Network for Semantic Change Detection,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), vol. 62, Art no. 4406312, pp. 1-12, 2024.",
         "link": "2024 Cross-Difference Semantic Consistency Network for Semantic Change Detection.pdf"
+        "Code": [
+            "https://github.com/weiAI1996/CdSC"
+        ]
     },
     {
         "origin": "Y. Jia, J. Gao, W. Huang, Y. Yuan, and Q. Wang*, \"Holistic Mutual Representation Enhancement for Few-Shot Remote Sensing Segmentation,\" IEEE Transactions on Geoscience and Remote Sensing (T-GRS), vol. 61, Art no. 5622613, pp. 1-13, 2023.",
