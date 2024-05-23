@@ -14,7 +14,7 @@
         ]
     },
     {
-        "origin": "Q. Wang, K. Chi, W. Jing, and Y. Yuan, “Recreating Brightness from Remote Sensing Shadow Appearance,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), 2024.",
+        "origin": "Q. Wang*, K. Chi, W. Jing, and Y. Yuan, “Recreating Brightness from Remote Sensing Shadow Appearance,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), vol. 62, Art no. 5623711, pp. 1-11, 2024.",
         "link": "2024 Recreating Brightness from Remote Sensing Shadow Appearance.pdf",
         "Code": [
             "https://github.com/chi-kaichen/UP-ShadowGAN"
