@@ -1,5 +1,9 @@
 [
     {
+        "origin": "H. Ding, J. Gao, Y. Yuan, Q. Wang*, “FF-LPD: A Real-Time Frame-by-Frame License Plate Detector with Knowledge Distillation and Feature Propagation,” IEEE Transactions on Image Processing (T-IP), 2024.",
+        "link": "2024 ding-bare_jrnl.pdf"
+    },
+    {
         "origin": "M. Zhang, Q. Li, Y. Yuan, and Q. Wang*, “Boosting Binary Object Change Detection via Unpaired Image Prototypes Contrast,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), 2024.",
         "link": "2024 UIPC.pdf",
         "Code": [
