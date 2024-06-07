@@ -1,5 +1,12 @@
 [
     {
+        "origin": "K. Chi, J. Li, W. Jing, Q. Li, and Q. Wang*, “Neural Implicit Fourier Transform for Remote Sensing Shadow Removal,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), 2024.",
+        "link": "2024 TGRS.pdf",
+        "Code": [
+            "https://github.com/chi-kaichen/NeFour"
+        ]
+    },
+    {
         "origin": "H. Ding, J. Gao, Y. Yuan, Q. Wang*, “FF-LPD: A Real-Time Frame-by-Frame License Plate Detector with Knowledge Distillation and Feature Propagation,” IEEE Transactions on Image Processing (T-IP), 2024.",
         "link": "2024 ding-bare_jrnl.pdf"
     },
