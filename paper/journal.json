@@ -117,7 +117,10 @@
     },
     {
         "origin": "Y. Liu, Z. Xiong, Y. Yuan, and Q. Wang*, \"Distilling Knowledge from Super-Resolution for Efficient Remote Sensing Salient Object Detection,\" IEEE Transactions on Geoscience and Remote Sensing (T-GRS), vol. 61, Art no. 5609116, pp. 1-16, 2023.",
-        "link": "2023 Distilling Knowledge from Super Resolution for Efficient Remote Sensing Salient Object Detection.pdf"
+        "link": "2023 Distilling Knowledge from Super Resolution for Efficient Remote Sensing Salient Object Detection.pdf",
+        "Code": [
+            "https://github.com/lyf0801/SRAL"
+        ]
     },
     {
         "origin": "J. Wang, J. Gao, Y. Yuan, and Q. Wang*, \"Crowd Localization from Gaussian Mixture Scoped Knowledge and Scoped Teacher,\" IEEE Transactions on Image Processing (T-IP), vol. 32, pp. 1802-1814, 2023.",
