@@ -11,7 +11,7 @@
         "link": "2024 ding-bare_jrnl.pdf"
     },
     {
-        "origin": "M. Zhang, Q. Li, Y. Yuan, and Q. Wang*, “Boosting Binary Object Change Detection via Unpaired Image Prototypes Contrast,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), 2024.",
+        "origin": "M. Zhang, Q. Li, Y. Yuan, and Q. Wang*, “Boosting Binary Object Change Detection via Unpaired Image Prototypes Contrast,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), vol. 62, Art no. 5627409, pp. 1-9, 2024.",
         "link": "2024 UIPC.pdf",
         "Code": [
             " https://github.com/ptdoge/UIPC"
