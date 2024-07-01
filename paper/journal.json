@@ -1,5 +1,12 @@
 [
     {
+        "origin": "W. Jing, K. Chi, Q. Li, and Q. Wang*, “3D Neighborhood Cross Differencing: A New Paradigm Serves Remote Sensing Change Detection,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), 2024.",
+        "link": "2024 3D Neighborhood Cross Differencing A New Paradigm Serves Remote Sensing Change Detection.pdf",
+        "Code": [
+            "https://github.com/weiAI1996/3DNCD ChangeLN"
+        ]
+    },
+    {
         "origin": "K. Chi, J. Li, W. Jing, Q. Li, and Q. Wang*, “Neural Implicit Fourier Transform for Remote Sensing Shadow Removal,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), vol. 62, Art no. 5628110, pp. 1-10, 2024.",
         "link": "2024 TGRS.pdf",
         "Code": [
