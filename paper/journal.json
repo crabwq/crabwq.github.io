@@ -1,5 +1,9 @@
 [
     {
+        "origin": "C. Yang, K. Zhuang, M. Chen, H. Ma, X. Han, T. Han, C. Guo, H. Han, B. Zhao, and Q. Wang*, “Traffic Sign Interpretation via Natural Language Description,” IEEE Transactions on Intelligent Transportation Systems (T-ITS), 2024.",
+        "link": "2024 TITS.pdf"
+    },
+    {
         "origin": "W. Jing, K. Chi, Q. Li, and Q. Wang*, “3D Neighborhood Cross Differencing: A New Paradigm Serves Remote Sensing Change Detection,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), 2024.",
         "link": "2024 3D Neighborhood Cross Differencing A New Paradigm Serves Remote Sensing Change Detection.pdf",
         "Code": [
@@ -21,7 +25,7 @@
         "origin": "M. Zhang, Q. Li, Y. Yuan, and Q. Wang*, “Boosting Binary Object Change Detection via Unpaired Image Prototypes Contrast,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), vol. 62, Art no. 5627409, pp. 1-9, 2024.",
         "link": "2024 UIPC.pdf",
         "Code": [
-            " https://github.com/ptdoge/UIPC"
+            " https://github.com/ptdoge/UIPC"  
         ]
     },
     {
