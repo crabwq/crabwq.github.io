@@ -1,7 +1,10 @@
 [
     {
         "origin": "C. Yang, K. Zhuang, M. Chen, H. Ma, X. Han, T. Han, C. Guo, H. Han, B. Zhao, and Q. Wang*, “Traffic Sign Interpretation via Natural Language Description,” IEEE Transactions on Intelligent Transportation Systems (T-ITS), 2024.",
-        "link": "2024 TITS.pdf"
+        "link": "2024 TITS.pdf",
+        "Dataset": [
+            "https://github.com/omtcyang/TSI-CN_Traffic-Sign-Interpretation-via-Natural-Language-Description-"
+        ]
     },
     {
         "origin": "W. Jing, K. Chi, Q. Li, and Q. Wang*, “3D Neighborhood Cross Differencing: A New Paradigm Serves Remote Sensing Change Detection,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), vol. 62, Art no. 5630511, pp. 1-11, 2024.",
