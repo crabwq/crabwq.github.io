@@ -1,5 +1,9 @@
 [
     {
+        "origin": "X. Han, J. Gao, C, Yang, Y. Yuan, and Q. Wang*, “Focus Entirety and Perceive Environment for Arbitrary-Shaped Text Detection,” IEEE Transactions on Multimedia (T-MM), 2024.",
+        "link": "2024 fepe.pdf"
+    },
+    {
         "origin": "C. Yang, K. Zhuang, M. Chen, H. Ma, X. Han, T. Han, C. Guo, H. Han, B. Zhao, and Q. Wang*, “Traffic Sign Interpretation via Natural Language Description,” IEEE Transactions on Intelligent Transportation Systems (T-ITS), 2024.",
         "link": "2024 TITS.pdf",
         "Dataset": [
