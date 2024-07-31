@@ -1,5 +1,12 @@
 [
     {
+        "origin": "J. Shen, C. Zhang, M. Zhang, Q. Li, and Q. Wang*, “Learning Remote Sensing Aleatoric Uncertainty for Semi-Supervised Change Detection,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), 2024.",
+        "link": "2024 PUFfinal.pdf",
+        "Code": [
+            "https://github.com/shenjh0/PUF"
+        ]
+    },
+    {
         "origin": "X. Han, J. Gao, C, Yang, Y. Yuan, and Q. Wang*, “Focus Entirety and Perceive Environment for Arbitrary-Shaped Text Detection,” IEEE Transactions on Multimedia (T-MM), 2024.",
         "link": "2024 fepe.pdf"
     },
