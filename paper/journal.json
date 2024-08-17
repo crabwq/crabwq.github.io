@@ -1,6 +1,6 @@
 [
     {
-        "origin": "J. Shen, C. Zhang, M. Zhang, Q. Li, and Q. Wang*, “Learning Remote Sensing Aleatoric Uncertainty for Semi-Supervised Change Detection,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), 2024.",
+        "origin": "J. Shen, C. Zhang, M. Zhang, Q. Li, and Q. Wang*, “Learning Remote Sensing Aleatoric Uncertainty for Semi-Supervised Change Detection,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), vol. 62, Art no. 5635413, pp. 1-13, 2024.",
         "link": "2024 PUFfinal.pdf",
         "Code": [
             "https://github.com/shenjh0/PUF"
