@@ -1,5 +1,9 @@
 [
     {
+        "origin": "X. Han, J. Gao, C, Yang, Y. Yuan, and Q. Wang, “Spotlight Text Detector: Spotlight on Candidate Regions Like a Camera,” IEEE Transactions on Multimedia (T-MM), 2024.",
+        "link": "2024 FINAL VERSION.pdf"
+    },
+    {
         "origin": "J. Shen, C. Zhang, M. Zhang, Q. Li, and Q. Wang*, “Learning Remote Sensing Aleatoric Uncertainty for Semi-Supervised Change Detection,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), vol. 62, Art no. 5635413, pp. 1-13, 2024.",
         "link": "2024 PUFfinal.pdf",
         "Code": [
