@@ -1,5 +1,12 @@
 [
     {
+        "origin": "W. Zhang, Q. Li, Y. Yuan, and Q. Wang*, “Visual Consistency Enhancement for Multi-view Stereo Reconstruction in Remote Sensing,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), 2024.",
+        "link": "2024 AggrMVS_final_version.pdf",
+        "Code": [
+            "https://github.com/ToscW/BlendedUAV"
+        ]
+    },
+    {
         "origin": "Q. Li, M. Zhang, Z. Yang, Y. Yuan, and Q. Wang*, “Edge-Guided Perceptual Network for Infrared Small Target Detection,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), 2024.",
         "link": "2024 EGPNet.pdf",
         "Code": [
