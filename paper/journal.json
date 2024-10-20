@@ -7,7 +7,7 @@
         ]
     },
     {
-        "origin": "Q. Li, M. Zhang, Z. Yang, Y. Yuan, and Q. Wang*, “Edge-Guided Perceptual Network for Infrared Small Target Detection,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), 2024.",
+        "origin": "Q. Li, M. Zhang, Z. Yang, Y. Yuan, and Q. Wang*, “Edge-Guided Perceptual Network for Infrared Small Target Detection,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), vol. 62, Art no. 5643510, pp. 1-10, 2024.",
         "link": "2024 EGPNet.pdf",
         "Code": [
             "https://github.com/qianngli/EGPNet"
