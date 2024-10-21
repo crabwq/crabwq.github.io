@@ -1,5 +1,12 @@
 [
     {
+        "origin": "X. Han, J. Gao, C. Yang, Y. Yuan, and Q. Wang*, “Real-Time Text Detection with Similar Mask in Traffic, Industrial, and Natural Scenes,” IEEE Transactions on Intelligent Transportation Systems (T-ITS), 2024.",
+        "link": "2024 SM_Net_submit.pdf",
+        "Code": [
+            "https://github.com/fengmulin/SMNet"
+        ]
+    },
+    {
         "origin": "W. Zhang, Q. Li, Y. Yuan, and Q. Wang*, “Visual Consistency Enhancement for Multi-view Stereo Reconstruction in Remote Sensing,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), 2024.",
         "link": "2024 AggrMVS_final_version.pdf",
         "Code": [
