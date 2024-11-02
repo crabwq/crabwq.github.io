@@ -1,5 +1,12 @@
 [
     {
+        "origin": "Z. Yang, W. Zhang, Q. Li, W. Ni, J. Wu and Q. Wang*, ”C2Net: Road Extraction via Context Perception and Cross Spatial-Scale Feature Interaction,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), 2024.",
+        "link": "2024 CCNet__prof.pdf",
+        "Code": [
+            "https://github.com/CVer-Yang/CCNet"
+        ]
+    },
+    {
         "origin": "X. Han, J. Gao, C. Yang, Y. Yuan, and Q. Wang*, “Real-Time Text Detection with Similar Mask in Traffic, Industrial, and Natural Scenes,” IEEE Transactions on Intelligent Transportation Systems (T-ITS), 2024.",
         "link": "2024 SM_Net_submit.pdf",
         "Code": [
