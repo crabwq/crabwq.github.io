@@ -47,7 +47,7 @@
         "link": "2024 fepe.pdf"
     },
     {
-        "origin": "C. Yang, K. Zhuang, M. Chen, H. Ma, X. Han, T. Han, C. Guo, H. Han, B. Zhao, and Q. Wang*, “Traffic Sign Interpretation via Natural Language Description,” IEEE Transactions on Intelligent Transportation Systems (T-ITS), 2024.",
+        "origin": "C. Yang, K. Zhuang, M. Chen, H. Ma, X. Han, T. Han, C. Guo, H. Han, B. Zhao, and Q. Wang*, “Traffic Sign Interpretation via Natural Language Description,” IEEE Transactions on Intelligent Transportation Systems (T-ITS), vol. 25, no. 11, pp. 18939-18953, 2024.",
         "link": "2024 TITS.pdf",
         "Dataset": [
             "https://github.com/omtcyang/TSI-CN_Traffic-Sign-Interpretation-via-Natural-Language-Description-"
