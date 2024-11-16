@@ -514,9 +514,8 @@ div.paragraph ol, div.paragraph ol li {
 }
 
 .title-sup {
-    font-size: 0.8em;  /* 使角标比正常文字小 */
-    vertical-align: super;  /* 垂直方向对齐为角标位置 */
-    color: inherit;  /* 保持颜色和正常文字一致 */
+    font-size: 18px; /* 主标题的字体大小 */
+    font-weight: bold; /* 使主标题加粗 */
 }
 
 .paper-title::before {
