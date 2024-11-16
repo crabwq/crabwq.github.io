@@ -510,15 +510,13 @@ div.paragraph ol, div.paragraph ol li {
 
 /*************************************************/
 .paper-title {
-    font-size: 18px; /* 主标题的字体大小 */
-    font-weight: bold; /* 使主标题加粗 */
+    margin-right: 6px;
 }
 
 .title-sup {
-    font-size: 0.7em;  /* 设置角标字体的大小，这里是主字体大小的 70% */
-    vertical-align: super; /* 使文本位置上移，变成上标 */
-    position: relative;
-    top: -0.3em;  /* 根据需要调整上标位置，可以微调 */
+    font-size: 0.8em;  /* 使角标比正常文字小 */
+    vertical-align: super;  /* 垂直方向对齐为角标位置 */
+    color: inherit;  /* 保持颜色和正常文字一致 */
 }
 
 .paper-title::before {
