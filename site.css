@@ -521,6 +521,15 @@ div.paragraph ol, div.paragraph ol li {
     content: ',”';
 }
 
+.title-sup {
+    position: absolute;
+    top: -5px;
+    right: -5px;
+    font-size: 0.8em;  /* 角标字体稍微小一些 */
+    color: red;  /* 你可以根据需要调整颜色 */
+    font-weight: bold;  /* 如果需要更突出 */
+}
+
 /*************************************************/
 .paper-pub {
     font-style: italic;

@@ -10,6 +10,13 @@ function insert_paper(paper, selector) {
     let title = document.createElement('span');
     title.className = 'paper-title';
     title.innerText = paper['title'];
+
+    if (paper['title-sup'] !== undefined) {
+        let sup = document.createElement('span');
+        sup.className = 'title-sup';
+        sup.innerText = paper['title-sup'];  // 角标内容，可以通过 paper 中的 'title-sup' 字段传递
+        title.appendChild(sup);
+    }
     newLi.appendChild(title);
 
     let publication = document.createElement('span');
