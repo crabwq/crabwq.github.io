@@ -17,6 +17,7 @@ function insert_paper(paper, selector) {
         title.appendChild(sup);
     }
     newLi.appendChild(title);
+    console.log(title);
 
     let publication = document.createElement('span');
     if (paper['ext-info'] === "") {
