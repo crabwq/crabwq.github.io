@@ -9,13 +9,17 @@ function insert_paper(paper, selector) {
 
     let title = document.createElement('span');
     title.className = 'paper-title';
-    title.innerText = paper['title'];
+    
     if (paper['title-sup'] !== undefined) {
-        let sup = document.createElement('span');
-        sup.className = 'title-sup';
-        sup.innerText = paper['title-sup'];  // 角标内容，可以通过 paper 中的 'title-sup' 字段传递
-        title.appendChild(sup);
+        // 在 title-sup 内容外直接添加 <sup> 标签
+        let supContent = '<sup>' + paper['title-sup'] + '</sup>';
+        
+        // 将 title 中的 title-sup 替换为角标内容
+        title.innerHTML = paper['title'].replace(paper['title-sup'], supContent);
+    } else {
+        title.innerText = paper['title'];
     }
+    
     newLi.appendChild(title);
     console.log(title);
 
