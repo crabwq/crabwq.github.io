@@ -103,7 +103,8 @@ function parseOrigin(x) {
         "ext-info": match[4],
         "link": x['link'],
         "Code": x['Code'],
-        "Dataset": x['Dataset']
+        "Dataset": x['Dataset'],
+        "title-sup": x['title-sup']
     }
 }
 
