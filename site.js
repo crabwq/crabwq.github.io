@@ -10,7 +10,6 @@ function insert_paper(paper, selector) {
     let title = document.createElement('span');
     title.className = 'paper-title';
     title.innerText = paper['title'];
-
     if (paper['title-sup'] !== undefined) {
         let sup = document.createElement('span');
         sup.className = 'title-sup';
