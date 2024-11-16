@@ -513,6 +513,11 @@ div.paragraph ol, div.paragraph ol li {
     margin-right: 6px;
 }
 
+sup {
+    vertical-align: super;
+    font-size: smaller;
+}
+
 .title-sup {
     font-size: 18px; /* 主标题的字体大小 */
     font-weight: bold; /* 使主标题加粗 */
