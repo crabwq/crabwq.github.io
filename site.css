@@ -515,7 +515,7 @@ div.paragraph ol, div.paragraph ol li {
 
 .title-sup {
     vertical-align: super;
-    font-size: 0.3em;  /* 角标字体稍微小一些 */
+    font-size: 0.5em;  /* 角标字体稍微小一些 */
 }
 
 .paper-title::before {
