@@ -12,7 +12,7 @@ function insert_paper(paper, selector) {
     
     if (paper['title-sup'] !== undefined) {
         // 在 title-sup 内容外直接添加 <sup> 标签
-        let supContent = '<sup class="title-sup">' + paper['title-sup'] + '</sup>';
+        let supContent = '<span class="title-sup">' + paper['title-sup'] + '</span>';
         
         // 将 title 中的 title-sup 替换为角标内容
         title.innerHTML = paper['title'].replace(paper['title-sup'], supContent);
