@@ -513,7 +513,7 @@ div.paragraph ol, div.paragraph ol li {
     margin-right: 6px;
 }
 
-sup {
+.title-sup{
     vertical-align: super;
     font-size: 0.75em;
 }
