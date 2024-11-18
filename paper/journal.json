@@ -1,6 +1,6 @@
 [
     {
-        "origin": "Q. Wang, Z. Yang, W. Ni, J. Wu and Q. Li*, “Semantic-Spatial Collaborative Perception Network for Remote Sensing Image Captioning,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), 2024.",
+        "origin": "Q. Wang, Z. Yang, W. Ni, J. Wu, and Q. Li, “Semantic-Spatial Collaborative Perception Network for Remote Sensing Image Captioning,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), 2024.",
         "link": "2024 SSCPNet__final.pdf",
         "Code": [
             "https://github.com/CVer-Yang/SSCPNet"
@@ -36,7 +36,7 @@
         ]
     },
     {
-        "origin": "X. Ma, Q. Li, Y. Yuan and Q. Wang*, “Confident Multi-View Stereo,” IEEE Transactions on Multimedia (T-MM), 2024.",
+        "origin": "X. Ma, Q. Li, Y. Yuan, and Q. Wang*, “Confident Multi-View Stereo,” IEEE Transactions on Multimedia (T-MM), 2024.",
         "link": "2024 maxin_cfmvsnet_tmm.pdf"
     },
     {
