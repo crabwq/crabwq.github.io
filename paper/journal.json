@@ -1,5 +1,32 @@
 [
     {
+        "origin": "W. Huang, Y. Shi, Z. Xiong, Q. Wang, X. Zhu, “Semi-supervised Bidirectional Alignment for Remote Sensing Cross-domain Scene Classification,” ISPRS Journal of Photogrammetry and Remote Sensing, vol. 195, pp. 192-203, 2023.",
+        "link": "2023 BSCA.pdf",
+        "Code": [
+            "https://github.com/hw2hwei/BSCA"
+        ]
+    },
+    {
+        "origin": "C. Zhang, J. Xiao, C. Yang, J. Zhou, K.-M. Lam, and Q. Wang, “Integrally Mixing Pyramid Representations for Anchor-Free Object Detection in Aerial Imagery,” IEEE Geoscience and Remote Sensing Letters, vol. 21, Art no. 6009905, pp. 1-5, 2024.",
+        "link": "2024 IMPR.pdf"
+    },
+    {
+        "origin": "C. Zhang, K. -M. Lam, T. Liu, Y. -L. Chan, and Q. Wang, “Structured Adversarial Self-Supervised Learning for Robust Object Detection in Remote Sensing Images,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), vol. 62, Art no. 5613720, pp. 1-20, 2024.",
+        "link": "2024 SASSL.pdf"
+    },
+    {
+        "origin": "C. Zhang, T. Liu, J. Xiao, K. -M. Lam, and Q. Wang, “Boosting Object Detectors via Strong-Classification Weak-Localization Pretraining in Remote Sensing Imagery,” IEEE Transactions on Instrumentation and Measurement (T-IM), vol. 72, Art no. 5026520, pp. 1-20, 2023.",
+        "link": "2023 BODS.pdf"
+    },
+    {
+        "origin": "C. Zhang, J. Su, Y. Ju, K. -M. Lam, and Q. Wang, “Efficient Inductive Vision Transformer for Oriented Object Detection in Remote Sensing Imagery,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), vol. 61, Art no. 5616320, pp. 1-20, 2023.",
+        "link": "2023 EIVT.pdf"
+    },
+    {
+        "origin": "C. Zhang, K. -M. Lam, and Q. Wang, “CoF-Net: A Progressive Coarse-to-Fine Framework for Object Detection in Remote-Sensing Imagery,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), vol. 61, Art no. 5600617, pp. 1-17, 2023.",
+        "link": "2023 COFnet.pdf"
+    },
+    {
         "origin": "Y. Li, L. Wang, T. Wang, X. Yang, J. Luo, Q. Wang, Y. Deng, W. Wang, X. Sun, H. Li, B. Dang, Y. Zhang, Y. Yu, and J. Yan, “STAR: A First-Ever Dataset and A Large-Scale Benchmark for Scene Graph Generation in Large-Size Satellite Imagery,” IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI), 2024."
     },
     {
