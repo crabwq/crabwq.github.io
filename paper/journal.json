@@ -1,5 +1,9 @@
 [
     {
+        "origin": "W. Jing, K. Chi, Q. Li, and Q. Wang*, “ChangeRD: A Registration-Integrated Change Detection Framework for Unaligned Remote Sensing Images,” ISPRS Journal of Photogrammetry and Remote Sensing, 2024.",
+        "link": "2024 cas-dc-template.pdf"
+    },
+    {
         "origin": "C. Zhang, J. Xiao, C. Yang, J. Zhou, K.-M. Lam, and Q. Wang, “Integrally Mixing Pyramid Representations for Anchor-Free Object Detection in Aerial Imagery,” IEEE Geoscience and Remote Sensing Letters, vol. 21, Art no. 6009905, pp. 1-5, 2024.",
         "link": "2024 IMPR.pdf"
     },
