@@ -1,5 +1,20 @@
 [
     {
+        "origin": "Q. Li, W. Zhang, W. Lu, and Q. Wang*, “Multibranch Mutual-guiding Learning for Infrared Small Target Detection,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), 2025.",
+        "link": "2025 MMLNet.pdf",
+        "Code": [
+            "https://github.com/qianngli/MMLNet"
+        ]
+    },
+    {
+        "origin": "Y. Jia, J. Li, and Q. Wang*, “Generalized Few-Shot Semantic Segmentation for Remote Sensing Images,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), 2025.",
+        "link": "2025 final_version.pdf"
+    },
+    {
+        "origin": "K. Chi, S. Guo, J. Chu, Q. Li, and Q. Wang*, “RSMamba: Biologically Plausible Retinex-Based Mamba for Remote Sensing Shadow Removal,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), 2025.",
+        "link": "2025 RSMamba_Biologically_Plausible_Retinex-Based_Mamba_for_Remote_Sensing_Shadow_Removal.pdf"
+    },
+    {
         "origin": "Q. Wang, Y. Jia, J. Gao, and Q. Li, “Embedding Generalized Semantic Knowledge into Few-Shot Remote Sensing Segmentation,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), vol. 63, Art no. 5603413, pp. 1-13, 2025.",
         "link": "2024 FINAL_VERSION.PDF"
     },
@@ -37,7 +52,7 @@
         ]
     },
     {
-        "origin": "X. Han, J. Gao, C. Yang, Y. Yuan, and Q. Wang*, “Real-Time Text Detection with Similar Mask in Traffic, Industrial, and Natural Scenes,” IEEE Transactions on Intelligent Transportation Systems (T-ITS), 2024.",
+        "origin": "X. Han, J. Gao, C. Yang, Y. Yuan, and Q. Wang*, “Real-Time Text Detection with Similar Mask in Traffic, Industrial, and Natural Scenes,” IEEE Transactions on Intelligent Transportation Systems (T-ITS), vol. 26, no. 1, pp. 865-877, 2025.",
         "link": "2024 SM_Net_submit.pdf",
         "Code": [
             "https://github.com/fengmulin/SMNet"
