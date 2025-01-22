@@ -1,6 +1,6 @@
 [
     {
-        "origin": "Q. Li, W. Zhang, W. Lu, and Q. Wang*, “Multibranch Mutual-guiding Learning for Infrared Small Target Detection,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), 2025.",
+        "origin": "Q. Li, W. Zhang, W. Lu, and Q. Wang*, “Multibranch Mutual-guiding Learning for Infrared Small Target Detection,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), vol. 63, Art no. 5605710, pp. 1-10, 2025.",
         "link": "2025 MMLNet.pdf",
         "Code": [
             "https://github.com/qianngli/MMLNet"
