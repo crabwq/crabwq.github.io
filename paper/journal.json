@@ -1,5 +1,9 @@
 [
     {
+        "origin": "C. Yang, B. Zhao, Q. Zhou, and Q. Wang*, “MMO-IG: Multi-Class and Multi-Scale Object Image Generation for Remote Sensing,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), 2025.",
+        "link": "2025 MMO-IG.pdf"
+    },
+    {
         "origin": "Q. Wang, M. Zhang, J. Ren, and Q. Li, “Exploring Context Alignment and Structure Perception for Building Change Detection,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), vol. 63, , Art no. 5609910, pp. 1-10, 2025.",
         "link": "2025 CASP_Final.pdf",
         "Code": [

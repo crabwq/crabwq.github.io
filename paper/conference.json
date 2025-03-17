@@ -1,5 +1,12 @@
 [
     {
+        "origin": "Q. Zhou, J. Gao, and Q. Wang*, “Scale Efficient Training for Large Datasets,” Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2025.",
+        "link": "2025 main.pdf",
+        "Code": [
+            "https://github.com/mrazhou/SeTa"
+        ]
+    },
+    {
         "origin": "Z. Xiong, Y. Liu, Q. Wang, and X. X. Zhu, \"RSSOD-Bench: A Large-Scale Benchmark Dataset for Salient Object Detection in Optical Remote Sensing Imagery,\" Proc. IEEE International Geoscience and Remote Sensing Symposium (IGARSS), pp. 6549-6552, 2023.",
         "link": "2023 RSSOD.pdf",
         "Dataset": [
