@@ -1,5 +1,19 @@
 [
     {
+        "origin": "Y. Jia, Q. Zhou, J. Gao, Q. Li, and Q. Wang*, “Like Humans to Few-Shot Learning through Knowledge Permeation of Visual and Language,” IEEE Transactions on Multimedia (T-MM), 2025.",
+        "link": "2025 FINAL_VERSION-2.pdf",
+        "Code": [
+            "https://github.com/mrazhou/BiKop"
+        ]
+    },
+    {
+        "origin": "W. Jing, H. Bai, B. Song, W. Ni, J. Wu, and Q. Wang*, “HeteCD: Feature Consistency Alignment and Difference Mining for Heterogeneous Remote Sensing Image Change Detection,” ISPRS Journal of Photogrammetry and Remote Sensing, 2025.",
+        "link": "2025 neptune.pdf",
+        "Code": [
+            "https://github.com/weiAI1996/HeteCD"
+        ]
+    },
+    {
         "origin": "C. Yang, B. Zhao, Q. Zhou, and Q. Wang*, “MMO-IG: Multi-Class and Multi-Scale Object Image Generation for Remote Sensing,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), 2025.",
         "link": "2025 MMO-IG.pdf"
     },
