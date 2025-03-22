@@ -1,5 +1,12 @@
 [
     {
+        "origin": "J. Hu, Q. Li, and Q. Wang*, “DualStrip-Net: A Strip-based Unified Framework for Weakly- and Semi-Supervised Road Segmentation from Satellite Images,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), 2025.",
+        "link": "2025 dualstrip-net.pdf",
+        "Code": [
+            "https://github.com/jasonnhu/DualStrip-Net/"
+        ]
+    },
+    {
         "origin": "Y. Jia, Q. Zhou, J. Gao, Q. Li, and Q. Wang*, “Like Humans to Few-Shot Learning through Knowledge Permeation of Visual and Language,” IEEE Transactions on Multimedia (T-MM), 2025.",
         "link": "2025 FINAL_VERSION-2.pdf",
         "Code": [
@@ -15,7 +22,7 @@
     },
     {
         "origin": "C. Yang, B. Zhao, Q. Zhou, and Q. Wang*, “MMO-IG: Multi-Class and Multi-Scale Object Image Generation for Remote Sensing,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), 2025.",
-        "link": "2025 MMO-IG.pdf"
+        "link": "2025 MMO-IG FinalProof.pdf"
     },
     {
         "origin": "Q. Wang, M. Zhang, J. Ren, and Q. Li, “Exploring Context Alignment and Structure Perception for Building Change Detection,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), vol. 63, , Art no. 5609910, pp. 1-10, 2025.",
