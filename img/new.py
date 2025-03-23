@@ -18,8 +18,8 @@ def high_quality_resize(input_path, output_path, scale=0.05):
         math.floor(img.height * intermediate_scale))
     
     # 应用锐化滤镜
-    img = img.resize(final_size, Image.LANCZOS)
-    img = img.filter(ImageFilter.SHARPEN)
+    #img = img.resize(final_size, Image.LANCZOS)
+    #img = img.filter(ImageFilter.SHARPEN)
     
     # 高级保存参数
     img.save(
