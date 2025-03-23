@@ -1,7 +1,7 @@
 from PIL import Image, ImageFilter
 import math
 
-def high_quality_resize(input_path, output_path, scale=0.05):
+def high_quality_resize(input_path, output_path, scale=0.006):
     # 打开图片并转换色彩模式
     img = Image.open(input_path).convert('RGB')
     
@@ -31,4 +31,4 @@ def high_quality_resize(input_path, output_path, scale=0.05):
     )
 
 # 使用示例
-high_quality_resize("pic2.jpg", "pic2-1.jpg", 0.05)
+high_quality_resize("HK.jpg", "HK-2.jpg", 0.006)
