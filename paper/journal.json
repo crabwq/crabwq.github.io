@@ -1,5 +1,9 @@
 [
     {
+        "origin": "Y. Jia, W. Fu, J. Gao, and Q. Wang*, “Dual-View Classifier Evolution for Generalized Remote Sensing Few-Shot Segmentation,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), 2025.",
+        "link": "2025 paper006.pdf"
+    },
+    {
         "origin": "J. Hu, Q. Li, and Q. Wang*, “DualStrip-Net: A Strip-based Unified Framework for Weakly- and Semi-Supervised Road Segmentation from Satellite Images,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), 2025.",
         "link": "2025 dualstrip-net.pdf",
         "Code": [
