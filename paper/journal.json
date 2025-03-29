@@ -1,5 +1,12 @@
 [
     {
+        "origin": "S. Liu, Z. Yang, Q. Li, and Q. Wang*, “InterMamba: A Visual-Prompted Interactive Framework for Dense Object Detection and Annotation,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), 2025.",
+        "link": "2025 InterMamba.pdf",
+        "Code": [
+            "https://github.com/lsjhaha/InterMamba"
+        ]
+    },
+    {
         "origin": "Y. Jia, W. Fu, J. Gao, and Q. Wang*, “Dual-View Classifier Evolution for Generalized Remote Sensing Few-Shot Segmentation,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), 2025.",
         "link": "2025 paper006.pdf"
     },
