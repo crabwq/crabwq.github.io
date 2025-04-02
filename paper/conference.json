@@ -1,5 +1,9 @@
 [
     {
+        "origin": "X. Zhao, H. Bai, Q. Li, and Q. Wang*, “Quantized Memory-Efficient Full-Parameter Tuning with Sign Descent Optimization,” Proc. IEEE International Conference on Multimedia and Expo (ICME), 2025.",
+        "link": "2025 ICME_CR.pdf"
+    },
+    {
         "origin": "Q. Zhou, J. Gao, and Q. Wang*, “Scale Efficient Training for Large Datasets,” Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2025.",
         "link": "2025 main.pdf",
         "Code": [
