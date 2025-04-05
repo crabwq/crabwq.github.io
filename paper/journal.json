@@ -1,5 +1,12 @@
 [
     {
+        "origin": "C. Yang, X. Han, T. Han, H. Han, B. Zhao, and Q. Wang*, “Edge Approximation Text Detector,” IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT), 2025.",
+        "link": "2025 TCSVT-final_v1.pdf",
+        "Code": [
+            "https://github.com/omtcyang/EdgeTD"
+        ]
+    },
+    {
         "origin": "S. Liu, Z. Yang, Q. Li, and Q. Wang*, “InterMamba: A Visual-Prompted Interactive Framework for Dense Object Detection and Annotation,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), 2025.",
         "link": "2025 InterMamba.pdf",
         "Code": [
