@@ -1,5 +1,12 @@
 [
     {
+        "origin": "K. Chi, W. Jing, J. Li, Q. Li, and Q. Wang*, “Cross-Modal Spherical Aggregation for Weakly Supervised Remote Sensing Shadow Removal,” IEEE Transactions on Multimedia (T-MM), 2025.",
+        "link": "2025 TMM-022300.pdf",
+        "Code": [
+            "https://github.com/chi-kaichen/S2-ShadowNet"
+        ]
+    },
+    {
         "origin": "C. Yang, X. Han, T. Han, H. Han, B. Zhao, and Q. Wang*, “Edge Approximation Text Detector,” IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT), 2025.",
         "link": "2025 TCSVT-final_v1.pdf",
         "Code": [
