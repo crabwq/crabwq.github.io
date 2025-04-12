@@ -25,7 +25,7 @@
         "link": "2025 paper006.pdf"
     },
     {
-        "origin": "J. Hu, Q. Li, and Q. Wang*, “DualStrip-Net: A Strip-based Unified Framework for Weakly- and Semi-Supervised Road Segmentation from Satellite Images,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), 2025.",
+        "origin": "J. Hu, Q. Li, and Q. Wang*, “DualStrip-Net: A Strip-based Unified Framework for Weakly- and Semi-Supervised Road Segmentation from Satellite Images,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), vol. 63, Art no. 5617514, pp. 1-14, 2025.",
         "link": "2025 dualstrip-net.pdf",
         "Code": [
             "https://github.com/jasonnhu/DualStrip-Net/"
