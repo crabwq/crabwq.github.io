@@ -1,5 +1,9 @@
 [
     {
+        "origin": "X. Han, C. Yang, J. Gao, and Q. Wang*, “Balancing Optimization Strategies and Practical Goals: An Efficient Scene Text Detector,” IEEE Transactions on Multimedia (T-MM), 2025.",
+        "link": "2025 FINAL_VERSION-3.pdf"
+    },
+    {
         "origin": "K. Chi, W. Jing, J. Li, Q. Li, and Q. Wang*, “Cross-Modal Spherical Aggregation for Weakly Supervised Remote Sensing Shadow Removal,” IEEE Transactions on Multimedia (T-MM), 2025.",
         "link": "2025 TMM-022300.pdf",
         "Code": [
