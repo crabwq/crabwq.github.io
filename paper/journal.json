@@ -18,7 +18,7 @@
         ]
     },
     {
-        "origin": "S. Liu, Z. Yang, Q. Li, and Q. Wang*, “InterMamba: A Visual-Prompted Interactive Framework for Dense Object Detection and Annotation,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), 2025.",
+        "origin": "S. Liu, Z. Yang, Q. Li, and Q. Wang*, “InterMamba: A Visual-Prompted Interactive Framework for Dense Object Detection and Annotation,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), vol. 63, Art no. 5619811, pp. 1-11, 2025.",
         "link": "2025 InterMamba.pdf",
         "Code": [
             "https://github.com/lsjhaha/InterMamba"
