@@ -1,9 +1,9 @@
 [
     {
-        "origin": "T. Xia, W. Jing, and Q. Wang*, “Adjacent Teacher: Semi-Supervised Oriented Object Detection Leveraging Adjacent Spatial Consistency Prior in Remote Sensing Images,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), 2025.",
+        "origin": "T. Xia, W. Jing, and Q. Wang*, “Adjacent Teacher: Semi-Supervised Oriented Object Detection Leveraging Adjacent Spatial Consistency Prior in Remote Sensing Images,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), vol. 63, Art no. 5627413, pp. 1-13, 2025.",
         "link": "2025 Adjacent_Teacher_final.pdf",
         "Code": [
-            "https://github.com/Xia-tao/AdjacentTeacher"
+            "https://github.com/Xia-tao/Adjacent-Teacher"
         ]
     },
     {
