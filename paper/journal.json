@@ -7,7 +7,7 @@
         ]
     },
     {
-        "origin": "Y. Jia, C. Sun, J. Gao, and Q. Wang*, “Few-Shot Remote Sensing scene classification via Parameter-free Attention and Region Matching,” ISPRS Journal of Photogrammetry and Remote Sensing, 2025.",
+        "origin": "Y. Jia, C. Sun, J. Gao, and Q. Wang*, “Few-Shot Remote Sensing scene classification via Parameter-free Attention and Region Matching,” ISPRS Journal of Photogrammetry and Remote Sensing, vol. 227, pp. 265-275, 2025.",
         "link": "2025 paper007_clean.pdf"
     },
     {
@@ -54,14 +54,14 @@
         ]
     },
     {
-        "origin": "W. Jing, H. Bai, B. Song, W. Ni, J. Wu, and Q. Wang*, “HeteCD: Feature Consistency Alignment and Difference Mining for Heterogeneous Remote Sensing Image Change Detection,” ISPRS Journal of Photogrammetry and Remote Sensing, 2025.",
+        "origin": "W. Jing, H. Bai, B. Song, W. Ni, J. Wu, and Q. Wang*, “HeteCD: Feature Consistency Alignment and Difference Mining for Heterogeneous Remote Sensing Image Change Detection,” ISPRS Journal of Photogrammetry and Remote Sensing, vol. 223, pp. 317-327, 2025.",
         "link": "2025 neptune.pdf",
         "Code": [
             "https://github.com/weiAI1996/HeteCD"
         ]
     },
     {
-        "origin": "C. Yang, B. Zhao, Q. Zhou, and Q. Wang*, “MMO-IG: Multi-Class and Multi-Scale Object Image Generation for Remote Sensing,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), 2025.",
+        "origin": "C. Yang, B. Zhao, Q. Zhou, and Q. Wang*, “MMO-IG: Multi-Class and Multi-Scale Object Image Generation for Remote Sensing,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), vol. 63, pp. 1-12, 2025.",
         "link": "2025 MMO-IG FinalProof.pdf",
         "Code": [
             "https://github.com/omtcyang/MMO-IG"
