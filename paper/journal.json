@@ -1,5 +1,12 @@
 [
     {
+        "origin": "J. Li, K. Chi, Y. Chang, and Q. Wang*, “DFG-DDM: Deep Frequency-guided Denoising Diffusion Model for Remote Sensing Image Dehazing,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), 2025.",
+        "link": "2025 DFG_DDM.pdf",
+        "Code": [
+            "https://github.com/Junjie-LLL/DFG-DDM"
+        ]
+    },
+    {
         "origin": "W. Zhang, Z. Yang, Q. Li, and Q. Wang*, “Semantic-guided Multi-view Stereo Reconstruction for Aerial Image,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), 2025.",
         "link": "2025 FuS_MVSNet.pdf"
     },
@@ -15,7 +22,7 @@
         ]
     },
     {
-        "origin": "Y. Jia, C. Sun, J. Gao, and Q. Wang*, “Few-Shot Remote Sensing scene classification via Parameter-free Attention and Region Matching,” ISPRS Journal of Photogrammetry and Remote Sensing, vol. 227, pp. 265-275, 2025.",
+        "origin": "Y. Jia, C. Sun, J. Gao, and Q. Wang*, “Few-Shot Remote Sensing Scene Classification via Parameter-free Attention and Region Matching,” ISPRS Journal of Photogrammetry and Remote Sensing, vol. 227, pp. 265-275, 2025.",
         "link": "2025 paper007_clean.pdf"
     },
     {
