@@ -1,5 +1,12 @@
 [
     {
+        "origin": "X. Han and Q. Wang, “Compensating for the Incomplete with the Complete: An Efficient Scene Text Detector,” IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT), 2025.",
+        "link": "2025 CIC.pdf",
+        "Code": [
+            "https://github.com/fengmulin/CIC"
+        ]
+    },
+    {
         "origin": "J. Li, K. Chi, Y. Chang, and Q. Wang*, “DFG-DDM: Deep Frequency-guided Denoising Diffusion Model for Remote Sensing Image Dehazing,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), 2025.",
         "link": "2025 DFG_DDM.pdf",
         "Code": [
