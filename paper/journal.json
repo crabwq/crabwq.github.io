@@ -1,6 +1,6 @@
 [
     {
-        "origin": "X. Han and Q. Wang, “Compensating for the Incomplete with the Complete: An Efficient Scene Text Detector,” IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT), 2025.",
+        "origin": "X. Han and Q. Wang*, “Compensating for the Incomplete with the Complete: An Efficient Scene Text Detector,” IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT), 2025.",
         "link": "2025 CIC.pdf",
         "Code": [
             "https://github.com/fengmulin/CIC"
