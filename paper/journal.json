@@ -7,7 +7,7 @@
         ]
     },
     {
-        "origin": "J. Li, K. Chi, Y. Chang, and Q. Wang*, “DFG-DDM: Deep Frequency-guided Denoising Diffusion Model for Remote Sensing Image Dehazing,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), 2025.",
+        "origin": "J. Li, K. Chi, Y. Chang, and Q. Wang*, “DFG-DDM: Deep Frequency-guided Denoising Diffusion Model for Remote Sensing Image Dehazing,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), vol. 63, Art no. 5631912, pp. 1-12, 2025.",
         "link": "2025 DFG_DDM.pdf",
         "Code": [
             "https://github.com/Junjie-LLL/DFG-DDM"
