@@ -1,5 +1,12 @@
 [
     {
+        "origin": "C. Sun, Y. Jia, H. Han, Q. Li, and Q. Wang*, “A Semantic-Guided Framework for Few-Shot Remote Sensing Object Detection,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), 2025.",
+        "link": "2025 file.pdf",
+        "Code": [
+            "https://github.com/wdcjhyy/ST-FSOD"
+        ]
+    },
+    {
         "origin": "X. Han and Q. Wang*, “Compensating for the Incomplete with the Complete: An Efficient Scene Text Detector,” IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT), 2025.",
         "link": "2025 CIC.pdf",
         "Code": [
