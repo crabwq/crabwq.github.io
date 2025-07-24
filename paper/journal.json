@@ -1,5 +1,8 @@
 [
     {
+        "origin": "T. Yang, Q. Zhou, and Q. Wang*, “DIA: Deriving Linguistic Information from Auxiliary Languages for Remote Sensing Image Captioning”, Pattern Recognition (PR), 2025."
+    },
+    {
         "origin": "C. Sun, Y. Jia, H. Han, Q. Li, and Q. Wang*, “A Semantic-Guided Framework for Few-Shot Remote Sensing Object Detection,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), 2025.",
         "link": "2025 file.pdf",
         "Code": [
