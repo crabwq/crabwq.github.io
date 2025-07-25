@@ -1,5 +1,12 @@
 [
     {
+        "origin": "J. Chu, K. Chi, and Q. Wang*, “RMMamba: Randomized Mamba for Remote Sensing Shadow Removal,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), 2025.",
+        "link": "2025 RMMambaTGRS_final.pdf",
+        "Code": [
+            "https://github.com/xgd-cj/RMMamba"
+        ]
+    },
+    {
         "origin": "T. Yang, Q. Zhou, and Q. Wang*, “DIA: Deriving Linguistic Information from Auxiliary Languages for Remote Sensing Image Captioning”, Pattern Recognition (PR), 2025."
     },
     {
