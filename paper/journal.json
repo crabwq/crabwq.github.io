@@ -1,5 +1,9 @@
 [
     {
+        "origin": "W. Zhang, Q. Li, and Q. Wang*, “Refined Cascade Cost Volume for Multi-View Remote Sensing Image Reconstruction,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), 2025.",
+        "link": "2025 TGRS-2024-08724_publication-ready_PDF_file.pdf"
+    },
+    {
         "origin": "J. Chu, K. Chi, and Q. Wang*, “RMMamba: Randomized Mamba for Remote Sensing Shadow Removal,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), 2025.",
         "link": "2025 RMMambaTGRS_final.pdf",
         "Code": [
