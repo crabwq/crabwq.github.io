@@ -3,7 +3,7 @@
         "origin": "J. Zou, W. Zhang, Q. Li, and Q. Wang*, “MOSAIC-Tracker: Mutual-enhanced Occlusion-aware Spatiotemporal Adaptive Identity Consistency Network for Aerial Multi-Object Tracking,” ISPRS Journal of Photogrammetry and Remote Sensing, 2025."
     },
     {
-        "origin": "W. Zhang, Q. Li, and Q. Wang*, “Refined Cascade Cost Volume for Multi-View Remote Sensing Image Reconstruction,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), 2025.",
+        "origin": "W. Zhang, Q. Li, and Q. Wang*, “Refined Cascade Cost Volume for Multi-View Remote Sensing Image Reconstruction,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), vol. 63, Art no. 5636011, pp. 1-11, 2025.",
         "link": "2025 TGRS-2024-08724_publication-ready_PDF_file.pdf"
     },
     {
@@ -17,7 +17,7 @@
         "origin": "T. Yang, Q. Zhou, and Q. Wang*, “DIA: Deriving Linguistic Information from Auxiliary Languages for Remote Sensing Image Captioning”, Pattern Recognition (PR), vol. 171, pp. 112209, 2026."
     },
     {
-        "origin": "C. Sun, Y. Jia, H. Han, Q. Li, and Q. Wang*, “A Semantic-Guided Framework for Few-Shot Remote Sensing Object Detection,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), 2025.",
+        "origin": "C. Sun, Y. Jia, H. Han, Q. Li, and Q. Wang*, “A Semantic-Guided Framework for Few-Shot Remote Sensing Object Detection,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), vol. 63, Art no. 5636313, pp. 1-13, 2025.",
         "link": "2025 file.pdf",
         "Code": [
             "https://github.com/wdcjhyy/ST-FSOD"
