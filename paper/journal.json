@@ -1,5 +1,9 @@
 [
     {
+        "origin": "C. Yang, H. Ma, X. Han, Y. Yuan, and Q. Wang*, “Text-Pass Filter: An Efficient Scene Text Detector,” IEEE Transactions on Multimedia (T-MM), 2025.",
+        "link": "2025 TMM final.pdf"
+    },
+    {
         "origin": "K. Chi, J. Li, J. Chu, Q. Li, and Q. Wang*, “A Diffusion Model with Physically Plausible Gradient for Remote Sensing Shadow Removal,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), 2025.",
         "link": "2025 TGRS.pdf"
     },
