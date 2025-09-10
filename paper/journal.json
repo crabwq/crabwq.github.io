@@ -1,7 +1,10 @@
 [
     {
         "origin": "X. Han, C. Yang, and Q. Wang*, “Pull Pole Points to Text Contour by Magnetism: A Real-Time Scene Text Detector,” IEEE Transactions on Image Processing (T-IP), 2025.",
-        "link":"2025 magnet.pdf"
+        "link":"2025 magnet.pdf",
+        "Code": [
+            "https://github.com/fengmulin/MTD"
+        ]
     },
     {
         "origin": "C. Yang, H. Ma, X. Han, Y. Yuan, and Q. Wang*, “Text-Pass Filter: An Efficient Scene Text Detector,” IEEE Transactions on Multimedia (T-MM), 2025.",
