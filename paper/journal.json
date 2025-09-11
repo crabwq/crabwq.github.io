@@ -92,7 +92,7 @@
         ]
     },
     {
-        "origin": "C. Yang, X. Han, T. Han, H. Han, B. Zhao, and Q. Wang*, “Edge Approximation Text Detector,” IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT), 2025.",
+        "origin": "C. Yang, X. Han, T. Han, H. Han, B. Zhao, and Q. Wang*, “Edge Approximation Text Detector,” IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT), vol. 35, no. 9, pp. 9234-9245, 2025.",
         "link": "2025 TCSVT-final_v1.pdf",
         "Code": [
             "https://github.com/omtcyang/EdgeTD"
