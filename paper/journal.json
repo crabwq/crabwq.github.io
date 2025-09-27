@@ -1,5 +1,9 @@
 [
     {
+        "origin": "Y. Jia, Q. Zhou, J. Gao, and Q. Wang*, “Entity-Guided Attention Twisting Network for Referring Remote Sensing Image Segmentation,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), 2025.",
+        "link":"2025 merge.pdf"
+    },
+    {
         "origin": "B. Zhao, C. Yang, Q. Zhou, and Q. Wang*, “RLI-DM: Robust Layout-Based Iterative Diffusion Model for SAR-to-RGB Image Translation,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), 2025.",
         "link":"2025 main(2).pdf"
     },
