@@ -125,7 +125,7 @@
         ]
     },
     {
-        "origin": "Y. Jia, Q. Zhou, J. Gao, Q. Li, and Q. Wang*, “Like Humans to Few-Shot Learning through Knowledge Permeation of Visual and Language,” IEEE Transactions on Multimedia (T-MM), 2025.",
+        "origin": "Y. Jia, Q. Zhou, J. Gao, Q. Li, and Q. Wang*, “Like Humans to Few-Shot Learning through Knowledge Permeation of Visual and Language,” IEEE Transactions on Multimedia (T-MM), vol. 27, pp. 7905-7916, 2025.",
         "link": "2025 FINAL_VERSION-2.pdf",
         "Code": [
             "https://github.com/mrazhou/BiKop"
