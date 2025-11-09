@@ -1,6 +1,6 @@
 [
     {
-        "origin": "M. Zhang, Y. Jiang, Q. Wang, “Enhancing VMamba for Change Detection via Lightweight Feature Interaction and Selection,” Pattern Recognition (PR), vol. 172, Art no. 112648, pp. 1-11, 2026.",
+        "origin": "M. Zhang, Y. Jiang, Q. Wang*, “Enhancing VMamba for Change Detection via Lightweight Feature Interaction and Selection,” Pattern Recognition (PR), vol. 172, Art no. 112648, pp. 1-11, 2026.",
         "link":"2025 VMI-CD.pdf",
         "Code": [
             "https://github.com/ptdoge/VMI-CD"
