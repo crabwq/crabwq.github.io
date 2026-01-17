@@ -428,6 +428,9 @@
         "link": "2023 Boosting One-Stage License Plate Detector via Self-Constrained Contrastive Aggregation.pdf"
     },
     {
+        "origin": "Z. Yuan, L. Mou, Q. Wang, and X. X. Zhu, “From Easy to Hard: Learning Language-Guided Curriculum for Visual Question Answering on Remote Sensing Data,” IEEE Transactions on Geoscience and Remote Sensing(T-GRS), vol. 60, Art no. 5623111, pp. 1-11, 2022.",
+    },
+    {
         "origin": "M. Zhang, Q. Li, Y. Yuan, and Q. Wang*, \"Edge Neighborhood Contrastive Learning for Building Change Detection,\" IEEE Geoscience and Remote Sensing Letters (GRSL), vol. 20, Art no. 6001305, pp. 1-5, 2023.",
         "link": "2022 Edge Neighborhood Contrastive Learning for Building Change Detection.pdf"
     },
