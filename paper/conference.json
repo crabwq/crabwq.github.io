@@ -1,4 +1,7 @@
-[
+[    
+    {
+        "origin": "Q. Zhou, T. Yang, B. Zhao, H. Zhang, J. Gao, and Q. Wang*, “Inconsistency Biases in Dynamic Data Pruning,” Proc. International Conference on Learning Representations (ICLR), 2026."
+    },
     {
         "origin": "Q. Zhou, L. Yang, Y. Jia, J. Gao, W. Ni, J. Wu, and Q. Wang*, “Reasoning via Implicit Self-supervised Emergence for Instruction Segmentation,” Proc. AAAI Conference on Artificial Intelligence (AAAI), 2026.",
         "link": "2025 RISE_AAAI26.pdf"
