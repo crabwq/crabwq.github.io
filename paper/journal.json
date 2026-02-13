@@ -1,6 +1,10 @@
 [
     {
         "origin": "H. Yao, Z. Yang, Q. Li, and Q. Wang*, “FSNet: Frequency-Spatial Joint Learning for Road Extraction from Remote Sensing Images,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), 2026.",
+        "link":"Semantic_Spatial_Feature_Refine_Network_for_Road_Extraction_from_Remote_Sensing_.pdf"
+    },
+    {
+        "origin": "H. Yao, Z. Yang, Q. Li, and Q. Wang*, “FSNet: Frequency-Spatial Joint Learning for Road Extraction from Remote Sensing Images,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), 2026.",
         "link":"road_TGRS (3).pdf"
     },
     {
