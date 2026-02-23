@@ -1,4 +1,13 @@
-[    
+[ 
+    {
+        "origin": "T. Yang, Q. Zhou, Y. Li, and Q. Wang*, “Discriminative Perception via Anchored Description for Reasoning Segmentation,” Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2026."
+    },
+    {
+        "origin": "Q. Zhou, B. Zhao, T. Yang, H. Zhang, J. Gao, and Q. Wang*, “Batch Loss Score for Dynamic Data Pruning,” Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2026."
+    },
+    {
+        "origin": "Y. Zhang, Q. Zhou, J. Gao, and Q. Wang*, “Beyond Prompt Degradation: Prototype-guided Dual-pool Prompting for Incremental Object Detection,” Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2026."
+    },
     {
         "origin": "Q. Zhou, T. Yang, B. Zhao, H. Zhang, J. Gao, and Q. Wang*, “Inconsistency Biases in Dynamic Data Pruning,” Proc. International Conference on Learning Representations (ICLR), 2026."
     },
