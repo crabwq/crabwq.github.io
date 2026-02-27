@@ -1,5 +1,8 @@
 [
     {
+        "origin": "Q. Wang*, Q. Zhou, T. Yang, J. Gao, W. Ni, and J. Wu. “A Benchmark for Multi-Lingual Vision-Language Learning in Remote Sensing Image Captioning,” Pattern Recognition (PR), 2026."
+    },
+    {
         "origin": "Z. Yang, H. Yao, Q. Li, W. Ni, J. Wu, and Q. Wang*, “Semantic-Spatial Feature Refinement Network for Road Extraction from Remote Sensing Images,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), 2026.",
         "link":"Semantic_Spatial_Feature_Refine_Network_for_Road_Extraction_from_Remote_Sensing_Images__Final.pdf",
         "Code": [
