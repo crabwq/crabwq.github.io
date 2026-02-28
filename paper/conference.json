@@ -9,7 +9,11 @@
         "origin": "Y. Zhang, Q. Zhou, J. Gao, and Q. Wang*, “Beyond Prompt Degradation: Prototype-guided Dual-pool Prompting for Incremental Object Detection,” Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2026."
     },
     {
-        "origin": "Q. Zhou, T. Yang, B. Zhao, H. Zhang, J. Gao, and Q. Wang*, “Inconsistency Biases in Dynamic Data Pruning,” Proc. International Conference on Learning Representations (ICLR), 2026."
+        "origin": "Q. Zhou, T. Yang, B. Zhao, H. Zhang, J. Gao, and Q. Wang*, “Inconsistency Biases in Dynamic Data Pruning,” Proc. International Conference on Learning Representations (ICLR), 2026.",
+        "link": "RePB.pdf",
+        "Code": [
+            "https://github.com/mrazhou/RePB"
+        ]
     },
     {
         "origin": "Q. Zhou, L. Yang, Y. Jia, J. Gao, W. Ni, J. Wu, and Q. Wang*, “Reasoning via Implicit Self-supervised Emergence for Instruction Segmentation,” Proc. AAAI Conference on Artificial Intelligence (AAAI), 2026.",
