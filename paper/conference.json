@@ -7,7 +7,10 @@
     },
     {
         "origin": "Y. Zhang, Q. Zhou, J. Gao, and Q. Wang*, “Beyond Prompt Degradation: Prototype-guided Dual-pool Prompting for Incremental Object Detection,” Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2026.",
-        "link": "CVPR_PDP.pdf"
+        "link": "CVPR_PDP.pdf",
+        "Code": [
+            "https://github.com/zyt95579/PDP_IOD/tree/main"
+        ]
     },
     {
         "origin": "Q. Zhou, T. Yang, B. Zhao, H. Zhang, J. Gao, and Q. Wang*, “Inconsistency Biases in Dynamic Data Pruning,” Proc. International Conference on Learning Representations (ICLR), 2026.",
