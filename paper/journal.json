@@ -214,6 +214,9 @@
         ]
     },
     {
+        "origin": "X. Han, J. Gao, Y. Yuan, and Q. Wang*, “Text Kernel Calculation for Arbitrary Shape Text Detection,” The Visual Computer, vol. 40, pp. 2641–2654, 2024."
+    },
+    {
         "origin": "C. Zhang, J. Xiao, C. Yang, J. Zhou, K.-M. Lam, and Q. Wang, “Integrally Mixing Pyramid Representations for Anchor-Free Object Detection in Aerial Imagery,” IEEE Geoscience and Remote Sensing Letters, vol. 21, Art no. 6009905, pp. 1-5, 2024.",
         "link": "2024 IMPR.pdf"
     },
