@@ -1,5 +1,8 @@
 [
     {
+        "origin": "Z. Yang, H. Yao, L. Tian, S. Liu, W. Ni, J. Wu, Q. Li, and Q. Wang*, “Causal-Aware Feature Refinement with Dual Encoders for Remote Sensing Visual Question Answering,” IEEE Transactions on Multimedia (T-MM), 2026."
+    },
+    {
         "origin": "K. Chi, J. Chu, J. Li, Q. Li, and Q. Wang*, “Remote Sensing Imagery Shadow Detection via Physical Constraint,” Pattern Recognition (PR), vol. 179, pp. 113535, 2026.",
         "link":"2026 Remote sensing imagery shadow detection via physical constraint.pdf"
     },
