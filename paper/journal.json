@@ -1,5 +1,12 @@
 [
     {
+        "origin": "Z. Yang, H. Yao, J. Wu, L. Tian, Q. Li, W. Ni, and Q. Wang*, “Spatial-Semantic Alignment and Change-aware Network for Remote Sensing Image Change Captioning,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), 2026.",
+        "link":"2026 change_caption_TGRS___Final___Copy.pdf",
+        "Code": [
+            "https://github.com/CVer-Yang/SACNet"
+        ]
+    },
+    {
         "origin": "Z. Yang, H. Yao, L. Tian, S. Liu, W. Ni, J. Wu, Q. Li, and Q. Wang*, “Causal-Aware Feature Refinement with Dual Encoders for Remote Sensing Visual Question Answering,” IEEE Transactions on Multimedia (T-MM), 2026.",
         "link":"2026 ChatRS_VQA_TMM__v2.pdf",
         "Code": [
