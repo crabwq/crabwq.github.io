@@ -613,7 +613,13 @@
     },
     {
         "origin": "Q. Wang, J. Gao, W. Lin, and X. Li, \"NWPU-Crowd: A Large-Scale Benchmark for Crowd Counting and Localization,\" IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI), vol. 43, no. 6, pp. 2141-2149, 2021.",
-        "link": "2020 NWPU-Crowd A Large-Scale Benchmark for Crowd Counting and Localization.pdf"
+        "link": "2020 NWPU-Crowd A Large-Scale Benchmark for Crowd Counting and Localization.pdf",
+        "Code": [
+            "https://gjy3035.github.io/NWPU-Crowd-Sample-Code/"
+        ],
+        "Dataset": [
+            "https://gjy3035.github.io/NWPU-Crowd-Sample-Code/"
+        ]
     },
     {
         "origin": "W. Huang, Q. Wang*, and X. Li, \"Denoising Based Multi-Scale Feature Fusion for Remote Sensing Image Captioning,\" IEEE Geoscience and Remote Sensing Letters (GRSL), vol. 18, no. 3, pp. 436-440, 2021.",
