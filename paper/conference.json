@@ -1,5 +1,8 @@
 [ 
     {
+        "origin": "Q. Zhou, X. Gong, W. Wu, Y. Jia, J. Gao, and Q. Wang*, “Relaxed Bipartite Matching with Structural Inertia for Efficient Diffusion,” Proc. ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2026."
+    },
+    {
         "origin": "Q. Zhou, H. Zhang, T. Yang, J. Gao, and Q. Wang*, “Statistically Optimal Scaling for Token Merging in Transformers,” Proc. International Conference on Machine Learning (ICML), 2026."
     },
     {
