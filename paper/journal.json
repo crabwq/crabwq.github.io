@@ -1,5 +1,8 @@
 [
     {
+        "origin": "Y Zhang, Q. Zhou, J. Gao, and Q. Wang*, "STAR-IOD: Scale-decoupled Topology Alignment with Pseudo-label Refinement for Remote Sensing Incremental Object Detection,"ISPRS Journal of Photogrammetry and Remote Sensing, 2026."
+    },
+    {
         "origin": "Z. Yang, H. Yao, J. Wu, L. Tian, Q. Li, W. Ni, and Q. Wang*, “Spatial-Semantic Alignment and Change-aware Network for Remote Sensing Image Change Captioning,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), 2026.",
         "link":"2026 change_caption_TGRS___Final___Copy.pdf",
         "Code": [
