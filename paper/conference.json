@@ -6,7 +6,11 @@
         "origin": "Q. Zhou, H. Zhang, T. Yang, J. Gao, and Q. Wang*, “Statistically Optimal Scaling for Token Merging in Transformers,” Proc. International Conference on Machine Learning (ICML), 2026."
     },
     {
-        "origin": "B. Zhao, Q. Zhou, Y. Wang, C. Yang, and Q. Wang*, “σ: Sigmoid Modulation for Ultra High Resolution Diffusion,” Proc. International Conference on Machine Learning (ICML), 2026."
+        "origin": "B. Zhao, Q. Zhou, Y. Wang, C. Yang, and Q. Wang*, “σ: Sigmoid Modulation for Ultra High Resolution Diffusion,” Proc. International Conference on Machine Learning (ICML), 2026.",
+        "link": "2026 SigMa.pdf",
+        "Code": [
+            "https://github.com/bxuanz/SigMa"
+        ]
     },
     {
         "origin": "T. Yang, Q. Zhou, Y. Li, and Q. Wang*, “Discriminative Perception via Anchored Description for Reasoning Segmentation,” Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2026.",
