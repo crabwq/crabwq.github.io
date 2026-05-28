@@ -1,5 +1,12 @@
 [
     {
+        "origin": "Q. Zhou, J. Wu, Y. Jia, S. Zhou, J. Gao, W. Ni, and Q. Wang*, “Weakly Paired Remote Sensing Change Captioning with Large Multimodal Model,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), 2026.",
+        "link":"2026 WeCap.pdf",
+        "Code": [
+            "https://github.com/mrazhou/WeCap"
+        ]
+    },
+    {
         "origin": "Y. Zhang, Q. Zhou, J. Gao, and Q. Wang*, “STAR-IOD: Scale-decoupled Topology Alignment with Pseudo-label Refinement for Remote Sensing Incremental Object Detection,” ISPRS Journal of Photogrammetry and Remote Sensing, vol. 238, pp. 650-663, 2026.",
         "link":"2026 STAR-IOD.pdf",
         "Code": [
