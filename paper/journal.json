@@ -1,6 +1,6 @@
 [
     {
-        "origin": "Z. Yang, H. Yao, L. Tian, X. Zhao, Q. Li, and Q. Wang*, “Intra- and Cross-Scale Feature Interaction Network for Referring Remote Sensing Image Segmentation”, IEEE Transactions on Geoscience and Remote Sensing (T-GRS), 2026.",
+        "origin": "Z. Yang, H. Yao, L. Tian, X. Zhao, Q. Li, and Q. Wang*, “Intra- and Cross-Scale Feature Interaction Network for Referring Remote Sensing Image Segmentation,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), 2026.",
         "link":"2026 refer.pdf",
         "Code": [
             "https://github.com/CVer-Yang/NWPU-Refer"
