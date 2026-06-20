@@ -7,7 +7,7 @@
         ]
     },
     {
-        "origin": "K. Liu, J. Zou, W. Zhang, Q. Li, and Q. Wang*, “RAPTOR: Rotational Adaptive Parallel Topology for Object Detection in Remote Sensing,” Pattern Recognition (PR), vol. 180 Part C, Art no. 114269, 2026."
+        "origin": "K. Liu, J. Zou, W. Zhang, Q. Li, and Q. Wang*, “RAPTOR: Rotational Adaptive Parallel Topology for Object Detection in Remote Sensing,” Pattern Recognition (PR), vol. 180 Part C, Art no. 114269, 2026.",
         "link":"2026 RAPTOR.pdf",
         "Code": [
             "https://github.com/KeLiu-y/RAPTOR"
