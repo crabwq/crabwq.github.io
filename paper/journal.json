@@ -1,5 +1,8 @@
 [
     {
+        "origin": "W. Jing, Q. Li, and Q. Wang*, “Heterogeneous Change Detection via Frequency Domain Interaction and Statistical Style Embedding,” Pattern Recognition (PR), 2026."
+    },
+    {
         "origin": "W. Zhang, Y. Wu, S. Yu, S. Li, Q. Li, and Q. Wang*, “GPR-MVS: Global Propagation Regularization for Large Scale Multi-view Stereo,” IEEE Transactions on Geoscience and Remote Sensing (T-GRS), 2026.",
         "link":"2026 GPR-MVS.pdf"
     },
