@@ -1,5 +1,17 @@
 [ 
     {
+        "origin": "B. Zhao, Q. Zhou, C. Yang, J. Gao, and Q. Wang*, “SHARP: Spectrum-aware Highly-dynamic Adaptation for Resolution Promotion in Remote Sensing Synthesis,” Proc. ACM International Conference on Multimedia (ACM MM), 2026."
+    },
+    {
+        "origin": "Z. Liye, H. Bai, W. Jing, and Q. Wang*, “Are We Pruning the Right Tokens? Refining Text-Guided Relevance for Visual Token Pruning,” Proc. ACM International Conference on Multimedia (ACM MM), 2026."
+    },
+    {
+        "origin": "W. Zhang, S. Yu, S. Gong, Q. Zhang, Q. Li, and Q. Wang*, “HiCo-GS: Hierarchical Context Aggregation and Geometric Consistency for Octree Gaussian Splatting,” Proc. ACM International Conference on Multimedia (ACM MM), 2026."
+    },
+    {
+        "origin": "W. Zhang, Y. Wu, S. Li, and Q. Wang*, “VGGT-Align: Bridging Local Reconstruction and Global Consistency for Long-Sequence 3D Reconstruction,” Proc. ACM International Conference on Multimedia (ACM MM), 2026."
+    },
+    {
         "origin": "Q. Zhou, X. Gong, W. Wu, Y. Jia, J. Gao, and Q. Wang*, “Relaxed Bipartite Matching with Structural Inertia for Efficient Diffusion,” Proc. ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2026.",
         "link": "2026 ReMatch.pdf",
         "Code": [
