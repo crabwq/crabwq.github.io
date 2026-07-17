@@ -1,5 +1,8 @@
 [
     {
+        "origin": "J. Zou, K. Liu, W. Zhang, Q. Li, and Q. Wang*, “ADAPT-Tracker: Adaptive Dynamic Perception and Trajectory-Consistent Network for Aerial Multi-Object Tracking,” ISPRS Journal of Photogrammetry and Remote Sensing, 2026."
+    },
+    {
         "origin": "W. Jing, Q. Li, and Q. Wang*, “Heterogeneous Change Detection via Frequency Domain Interaction and Statistical Style Embedding,” Pattern Recognition (PR), vol. 180, Part D, Art no. 114393, 2026.",
         "link":"2026 FreqHete.pdf",
         "Code": [
