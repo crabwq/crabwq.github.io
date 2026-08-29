@@ -1,6 +1,10 @@
 [
     {
-        "origin": "Y. Jiang, C. Yang, J. Li, C. Zhang, Z. Yang and Q. Wang*, “CityFly: Signmark-guided Autonomous UAV Navigation with Vision Language Model,” Pattern Recognition (PR), 2026."
+        "origin": "Y. Jiang, C. Yang, J. Li, C. Zhang, Z. Yang and Q. Wang*, “CityFly: Signmark-guided Autonomous UAV Navigation with Vision Language Model”, Pattern Recognition (PR), vol. 181, Art no. 114651, pp. 1-12, 2027.",
+        "link":"2026 CityFly.pdf",
+        "Dataset": [
+            "https://huggingface.co/datasets/sososogoodman/lovening/tree/main"
+        ]
     },
     {
         "origin": "J. Zou, K. Liu, W. Zhang, Q. Li, and Q. Wang*, “ADAPT-Tracker: Adaptive Dynamic Perception and Trajectory-Consistent Network for Aerial Multi-Object Tracking,” ISPRS Journal of Photogrammetry and Remote Sensing, vol. 240, pp. 302-319, 2026.",
