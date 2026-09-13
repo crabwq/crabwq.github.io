@@ -19,7 +19,7 @@
         ]
     },
     {
-        "origin": "Q. Zhou, H. Zhang, T. Yang, J. Gao, and Q. Wang*, “Statistically Optimal Scaling for Token Merging in Transformers,” Proc. International Conference on Machine Learning (ICML), 2026.",
+        "origin": "Q. Zhou, H. Zhang, T. Yang, J. Gao, and Q. Wang*, “Statistically Calibrated Scaling for Token Merging in Transformers,” Proc. International Conference on Machine Learning (ICML), 2026.",
         "link": "2026 sqrt_ICML.pdf",
         "Code": [
             "https://github.com/mrazhou/sqrt_r"
