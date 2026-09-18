@@ -1,6 +1,10 @@
 [
     {
-        "origin": "B. Zhao, C. Yang, Q. Zhou, and Q. Wang*, “StructDiff: A Training-Free Framework for Precise Structural Control in Remote Sensing Image Synthesis,” IEEE Transactions on Multimedia (T-MM), 2026."
+        "origin": "B. Zhao, C. Yang, Q. Zhou, and Q. Wang*, “StructDiff: A Training-Free Framework for Precise Structural Control in Remote Sensing Image Synthesis,” IEEE Transactions on Multimedia (T-MM), 2026.",
+        "link":"2026 StructDiff.pdf",
+        "Code": [
+            "https://github.com/bxuanz/StructDiff"
+        ]
     },
     {
         "origin": "Y. Jiang, C. Yang, J. Li, C. Zhang, Z. Yang and Q. Wang*, “CityFly: Signmark-guided Autonomous UAV Navigation with Vision Language Model,” Pattern Recognition (PR), vol. 181, Art no. 114651, pp. 1-12, 2027.",
