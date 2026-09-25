@@ -1,5 +1,8 @@
 [
     {
+        "origin": "Q. Zhou, J. Huang, J. Gao, and Q. Wang*, “Text-only Synthesis for Zero-shot Visual Captioning,” Pattern Recognition (PR), 2026."
+    },
+    {
         "origin": "B. Zhao, C. Yang, Q. Zhou, and Q. Wang*, “StructDiff: A Training-Free Framework for Precise Structural Control in Remote Sensing Image Synthesis,” IEEE Transactions on Multimedia (T-MM), 2026.",
         "link":"2026 StructDiff.pdf",
         "Code": [
