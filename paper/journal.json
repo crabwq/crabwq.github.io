@@ -1,6 +1,10 @@
 [
     {
-        "origin": "Q. Zhou, J. Huang, J. Gao, and Q. Wang*, “Text-only Synthesis for Zero-shot Visual Captioning,” Pattern Recognition (PR), 2026."
+        "origin": "Q. Zhou, J. Huang, J. Gao, and Q. Wang*, “Text-only Synthesis for Zero-shot Visual Captioning,” Pattern Recognition (PR), vol. 183, Art no.114985, pp. 1-11, 2027.",
+        "link":"2026 ToCa.pdf",
+        "Code": [
+            "https://github.com/mrazhou/ToCa"
+        ]
     },
     {
         "origin": "B. Zhao, C. Yang, Q. Zhou, and Q. Wang*, “StructDiff: A Training-Free Framework for Precise Structural Control in Remote Sensing Image Synthesis,” IEEE Transactions on Multimedia (T-MM), 2026.",
