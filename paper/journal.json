@@ -1,5 +1,8 @@
 [
     {
+        "origin": "W. Jing, T. Yan, W. Ni, J. Wu, and Q. Wang*, “GOLD: Guided Online Learning for Distillation in Heterogeneous Remote Sensing Image Change Detection,” IEEE Transactions on Multimedia (T-MM), 2026."
+    },
+    {
         "origin": "Q. Zhou, J. Huang, J. Gao, and Q. Wang*, “Text-only Synthesis for Zero-shot Visual Captioning,” Pattern Recognition (PR), vol. 183, Art no.114985, pp. 1-11, 2027.",
         "link":"2026 ToCa.pdf",
         "Code": [
