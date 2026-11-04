@@ -1,5 +1,12 @@
 [
     {
+        "origin": "Z. Wang, W. Zhang, J. Zhou and Q. Wang*, “VGGT-Seg: Visual Geometry Grounded Transformer for Sparse Multi-view 3D Instance Segmentation,” IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT), 2026.",
+        "link":"2026 VGGT_Seg_TCSVT.pdf",
+        "Code": [
+            "https://github.com/EthanW-coder/VGGT-Seg"
+        ]
+    },
+    {
         "origin": "Q. Wang, X. Han, C. Yang, and J. Gao, “Exploring the Distinction Between Text and Similar Patterns: An Efficient Scene Text Detector,” IEEE Transactions on Systems, Man and Cybernetics: Systems (T-SMCS), 2026."
     },
     {
